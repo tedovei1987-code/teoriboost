@@ -190,9 +190,11 @@ async function sendMalinMessage() {
       headers: {
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({
-        message: userMessage,
-      }),
+     body: JSON.stringify({
+  message: userMessage,
+  weakCategories: weakCategories.map((item) => item.category),
+  totalMistakes,
+}),
     });
 
     const data = await response.json();

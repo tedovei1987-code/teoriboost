@@ -47,6 +47,8 @@ export default function TestPage() {
   const [difficultyLevel, setDifficultyLevel] =
     useState<DifficultyLevel>("medium");
   const [earnedXp, setEarnedXp] = useState<number[]>([]);
+  const [aiExplanation, setAiExplanation] = useState("");
+  const [aiExplanationLoading, setAiExplanationLoading] = useState(false);
 
   const [newAchievements, setNewAchievements] = useState<
     AchievementRule[]
@@ -394,7 +396,59 @@ setLoading(false);
       await saveWrongAnswer(question, answer);
     }
   }
+async function explainWrongAnswer() {
+  if (!question || !selected) return;
 
+  setAiExplanationLoading(true);
+  setAiExplanation("");
+
+  try {
+    const response = await fetch("/api/ai-coach", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+      message: `
+Dette er et teoriprøve trafikkspørsmål for bil klasse B.
+Forklar hvorfor dette svaret er feil.
+
+Spørsmål:
+${question.question}
+
+Svaralternativer:
+${question.answers.join(", ")}
+
+Brukeren svarte:
+${selected}
+
+Riktig svar:
+${question.correct_answer}
+
+Kategori:
+${question.category ?? "Ukjent"}
+
+Forklar kort, enkelt og pedagogisk på norsk.
+        `,
+      }),
+    });
+
+    const data = await response.json();
+
+    if (!response.ok) {
+      throw new Error(data.error || "AI-feil");
+    }
+
+    setAiExplanation(data.reply);
+  } catch (error) {
+    console.log(error);
+    setAiExplanation(
+      "Malin klarte ikke forklare akkurat nå 😭 Prøv igjen om litt."
+    );
+  } finally {
+    setAiExplanationLoading(false);
+  }
+}
   async function nextQuestion() {
   if (
     activePlan === "free" &&
@@ -726,7 +780,29 @@ return;
               );
             })}
           </div>
+{selected && selected !== question.correct_answer && (
+  <div className="mt-6 rounded-2xl border border-[#FF4D6D]/20 bg-[#FF4D6D]/10 p-5">
+    <p className="font-bold text-[#FF8FA3]">
+      Feil svar
+    </p>
 
+    <button
+      onClick={explainWrongAnswer}
+      disabled={aiExplanationLoading}
+      className="mt-4 rounded-2xl bg-[#3EE6B0] px-5 py-3 font-black text-[#03120F] disabled:opacity-50"
+    >
+      {aiExplanationLoading
+        ? "Malin forklarer..."
+        : "🤖 Forklar hvorfor"}
+    </button>
+
+    {aiExplanation && (
+      <div className="mt-4 rounded-2xl border border-white/10 bg-black/20 p-4 text-white/80">
+        {aiExplanation}
+      </div>
+    )}
+  </div>
+)}
           {selected && (
             <button
               onClick={nextQuestion}
