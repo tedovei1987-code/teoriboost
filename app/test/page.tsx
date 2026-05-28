@@ -256,16 +256,18 @@ export default function TestPage() {
     setWeakFocus(weakCategories);
     setAdaptiveMode(weakCategories.length > 0);
 
-    const finalQuestions =
-      weakCategories.length > 0
-        ? buildAdaptiveQuestionSet(
-            questionData ?? [],
-            weakCategories
-          )
-        : shuffleArray(questionData ?? []).slice(
-            0,
-            TEST_QUESTION_LIMIT
-          );
+    const typedQuestions = (questionData ?? []) as Question[];
+
+const finalQuestions =
+  weakCategories.length > 0
+    ? buildAdaptiveQuestionSet(
+        typedQuestions,
+        weakCategories
+      )
+    : shuffleArray(typedQuestions).slice(
+        0,
+        TEST_QUESTION_LIMIT
+      );
 
     const shuffledAnswerOptions = finalQuestions.reduce<Record<string, string[]>>(
   (acc, item) => {

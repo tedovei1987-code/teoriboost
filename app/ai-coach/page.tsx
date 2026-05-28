@@ -166,27 +166,53 @@ const [malinReplies, setMalinReplies] = useState<string[]>([]);
     ];
   }
 
-  function sendMalinMessage() {
+async function sendMalinMessage() {
   if (!malinMessage.trim()) return;
-
-  if (!hasAccess && messageCount >= 3) {
-    window.location.href = "/pricing?reason=malin-limit";
-    return;
-  }
 
   if (messageCount >= 3) {
     window.location.href = "/pricing?reason=malin-limit";
     return;
   }
 
-  setMessageCount((prev) => prev + 1);
+  const userMessage = malinMessage;
 
   setMalinReplies((prev) => [
     ...prev,
-    `Malin: Jeg skjønner. Dette handler ofte om å lese situasjonen rolig og velge det tryggeste alternativet. På teoriprøven bør du se etter skilt, vikeplikt, plassering og hva som gir minst risiko.`,
+    `Du: ${userMessage}`,
   ]);
 
   setMalinMessage("");
+  setMessageCount((prev) => prev + 1);
+
+  try {
+    const response = await fetch("/api/ai-coach", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        message: userMessage,
+      }),
+    });
+
+    const data = await response.json();
+
+    if (!response.ok) {
+      throw new Error(data.error || "AI-feil");
+    }
+
+    setMalinReplies((prev) => [
+      ...prev,
+      `Malin: ${data.reply}`,
+    ]);
+  } catch (error) {
+    console.log(error);
+
+    setMalinReplies((prev) => [
+      ...prev,
+      "Malin: Jeg fikk litt tekniske problemer 😭 Prøv igjen om et øyeblikk.",
+    ]);
+  }
 }
   if (loading) {
     return (
