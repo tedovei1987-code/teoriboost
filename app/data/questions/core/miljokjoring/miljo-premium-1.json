@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du kjører i tett trafikk med mange stopp. Hva kan bidra til lavere drivstofforbruk?",
+    "answers": [
+      "Jevn kjøring og god planlegging",
+      "Kraftig akselerasjon mellom hvert stopp",
+      "Å holde høyt turtall hele tiden"
+    ],
+    "correct_answer": "Jevn kjøring og god planlegging",
+    "category": "Miljø",
+    "difficulty": 2,
+    "explanation": "Jevn kjøring reduserer både drivstofforbruk og slitasje.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva kan være en konsekvens av unødvendig tomgangskjøring?",
+    "answers": [
+      "Økt drivstofforbruk og mer utslipp",
+      "Bedre drivstofføkonomi",
+      "Kortere bremselengde"
+    ],
+    "correct_answer": "Økt drivstofforbruk og mer utslipp",
+    "category": "Miljø",
+    "difficulty": 1,
+    "explanation": "Tomgangskjøring forurenser unødvendig og bruker drivstoff uten nytte.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser at trafikken foran stopper opp. Hva er mest miljøvennlig?",
+    "answers": [
+      "Slippe opp gassen tidlig og rulle rolig frem",
+      "Akselerere helt frem og bremse hardt",
+      "Holde høy fart til siste øyeblikk"
+    ],
+    "correct_answer": "Slippe opp gassen tidlig og rulle rolig frem",
+    "category": "Miljø",
+    "difficulty": 2,
+    "explanation": "Tidlig tilpasning gir jevnere kjøring og lavere forbruk.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvordan påvirker høy fart drivstofforbruket?",
+    "answers": [
+      "Drivstofforbruket øker",
+      "Drivstofforbruket blir lavere",
+      "Farten påvirker ikke forbruket"
+    ],
+    "correct_answer": "Drivstofforbruket øker",
+    "category": "Miljø",
+    "difficulty": 1,
+    "explanation": "Høy fart gir økt luftmotstand og høyere drivstofforbruk.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører ned en lang bakke. Hva er ofte mest økonomisk?",
+    "answers": [
+      "Bruke motorbrems og tilpasse farten",
+      "Sette bilen i fri hele bakken",
+      "Bremse hardt flere ganger"
+    ],
+    "correct_answer": "Bruke motorbrems og tilpasse farten",
+    "category": "Miljø",
+    "difficulty": 2,
+    "explanation": "Motorbrems gir bedre kontroll og kan redusere drivstofforbruket.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva kan feil lufttrykk i dekkene føre til?",
+    "answers": [
+      "Økt drivstofforbruk",
+      "Bedre veigrep på alle underlag",
+      "Kortere bremselengde"
+    ],
+    "correct_answer": "Økt drivstofforbruk",
+    "category": "Miljø",
+    "difficulty": 2,
+    "explanation": "Feil lufttrykk øker rullemotstanden og drivstofforbruket.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du planlegger kjøringen langt frem i trafikken. Hva kan dette bidra til?",
+    "answers": [
+      "Jevnere kjøring og lavere drivstofforbruk",
+      "Flere kraftige oppbremsinger",
+      "Høyere risiko for kollisjon"
+    ],
+    "correct_answer": "Jevnere kjøring og lavere drivstofforbruk",
+    "category": "Miljø",
+    "difficulty": 2,
+    "explanation": "God trafikkflyt gir mindre bremsing og akselerasjon.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal starte kjøringen på en kald vintermorgen. Hva er mest miljøvennlig?",
+    "answers": [
+      "Kjøre rolig i gang uten lang tomgang",
+      "La motoren gå lenge på tomgang før kjøring",
+      "Gi full gass med kald motor"
+    ],
+    "correct_answer": "Kjøre rolig i gang uten lang tomgang",
+    "category": "Miljø",
+    "difficulty": 2,
+    "explanation": "Moderne biler trenger vanligvis ikke lang oppvarming på tomgang.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

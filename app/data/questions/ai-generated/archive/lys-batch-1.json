@@ -1,0 +1,3002 @@
+[
+  {
+    "question": "Hva er riktig lysbruk ved nærlys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+      "Bare bruke lys når det er helt mørkt",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved nærlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med fjernlys. Hva bør du gjøre?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved fjernlys",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved fjernlys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved fjernlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om tåkelys?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved tåkelys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved tåkelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved parklys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved parklys",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parklys",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved parklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om nødblink. Hva er riktig?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved nødblink gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved bremselys?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved bremselys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved bremselys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved bremselys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med blinklys. Hva bør du gjøre?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved blinklys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blinklys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved blinklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om ryggelys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved ryggelys",
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved ryggelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved ryggelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved mørkekjøring?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved mørkekjøring gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om tunnel. Hva er riktig?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+      "Slå av lysene hvis du blir blendet",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved tunnel gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved møtende trafikk?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved møtende trafikk gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med kjøring i tåke. Hva bør du gjøre?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved kjøring i tåke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om regnvær?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved regnvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved snøvær?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved snøvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om blending. Hva er riktig?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved blending",
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blending",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved blending gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved parkert bil i mørke?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved parkert bil i mørke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med lys ved stans. Hva bør du gjøre?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved lys ved stans"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved lys ved stans gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om lys på dagtid?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved lys på dagtid gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved feil på lyspære?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved feil på lyspære gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lysbruk i kø. Hva er riktig?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved lysbruk i kø gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved nærlys?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved nærlys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved nærlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med fjernlys. Hva bør du gjøre?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved fjernlys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved fjernlys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved fjernlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om tåkelys?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved tåkelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved parklys?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved parklys",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parklys",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved parklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om nødblink. Hva er riktig?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved nødblink gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved bremselys?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved bremselys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved bremselys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved bremselys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med blinklys. Hva bør du gjøre?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved blinklys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blinklys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved blinklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om ryggelys?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved ryggelys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved ryggelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved ryggelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved mørkekjøring?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved mørkekjøring gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om tunnel. Hva er riktig?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved tunnel gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved møtende trafikk?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved møtende trafikk gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med kjøring i tåke. Hva bør du gjøre?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved kjøring i tåke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om regnvær?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved regnvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved snøvær?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved snøvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om blending. Hva er riktig?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved blending",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blending",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved blending gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved parkert bil i mørke?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved parkert bil i mørke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med lys ved stans. Hva bør du gjøre?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved lys ved stans gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om lys på dagtid?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved lys på dagtid gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved feil på lyspære?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved feil på lyspære gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lysbruk i kø. Hva er riktig?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved lysbruk i kø gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved nærlys?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved nærlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med fjernlys. Hva bør du gjøre?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved fjernlys",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved fjernlys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved fjernlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om tåkelys?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved tåkelys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved tåkelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved parklys?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved parklys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parklys",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved parklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om nødblink. Hva er riktig?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved nødblink"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved nødblink gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved bremselys?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved bremselys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved bremselys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved bremselys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med blinklys. Hva bør du gjøre?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved blinklys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blinklys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved blinklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om ryggelys?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved ryggelys",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved ryggelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved ryggelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved mørkekjøring?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved mørkekjøring gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om tunnel. Hva er riktig?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+      "Bare bruke lys når det er helt mørkt",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved tunnel gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved møtende trafikk?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+      "Bare bruke lys når det er helt mørkt",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved møtende trafikk gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med kjøring i tåke. Hva bør du gjøre?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved kjøring i tåke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om regnvær?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved regnvær"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved regnvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved snøvær?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved snøvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om blending. Hva er riktig?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved blending",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blending",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved blending gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved parkert bil i mørke?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved parkert bil i mørke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med lys ved stans. Hva bør du gjøre?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved lys ved stans gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om lys på dagtid?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved lys på dagtid gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved feil på lyspære?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved feil på lyspære gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lysbruk i kø. Hva er riktig?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved lysbruk i kø gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved nærlys?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved nærlys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved nærlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med fjernlys. Hva bør du gjøre?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved fjernlys",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved fjernlys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved fjernlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om tåkelys?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved tåkelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved parklys?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved parklys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parklys",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved parklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om nødblink. Hva er riktig?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved nødblink gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved bremselys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved bremselys",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved bremselys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved bremselys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med blinklys. Hva bør du gjøre?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved blinklys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blinklys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved blinklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om ryggelys?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved ryggelys",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved ryggelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved ryggelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved mørkekjøring?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved mørkekjøring gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om tunnel. Hva er riktig?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved tunnel"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved tunnel gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved møtende trafikk?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved møtende trafikk gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med kjøring i tåke. Hva bør du gjøre?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved kjøring i tåke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om regnvær?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved regnvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved snøvær?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved snøvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om blending. Hva er riktig?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved blending"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blending",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved blending gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved parkert bil i mørke?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved parkert bil i mørke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med lys ved stans. Hva bør du gjøre?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved lys ved stans gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om lys på dagtid?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved lys på dagtid gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved feil på lyspære?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved feil på lyspære gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lysbruk i kø. Hva er riktig?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved lysbruk i kø gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved nærlys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+      "Bare bruke lys når det er helt mørkt",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved nærlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med fjernlys. Hva bør du gjøre?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved fjernlys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved fjernlys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved fjernlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om tåkelys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved tåkelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved parklys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved parklys",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parklys",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved parklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om nødblink. Hva er riktig?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved nødblink gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved bremselys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved bremselys",
+      "Slå av lysene hvis du blir blendet",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved bremselys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved bremselys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med blinklys. Hva bør du gjøre?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved blinklys",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blinklys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved blinklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om ryggelys?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved ryggelys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved ryggelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved ryggelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved mørkekjøring?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring",
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved mørkekjøring gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om tunnel. Hva er riktig?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved tunnel gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved møtende trafikk?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved møtende trafikk gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med kjøring i tåke. Hva bør du gjøre?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved kjøring i tåke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om regnvær?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved regnvær"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved regnvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved snøvær?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved snøvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om blending. Hva er riktig?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved blending"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blending",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved blending gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved parkert bil i mørke?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved parkert bil i mørke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med lys ved stans. Hva bør du gjøre?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+      "Slå av lysene hvis du blir blendet",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved lys ved stans gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om lys på dagtid?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved lys på dagtid gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved feil på lyspære?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved feil på lyspære gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lysbruk i kø. Hva er riktig?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved lysbruk i kø gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved nærlys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+      "Slå av lysene hvis du blir blendet",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved nærlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med fjernlys. Hva bør du gjøre?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved fjernlys",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved fjernlys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved fjernlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om tåkelys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved tåkelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved parklys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved parklys",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parklys",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved parklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om nødblink. Hva er riktig?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved nødblink gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved bremselys?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved bremselys",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved bremselys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved bremselys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med blinklys. Hva bør du gjøre?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved blinklys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blinklys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved blinklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om ryggelys?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved ryggelys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved ryggelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved ryggelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved mørkekjøring?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved mørkekjøring gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om tunnel. Hva er riktig?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved tunnel gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved møtende trafikk?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved møtende trafikk gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med kjøring i tåke. Hva bør du gjøre?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved kjøring i tåke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om regnvær?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved regnvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved snøvær?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+      "Slå av lysene hvis du blir blendet",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved snøvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om blending. Hva er riktig?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved blending"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blending",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved blending gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved parkert bil i mørke?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved parkert bil i mørke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med lys ved stans. Hva bør du gjøre?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved lys ved stans gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om lys på dagtid?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved lys på dagtid gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved feil på lyspære?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved feil på lyspære gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lysbruk i kø. Hva er riktig?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+      "Slå av lysene hvis du blir blendet",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved lysbruk i kø gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved nærlys?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved nærlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med fjernlys. Hva bør du gjøre?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved fjernlys",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved fjernlys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved fjernlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om tåkelys?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved tåkelys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved tåkelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved parklys?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved parklys",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parklys",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved parklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om nødblink. Hva er riktig?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved nødblink gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved bremselys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved bremselys",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved bremselys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved bremselys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med blinklys. Hva bør du gjøre?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved blinklys",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blinklys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved blinklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om ryggelys?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved ryggelys",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved ryggelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved ryggelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved mørkekjøring?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved mørkekjøring gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om tunnel. Hva er riktig?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved tunnel gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved møtende trafikk?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved møtende trafikk gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med kjøring i tåke. Hva bør du gjøre?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved kjøring i tåke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om regnvær?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved regnvær"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved regnvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved snøvær?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved snøvær"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved snøvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om blending. Hva er riktig?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved blending",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blending",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved blending gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved parkert bil i mørke?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved parkert bil i mørke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med lys ved stans. Hva bør du gjøre?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved lys ved stans"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved lys ved stans gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om lys på dagtid?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved lys på dagtid gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved feil på lyspære?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved feil på lyspære gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lysbruk i kø. Hva er riktig?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved lysbruk i kø gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved nærlys?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved nærlys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved nærlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med fjernlys. Hva bør du gjøre?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved fjernlys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved fjernlys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved fjernlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om tåkelys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved tåkelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved parklys?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved parklys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parklys",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved parklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om nødblink. Hva er riktig?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved nødblink gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved bremselys?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved bremselys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved bremselys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved bremselys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med blinklys. Hva bør du gjøre?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved blinklys",
+      "Slå av lysene hvis du blir blendet",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blinklys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved blinklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om ryggelys?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved ryggelys",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved ryggelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved ryggelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved mørkekjøring?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring",
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved mørkekjøring gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om tunnel. Hva er riktig?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved tunnel gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved møtende trafikk?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved møtende trafikk gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med kjøring i tåke. Hva bør du gjøre?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved kjøring i tåke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om regnvær?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved regnvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved snøvær?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+      "Bare bruke lys når det er helt mørkt",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved snøvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om blending. Hva er riktig?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved blending",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blending",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved blending gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved parkert bil i mørke?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved parkert bil i mørke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med lys ved stans. Hva bør du gjøre?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved lys ved stans gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om lys på dagtid?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved lys på dagtid gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved feil på lyspære?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved feil på lyspære gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lysbruk i kø. Hva er riktig?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved lysbruk i kø gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved nærlys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved nærlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med fjernlys. Hva bør du gjøre?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved fjernlys",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved fjernlys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved fjernlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om tåkelys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved tåkelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved parklys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved parklys",
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parklys",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved parklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om nødblink. Hva er riktig?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved nødblink gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved bremselys?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved bremselys",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved bremselys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved bremselys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med blinklys. Hva bør du gjøre?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved blinklys",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blinklys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved blinklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om ryggelys?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved ryggelys",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved ryggelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved ryggelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved mørkekjøring?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved mørkekjøring gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om tunnel. Hva er riktig?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved tunnel gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved møtende trafikk?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved møtende trafikk gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med kjøring i tåke. Hva bør du gjøre?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved kjøring i tåke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om regnvær?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved regnvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved snøvær?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved snøvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om blending. Hva er riktig?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved blending",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blending",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved blending gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved parkert bil i mørke?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved parkert bil i mørke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med lys ved stans. Hva bør du gjøre?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved lys ved stans"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved lys ved stans gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om lys på dagtid?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved lys på dagtid gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved feil på lyspære?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved feil på lyspære gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lysbruk i kø. Hva er riktig?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved lysbruk i kø gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved nærlys?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nærlys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved nærlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med fjernlys. Hva bør du gjøre?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved fjernlys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved fjernlys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved fjernlys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om tåkelys?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tåkelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved tåkelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved parklys?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved parklys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parklys",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved parklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om nødblink. Hva er riktig?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved nødblink"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved nødblink",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved nødblink gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved bremselys?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved bremselys",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved bremselys",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved bremselys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med blinklys. Hva bør du gjøre?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved blinklys",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Slå av lysene hvis du blir blendet"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blinklys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved blinklys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om ryggelys?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved ryggelys"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved ryggelys",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved ryggelys gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved mørkekjøring?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring",
+      "Bruke fjernlys hele tiden uansett situasjon"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved mørkekjøring",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved mørkekjøring gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om tunnel. Hva er riktig?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved tunnel"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved tunnel",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved tunnel gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved møtende trafikk?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved møtende trafikk",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved møtende trafikk gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med kjøring i tåke. Hva bør du gjøre?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved kjøring i tåke",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved kjøring i tåke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om regnvær?",
+    "answers": [
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+      "Bare bruke lys når det er helt mørkt"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved regnvær",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved regnvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved snøvær?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Bruke riktig lys og tilpasse kjøringen ved snøvær"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved snøvær",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved snøvær gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om blending. Hva er riktig?",
+    "answers": [
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved blending"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved blending",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved blending gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig lysbruk ved parkert bil i mørke?",
+    "answers": [
+      "Bruke fjernlys hele tiden uansett situasjon",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved parkert bil i mørke",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk ved parkert bil i mørke gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en situasjon med lys ved stans. Hva bør du gjøre?",
+    "answers": [
+      "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+      "Bare bruke lys når det er helt mørkt",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys ved stans",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Riktig lysbruk ved lys ved stans gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om lys på dagtid?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lys på dagtid",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Riktig lysbruk ved lys på dagtid gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er tryggeste vurdering ved feil på lyspære?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Slå av lysene hvis du blir blendet",
+      "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved feil på lyspære",
+    "category": "Lys",
+    "difficulty": 4,
+    "explanation": "Riktig lysbruk ved feil på lyspære gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lysbruk i kø. Hva er riktig?",
+    "answers": [
+      "Bare bruke lys når det er helt mørkt",
+      "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+      "Ignorere lysfeil hvis bilen fortsatt kan kjøres"
+    ],
+    "correct_answer": "Bruke riktig lys og tilpasse kjøringen ved lysbruk i kø",
+    "category": "Lys",
+    "difficulty": 5,
+    "explanation": "Riktig lysbruk ved lysbruk i kø gjør deg synlig og hindrer blending eller farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

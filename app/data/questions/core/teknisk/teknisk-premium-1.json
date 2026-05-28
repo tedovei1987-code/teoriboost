@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du oppdager at bilen trekker til siden under bremsing. Hva kan dette tyde på?",
+    "answers": [
+      "Feil på bremser eller ulik bremseeffekt",
+      "At bilen har for mye drivstoff",
+      "At motoren er kald"
+    ],
+    "correct_answer": "Feil på bremser eller ulik bremseeffekt",
+    "category": "Teknisk",
+    "difficulty": 2,
+    "explanation": "Bilen skal bremse stabilt og rett. Trekking til siden kan tyde på bremsefeil.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du oppdager at frontruten er dekket av is før kjøring. Hva må du gjøre?",
+    "answers": [
+      "Sørge for full sikt før du kjører",
+      "Skrape et lite hull foran førersetet",
+      "Kjøre forsiktig til ruten blir varm"
+    ],
+    "correct_answer": "Sørge for full sikt før du kjører",
+    "category": "Teknisk",
+    "difficulty": 1,
+    "explanation": "God sikt er et grunnleggende krav for sikker kjøring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser at dekkene er svært slitte. Hva kan konsekvensen bli?",
+    "answers": [
+      "Dårligere veigrep og lengre bremselengde",
+      "Lavere drivstofforbruk",
+      "Bedre grep på våt vei"
+    ],
+    "correct_answer": "Dårligere veigrep og lengre bremselengde",
+    "category": "Teknisk",
+    "difficulty": 1,
+    "explanation": "Slitte dekk gir dårligere grep, spesielt på våt eller glatt vei.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "En rød varsellampe for bremser lyser under kjøring. Hva bør du gjøre?",
+    "answers": [
+      "Stoppe på et trygt sted og undersøke feilen",
+      "Fortsette siden bilen fortsatt kjører",
+      "Kun redusere farten litt"
+    ],
+    "correct_answer": "Stoppe på et trygt sted og undersøke feilen",
+    "category": "Teknisk",
+    "difficulty": 2,
+    "explanation": "Røde varsellamper kan varsle alvorlige feil som påvirker sikkerheten.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal kjøre med tung last i bilen. Hva er viktig?",
+    "answers": [
+      "Sikre lasten godt slik at den ikke flytter seg",
+      "Plassere all lasten høyt i bilen",
+      "Kun sikre lasten på motorvei"
+    ],
+    "correct_answer": "Sikre lasten godt slik at den ikke flytter seg",
+    "category": "Teknisk",
+    "difficulty": 2,
+    "explanation": "Usikret last kan være farlig ved bremsing eller kollisjon.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du oppdager at nærlysene ikke fungerer i mørket. Hva er riktig handling?",
+    "answers": [
+      "Ikke kjøre før lysene fungerer",
+      "Kjøre videre med kun parkeringslys",
+      "Bruke nødblink under hele turen"
+    ],
+    "correct_answer": "Ikke kjøre før lysene fungerer",
+    "category": "Teknisk",
+    "difficulty": 2,
+    "explanation": "Fungerende lys er nødvendig for å se og bli sett i mørket.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva kan skje dersom lufttrykket i dekkene er for lavt?",
+    "answers": [
+      "Bilen kan få dårligere kjøreegenskaper",
+      "Bremselengden blir alltid kortere",
+      "Dekkene varer automatisk lenger"
+    ],
+    "correct_answer": "Bilen kan få dårligere kjøreegenskaper",
+    "category": "Teknisk",
+    "difficulty": 2,
+    "explanation": "Feil lufttrykk påvirker stabilitet, bremsing og dekkslitasje.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du merker sterke vibrasjoner i rattet under kjøring. Hva bør du gjøre?",
+    "answers": [
+      "Undersøke bilen så snart som mulig",
+      "Øke farten for å redusere vibrasjonene",
+      "Ignorere det hvis bilen fortsatt går fremover"
+    ],
+    "correct_answer": "Undersøke bilen så snart som mulig",
+    "category": "Teknisk",
+    "difficulty": 2,
+    "explanation": "Vibrasjoner kan tyde på tekniske feil som påvirker sikkerheten.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

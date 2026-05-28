@@ -1,0 +1,4502 @@
+[
+  {
+    "question": "Du vurderer parkering nær gangfelt. Hva er riktig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering nær gangfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i kryss?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i kryss må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering ved bussholdeplass?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering ved bussholdeplass må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering på fortau ulovlig eller farlig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering på fortau må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering foran innkjørsel. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering foran innkjørsel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering i enveiskjørt gate. Hva er riktig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering i enveiskjørt gate må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved stans forbudt?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved stans forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering forbudt?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+      "Parkere hvis det er fysisk plass",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er HC-parkering ulovlig eller farlig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved HC-parkering"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved HC-parkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om soneparkering. Hva er tryggest?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved soneparkering",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved soneparkering",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved soneparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer avgiftsparkering. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+      "Parkere hvis det er fysisk plass",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved avgiftsparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i bakke?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering i bakke"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i bakke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering i mørke?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering i mørke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering ved skilt ulovlig eller farlig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved skilt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering ved skilt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering langs landevei. Hva er tryggest?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering langs landevei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering ved sykkelfelt. Hva er riktig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering ved sykkelfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering ved tunnel?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering ved tunnel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering på motorvei?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering på motorvei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er kort stans ulovlig eller farlig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved kort stans"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved kort stans",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved kort stans må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lasting og lossing. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved lasting og lossing må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering nær gangfelt. Hva er riktig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering nær gangfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i kryss?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i kryss må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering ved bussholdeplass?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering ved bussholdeplass må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering på fortau ulovlig eller farlig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering på fortau"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering på fortau må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering foran innkjørsel. Hva er tryggest?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering foran innkjørsel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering i enveiskjørt gate. Hva er riktig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering i enveiskjørt gate må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved stans forbudt?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved stans forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering forbudt?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering forbudt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er HC-parkering ulovlig eller farlig?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved HC-parkering"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved HC-parkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om soneparkering. Hva er tryggest?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved soneparkering",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved soneparkering",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved soneparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer avgiftsparkering. Hva er riktig?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved avgiftsparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i bakke?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+      "Parkere hvis det er fysisk plass",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i bakke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering i mørke?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering i mørke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering ved skilt ulovlig eller farlig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved skilt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering ved skilt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering langs landevei. Hva er tryggest?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering langs landevei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering ved sykkelfelt. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering ved sykkelfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering ved tunnel?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering ved tunnel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering på motorvei?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering på motorvei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er kort stans ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved kort stans",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved kort stans",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved kort stans må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lasting og lossing. Hva er tryggest?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved lasting og lossing"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved lasting og lossing må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering nær gangfelt. Hva er riktig?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering nær gangfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i kryss?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i kryss må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering ved bussholdeplass?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering ved bussholdeplass må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering på fortau ulovlig eller farlig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering på fortau må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering foran innkjørsel. Hva er tryggest?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering foran innkjørsel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering i enveiskjørt gate. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+      "Parkere hvis det er fysisk plass",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering i enveiskjørt gate må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved stans forbudt?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved stans forbudt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved stans forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering forbudt?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er HC-parkering ulovlig eller farlig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved HC-parkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om soneparkering. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved soneparkering",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved soneparkering",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved soneparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer avgiftsparkering. Hva er riktig?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved avgiftsparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i bakke?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i bakke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering i mørke?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering i mørke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering ved skilt ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering ved skilt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering langs landevei. Hva er tryggest?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering langs landevei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering ved sykkelfelt. Hva er riktig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering ved sykkelfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering ved tunnel?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering ved tunnel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering på motorvei?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering på motorvei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er kort stans ulovlig eller farlig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved kort stans"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved kort stans",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved kort stans må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lasting og lossing. Hva er tryggest?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved lasting og lossing"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved lasting og lossing må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering nær gangfelt. Hva er riktig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering nær gangfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i kryss?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering i kryss"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i kryss må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering ved bussholdeplass?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering ved bussholdeplass må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering på fortau ulovlig eller farlig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering på fortau må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering foran innkjørsel. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering foran innkjørsel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering i enveiskjørt gate. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering i enveiskjørt gate må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved stans forbudt?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved stans forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering forbudt?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er HC-parkering ulovlig eller farlig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved HC-parkering"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved HC-parkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om soneparkering. Hva er tryggest?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved soneparkering"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved soneparkering",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved soneparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer avgiftsparkering. Hva er riktig?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved avgiftsparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i bakke?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i bakke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering i mørke?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering i mørke"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering i mørke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering ved skilt ulovlig eller farlig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering ved skilt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering langs landevei. Hva er tryggest?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering langs landevei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering ved sykkelfelt. Hva er riktig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering ved sykkelfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering ved tunnel?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering ved tunnel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering på motorvei?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering på motorvei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er kort stans ulovlig eller farlig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved kort stans",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved kort stans",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved kort stans må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lasting og lossing. Hva er tryggest?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved lasting og lossing"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved lasting og lossing må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering nær gangfelt. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering nær gangfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i kryss?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i kryss må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering ved bussholdeplass?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering ved bussholdeplass må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering på fortau ulovlig eller farlig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering på fortau må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering foran innkjørsel. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering foran innkjørsel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering i enveiskjørt gate. Hva er riktig?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering i enveiskjørt gate må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved stans forbudt?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved stans forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering forbudt?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er HC-parkering ulovlig eller farlig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved HC-parkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om soneparkering. Hva er tryggest?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved soneparkering",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved soneparkering",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved soneparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer avgiftsparkering. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved avgiftsparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i bakke?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering i bakke"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i bakke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering i mørke?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering i mørke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering ved skilt ulovlig eller farlig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved skilt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering ved skilt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering langs landevei. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+      "Parkere hvis det er fysisk plass",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering langs landevei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering ved sykkelfelt. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering ved sykkelfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering ved tunnel?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering ved tunnel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering på motorvei?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering på motorvei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er kort stans ulovlig eller farlig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved kort stans",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved kort stans",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved kort stans må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lasting og lossing. Hva er tryggest?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved lasting og lossing må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering nær gangfelt. Hva er riktig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering nær gangfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i kryss?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i kryss må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering ved bussholdeplass?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering ved bussholdeplass må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering på fortau ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering på fortau må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering foran innkjørsel. Hva er tryggest?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering foran innkjørsel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering i enveiskjørt gate. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering i enveiskjørt gate må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved stans forbudt?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved stans forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering forbudt?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er HC-parkering ulovlig eller farlig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved HC-parkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om soneparkering. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved soneparkering",
+      "Parkere hvis det er fysisk plass",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved soneparkering",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved soneparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer avgiftsparkering. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved avgiftsparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i bakke?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i bakke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering i mørke?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering i mørke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering ved skilt ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering ved skilt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering langs landevei. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering langs landevei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering ved sykkelfelt. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+      "Parkere hvis det er fysisk plass",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering ved sykkelfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering ved tunnel?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering ved tunnel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering på motorvei?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering på motorvei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er kort stans ulovlig eller farlig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved kort stans"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved kort stans",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved kort stans må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lasting og lossing. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved lasting og lossing må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering nær gangfelt. Hva er riktig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering nær gangfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i kryss?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i kryss må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering ved bussholdeplass?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering ved bussholdeplass må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering på fortau ulovlig eller farlig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering på fortau"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering på fortau må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering foran innkjørsel. Hva er tryggest?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering foran innkjørsel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering i enveiskjørt gate. Hva er riktig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering i enveiskjørt gate må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved stans forbudt?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved stans forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering forbudt?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er HC-parkering ulovlig eller farlig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved HC-parkering"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved HC-parkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om soneparkering. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved soneparkering",
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved soneparkering",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved soneparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer avgiftsparkering. Hva er riktig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved avgiftsparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i bakke?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering i bakke"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i bakke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering i mørke?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering i mørke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering ved skilt ulovlig eller farlig?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering ved skilt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering langs landevei. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering langs landevei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering ved sykkelfelt. Hva er riktig?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering ved sykkelfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering ved tunnel?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering ved tunnel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering på motorvei?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering på motorvei"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering på motorvei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er kort stans ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved kort stans",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved kort stans",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved kort stans må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lasting og lossing. Hva er tryggest?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved lasting og lossing"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved lasting og lossing må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering nær gangfelt. Hva er riktig?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering nær gangfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i kryss?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i kryss må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering ved bussholdeplass?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering ved bussholdeplass må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering på fortau ulovlig eller farlig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering på fortau må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering foran innkjørsel. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering foran innkjørsel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering i enveiskjørt gate. Hva er riktig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering i enveiskjørt gate må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved stans forbudt?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved stans forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering forbudt?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er HC-parkering ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved HC-parkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om soneparkering. Hva er tryggest?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved soneparkering",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved soneparkering",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved soneparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer avgiftsparkering. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved avgiftsparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i bakke?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering i bakke"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i bakke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering i mørke?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+      "Parkere hvis det er fysisk plass",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering i mørke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering ved skilt ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering ved skilt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering langs landevei. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering langs landevei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering ved sykkelfelt. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+      "Parkere hvis det er fysisk plass",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering ved sykkelfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering ved tunnel?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering ved tunnel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering på motorvei?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering på motorvei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er kort stans ulovlig eller farlig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved kort stans"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved kort stans",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved kort stans må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lasting og lossing. Hva er tryggest?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved lasting og lossing må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering nær gangfelt. Hva er riktig?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering nær gangfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i kryss?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i kryss må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering ved bussholdeplass?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering ved bussholdeplass må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering på fortau ulovlig eller farlig?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering på fortau"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering på fortau må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering foran innkjørsel. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering foran innkjørsel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering i enveiskjørt gate. Hva er riktig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering i enveiskjørt gate må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved stans forbudt?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved stans forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering forbudt?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering forbudt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er HC-parkering ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved HC-parkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om soneparkering. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved soneparkering",
+      "Parkere hvis det er fysisk plass",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved soneparkering",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved soneparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer avgiftsparkering. Hva er riktig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved avgiftsparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i bakke?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i bakke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering i mørke?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering i mørke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering ved skilt ulovlig eller farlig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved skilt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering ved skilt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering langs landevei. Hva er tryggest?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering langs landevei"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering langs landevei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering ved sykkelfelt. Hva er riktig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering ved sykkelfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering ved tunnel?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering ved tunnel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering på motorvei?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering på motorvei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er kort stans ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved kort stans",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved kort stans",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved kort stans må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lasting og lossing. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved lasting og lossing må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering nær gangfelt. Hva er riktig?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering nær gangfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i kryss?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering i kryss"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i kryss må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering ved bussholdeplass?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering ved bussholdeplass må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering på fortau ulovlig eller farlig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering på fortau må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering foran innkjørsel. Hva er tryggest?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering foran innkjørsel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering i enveiskjørt gate. Hva er riktig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering i enveiskjørt gate må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved stans forbudt?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved stans forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering forbudt?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er HC-parkering ulovlig eller farlig?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved HC-parkering"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved HC-parkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om soneparkering. Hva er tryggest?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved soneparkering"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved soneparkering",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved soneparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer avgiftsparkering. Hva er riktig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved avgiftsparkering"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved avgiftsparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i bakke?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i bakke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering i mørke?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering i mørke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering ved skilt ulovlig eller farlig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved skilt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering ved skilt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering langs landevei. Hva er tryggest?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering langs landevei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering ved sykkelfelt. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering ved sykkelfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering ved tunnel?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering ved tunnel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering på motorvei?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+      "Parkere hvis det er fysisk plass",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering på motorvei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er kort stans ulovlig eller farlig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved kort stans",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved kort stans",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved kort stans må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lasting og lossing. Hva er tryggest?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved lasting og lossing må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering nær gangfelt. Hva er riktig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering nær gangfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i kryss?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i kryss må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering ved bussholdeplass?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering ved bussholdeplass må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering på fortau ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering på fortau må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering foran innkjørsel. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering foran innkjørsel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering i enveiskjørt gate. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering i enveiskjørt gate må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved stans forbudt?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved stans forbudt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved stans forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering forbudt?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering forbudt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er HC-parkering ulovlig eller farlig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved HC-parkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om soneparkering. Hva er tryggest?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved soneparkering",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved soneparkering",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved soneparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer avgiftsparkering. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved avgiftsparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i bakke?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i bakke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering i mørke?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering i mørke"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering i mørke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering ved skilt ulovlig eller farlig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering ved skilt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering langs landevei. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering langs landevei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering ved sykkelfelt. Hva er riktig?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering ved sykkelfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering ved tunnel?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering ved tunnel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering på motorvei?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering på motorvei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er kort stans ulovlig eller farlig?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved kort stans"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved kort stans",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved kort stans må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lasting og lossing. Hva er tryggest?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved lasting og lossing"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved lasting og lossing må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering nær gangfelt. Hva er riktig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering nær gangfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i kryss?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering i kryss"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i kryss må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering ved bussholdeplass?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering ved bussholdeplass må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering på fortau ulovlig eller farlig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering på fortau må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering foran innkjørsel. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering foran innkjørsel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering i enveiskjørt gate. Hva er riktig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering i enveiskjørt gate må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved stans forbudt?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved stans forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering forbudt?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+      "Parkere hvis det er fysisk plass",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er HC-parkering ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved HC-parkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om soneparkering. Hva er tryggest?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved soneparkering"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved soneparkering",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved soneparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer avgiftsparkering. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved avgiftsparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i bakke?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i bakke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering i mørke?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering i mørke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering ved skilt ulovlig eller farlig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved skilt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering ved skilt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering langs landevei. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering langs landevei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering ved sykkelfelt. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+      "Parkere hvis det er fysisk plass",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering ved sykkelfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering ved tunnel?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering ved tunnel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering på motorvei?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering på motorvei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er kort stans ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved kort stans",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved kort stans",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved kort stans må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lasting og lossing. Hva er tryggest?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved lasting og lossing må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering nær gangfelt. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering nær gangfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i kryss?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering i kryss"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i kryss må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering ved bussholdeplass?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering ved bussholdeplass må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering på fortau ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering på fortau må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering foran innkjørsel. Hva er tryggest?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering foran innkjørsel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering i enveiskjørt gate. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering i enveiskjørt gate må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved stans forbudt?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved stans forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering forbudt?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering forbudt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er HC-parkering ulovlig eller farlig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved HC-parkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om soneparkering. Hva er tryggest?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved soneparkering"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved soneparkering",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved soneparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer avgiftsparkering. Hva er riktig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved avgiftsparkering"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved avgiftsparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i bakke?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering i bakke"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i bakke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering i mørke?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering i mørke"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering i mørke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering ved skilt ulovlig eller farlig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering ved skilt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering langs landevei. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering langs landevei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering ved sykkelfelt. Hva er riktig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering ved sykkelfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering ved tunnel?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering ved tunnel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering på motorvei?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering på motorvei"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering på motorvei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er kort stans ulovlig eller farlig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved kort stans",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved kort stans",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved kort stans må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lasting og lossing. Hva er tryggest?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved lasting og lossing må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering nær gangfelt. Hva er riktig?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering nær gangfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i kryss?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i kryss må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering ved bussholdeplass?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering ved bussholdeplass må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering på fortau ulovlig eller farlig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering på fortau"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering på fortau må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering foran innkjørsel. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering foran innkjørsel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering i enveiskjørt gate. Hva er riktig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering i enveiskjørt gate må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved stans forbudt?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved stans forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering forbudt?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er HC-parkering ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved HC-parkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om soneparkering. Hva er tryggest?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved soneparkering",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved soneparkering",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved soneparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer avgiftsparkering. Hva er riktig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved avgiftsparkering"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved avgiftsparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i bakke?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i bakke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering i mørke?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering i mørke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering ved skilt ulovlig eller farlig?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering ved skilt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering langs landevei. Hva er tryggest?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering langs landevei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering ved sykkelfelt. Hva er riktig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering ved sykkelfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering ved tunnel?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering ved tunnel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering på motorvei?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering på motorvei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er kort stans ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved kort stans",
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved kort stans",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved kort stans må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lasting og lossing. Hva er tryggest?",
+    "answers": [
+      "Parkere dersom andre biler står der fra før",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved lasting og lossing"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved lasting og lossing må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering nær gangfelt. Hva er riktig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering nær gangfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering nær gangfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i kryss?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i kryss",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i kryss må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering ved bussholdeplass?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved bussholdeplass",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering ved bussholdeplass må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering på fortau ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på fortau",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering på fortau må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering foran innkjørsel. Hva er tryggest?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering foran innkjørsel",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering foran innkjørsel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering i enveiskjørt gate. Hva er riktig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i enveiskjørt gate",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering i enveiskjørt gate må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved stans forbudt?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved stans forbudt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved stans forbudt",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved stans forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering forbudt?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering forbudt",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering forbudt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er HC-parkering ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved HC-parkering",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved HC-parkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om soneparkering. Hva er tryggest?",
+    "answers": [
+      "Parkere så lenge du ikke blokkerer helt",
+      "Vurdere om parkering er lovlig og trygg ved soneparkering",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved soneparkering",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved soneparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer avgiftsparkering. Hva er riktig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved avgiftsparkering"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved avgiftsparkering",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved avgiftsparkering må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering i bakke?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i bakke",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering i bakke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering i mørke?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+      "Parkere hvis det er fysisk plass",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering i mørke",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering i mørke må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er parkering ved skilt ulovlig eller farlig?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere med nødblink hvis du bare skal være borte kort"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved skilt",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved parkering ved skilt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om parkering langs landevei. Hva er tryggest?",
+    "answers": [
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+      "Parkere så lenge du ikke blokkerer helt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering langs landevei",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved parkering langs landevei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer parkering ved sykkelfelt. Hva er riktig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere dersom andre biler står der fra før",
+      "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved sykkelfelt",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Ved parkering ved sykkelfelt må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva må du tenke på ved parkering ved tunnel?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+      "Parkere hvis det er fysisk plass",
+      "Parkere dersom andre biler står der fra før"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering ved tunnel",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved parkering ved tunnel må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvilket alternativ er riktig om parkering på motorvei?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+      "Parkere så lenge du ikke blokkerer helt",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved parkering på motorvei",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Ved parkering på motorvei må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er kort stans ulovlig eller farlig?",
+    "answers": [
+      "Parkere med nødblink hvis du bare skal være borte kort",
+      "Parkere hvis det er fysisk plass",
+      "Vurdere om parkering er lovlig og trygg ved kort stans"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved kort stans",
+    "category": "Parkering",
+    "difficulty": 4,
+    "explanation": "Ved kort stans må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "På teoriprøven får du spørsmål om lasting og lossing. Hva er tryggest?",
+    "answers": [
+      "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+      "Parkere dersom andre biler står der fra før",
+      "Parkere hvis det er fysisk plass"
+    ],
+    "correct_answer": "Vurdere om parkering er lovlig og trygg ved lasting og lossing",
+    "category": "Parkering",
+    "difficulty": 5,
+    "explanation": "Ved lasting og lossing må du sjekke skilt, avstand, sikt og om bilen skaper fare eller hindring.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

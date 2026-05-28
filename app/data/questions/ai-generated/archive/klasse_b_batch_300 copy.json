@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Hva er hovedformålet med bilbelte?",
+    "answers": [
+      "Å redusere skade ved kollisjon",
+      "Å forbedre drivstofføkonomi",
+      "Å øke motorstyrke",
+      "Å beskytte dekkene"
+    ],
+    "correct_answer": "Å redusere skade ved kollisjon",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr et rødt trekantet varselskilt?",
+    "answers": [
+      "Fare",
+      "Påbud",
+      "Motorvei",
+      "Parkering"
+    ],
+    "correct_answer": "Fare",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Når skal du bruke nærlys?",
+    "answers": [
+      "Hele tiden under kjøring",
+      "Kun om natten",
+      "Kun i tunnel",
+      "Kun ved regn"
+    ],
+    "correct_answer": "Hele tiden under kjøring",
+    "category": "Lysbruk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er maksimal promillegrense i Norge?",
+    "answers": [
+      "0.2",
+      "0.5",
+      "0.8",
+      "1.0"
+    ],
+    "correct_answer": "0.2",
+    "category": "Rus",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva skal du gjøre før du skifter fil?",
+    "answers": [
+      "Sjekke speil og blindsone",
+      "Bremse hardt",
+      "Slå av lys",
+      "Øke musikkvolum"
+    ],
+    "correct_answer": "Sjekke speil og blindsone",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr gul blinkende pil ved trafikklys?",
+    "answers": [
+      "Kjør forsiktig i pilens retning",
+      "Stopp umiddelbart",
+      "Motorstopp",
+      "Forbudt å svinge"
+    ],
+    "correct_answer": "Kjør forsiktig i pilens retning",
+    "category": "Trafikklys",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er riktig reaksjon ved vannplaning?",
+    "answers": [
+      "Slippe gassen rolig",
+      "Bremse hardt",
+      "Rykke i rattet",
+      "Øke fart"
+    ],
+    "correct_answer": "Slippe gassen rolig",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hvorfor er avstand viktig?",
+    "answers": [
+      "For å få reaksjonstid",
+      "For å bruke mer drivstoff",
+      "For å slite dekk",
+      "For å blokkere andre"
+    ],
+    "correct_answer": "For å få reaksjonstid",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr et rundt blått skilt?",
+    "answers": [
+      "Påbud",
+      "Fare",
+      "Stopp",
+      "Advarsel"
+    ],
+    "correct_answer": "Påbud",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Når er det størst risiko for glatt vei?",
+    "answers": [
+      "Rundt frysepunktet",
+      "Ved 20 grader",
+      "Midt på sommeren",
+      "Ved tørre veier"
+    ],
+    "correct_answer": "Rundt frysepunktet",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva skal du gjøre ved fotgjengerovergang?",
+    "answers": [
+      "Være klar til å stoppe",
+      "Øke fart",
+      "Blinke med fjernlys",
+      "Ignorere fotgjengere"
+    ],
+    "correct_answer": "Være klar til å stoppe",
+    "category": "Trafikkregler",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er riktig håndplassering på rattet?",
+    "answers": [
+      "Klokken 9 og 3",
+      "Kun én hånd",
+      "Midt på rattet",
+      "Nederst på rattet"
+    ],
+    "correct_answer": "Klokken 9 og 3",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr motorvei-skilt?",
+    "answers": [
+      "Start på motorvei",
+      "Stopp",
+      "Gangfelt",
+      "Parkering"
+    ],
+    "correct_answer": "Start på motorvei",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Når skal du bruke blinklys?",
+    "answers": [
+      "Ved retningsendring",
+      "Kun på motorvei",
+      "Kun om natten",
+      "Aldri"
+    ],
+    "correct_answer": "Ved retningsendring",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er viktig før lang kjøretur?",
+    "answers": [
+      "Sjekke bilen",
+      "Spille høy musikk",
+      "Tømme drivstoff",
+      "Kjøre uten pause"
+    ],
+    "correct_answer": "Sjekke bilen",
+    "category": "Bilteknikk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr heltrukken linje?",
+    "answers": [
+      "Forbikjøring forbudt",
+      "Gratis parkering",
+      "Motorvei",
+      "Gangvei"
+    ],
+    "correct_answer": "Forbikjøring forbudt",
+    "category": "Vegmerking",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hvordan påvirker fart bremselengden?",
+    "answers": [
+      "Den øker kraftig",
+      "Den blir kortere",
+      "Ingen forskjell",
+      "Kun ved regn"
+    ],
+    "correct_answer": "Den øker kraftig",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva skal du gjøre ved utrykningskjøretøy?",
+    "answers": [
+      "Gi fri vei",
+      "Kjøre raskere",
+      "Blokkere",
+      "Stoppe midt i veien"
+    ],
+    "correct_answer": "Gi fri vei",
+    "category": "Trafikkregler",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er blindsone?",
+    "answers": [
+      "Område du ikke ser i speil",
+      "Død motor",
+      "Feil lys",
+      "Tom tank"
+    ],
+    "correct_answer": "Område du ikke ser i speil",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr STOP-skilt?",
+    "answers": [
+      "Full stopp",
+      "Senk farten litt",
+      "Motorvei",
+      "Forbikjør"
+    ],
+    "correct_answer": "Full stopp",
+    "category": "Skilt",
+    "theory_type": "B"
+  }
+]

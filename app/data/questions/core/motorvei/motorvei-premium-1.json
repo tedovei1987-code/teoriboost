@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du skal kjøre inn på motorvei med tett trafikk. Hva er viktigst?",
+    "answers": [
+      "Tilpasse farten til trafikken før du fletter inn",
+      "Stoppe på akselerasjonsfeltet og vente",
+      "Kjøre rett ut uten å se i speilene"
+    ],
+    "correct_answer": "Tilpasse farten til trafikken før du fletter inn",
+    "category": "Motorvei",
+    "difficulty": 2,
+    "explanation": "På motorvei må du tilpasse fart og finne en trygg luke før innfletting.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører på motorvei og trafikken foran begynner plutselig å bremse. Hva bør du gjøre?",
+    "answers": [
+      "Redusere farten kontrollert og øke avstanden",
+      "Bytte felt raskt uten å kontrollere blindsonen",
+      "Bremse hardt samtidig som du ser ned på girspaken"
+    ],
+    "correct_answer": "Redusere farten kontrollert og øke avstanden",
+    "category": "Motorvei",
+    "difficulty": 2,
+    "explanation": "På motorvei er god avstand viktig for å unngå kjedekollisjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal kjøre ut av motorveien. Hva er viktigst før du skifter felt?",
+    "answers": [
+      "Kontrollere speil, blindsone og trafikken rundt deg",
+      "Bremse kraftig midt i kjørefeltet",
+      "Kjøre direkte over flere felt uten observasjon"
+    ],
+    "correct_answer": "Kontrollere speil, blindsone og trafikken rundt deg",
+    "category": "Motorvei",
+    "difficulty": 2,
+    "explanation": "Før feltskifte må du ha full oversikt over trafikken rundt bilen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører på motorvei i kraftig regnvær. Hva bør du være spesielt oppmerksom på?",
+    "answers": [
+      "Lengre bremselengde og dårligere sikt",
+      "At motoren bruker mer drivstoff",
+      "At radioen kan forstyrre konsentrasjonen"
+    ],
+    "correct_answer": "Lengre bremselengde og dårligere sikt",
+    "category": "Motorvei",
+    "difficulty": 2,
+    "explanation": "Regnvær øker bremselengden og gjør det vanskeligere å oppdage farer.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du oppdager at du er i ferd med å misse avkjøringen på motorveien. Hva er tryggest?",
+    "answers": [
+      "Fortsette til neste avkjøring",
+      "Stoppe og rygge tilbake",
+      "Krysse flere felt raskt for å rekke avkjøringen"
+    ],
+    "correct_answer": "Fortsette til neste avkjøring",
+    "category": "Motorvei",
+    "difficulty": 3,
+    "explanation": "Brå manøvrer på motorvei kan skape svært farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører gjennom en lang tunnel på motorvei. Hva bør du være oppmerksom på?",
+    "answers": [
+      "Holde avstand og følge med på skilting og trafikk",
+      "Kjøre nær bilen foran for bedre flyt",
+      "Slå av lysene for å redusere blending"
+    ],
+    "correct_answer": "Holde avstand og følge med på skilting og trafikk",
+    "category": "Motorvei",
+    "difficulty": 2,
+    "explanation": "I tunneler er det viktig med god avstand og høy oppmerksomhet.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører på motorvei og føler deg trøtt. Hva er tryggest?",
+    "answers": [
+      "Ta en pause på et egnet sted",
+      "Åpne vinduet og fortsette",
+      "Øke farten for å komme raskere frem"
+    ],
+    "correct_answer": "Ta en pause på et egnet sted",
+    "category": "Motorvei",
+    "difficulty": 2,
+    "explanation": "Trøtthet reduserer reaksjonsevnen og øker ulykkesrisikoen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal kjøre forbi en lastebil på motorvei. Hva er viktig?",
+    "answers": [
+      "Ha god oversikt og tilstrekkelig avstand",
+      "Ligge lenge i blindsonen",
+      "Kjøre tett bak lastebilen før forbikjøring"
+    ],
+    "correct_answer": "Ha god oversikt og tilstrekkelig avstand",
+    "category": "Motorvei",
+    "difficulty": 2,
+    "explanation": "Store kjøretøy har store blindsoner og trenger ekstra sikkerhetsmargin.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

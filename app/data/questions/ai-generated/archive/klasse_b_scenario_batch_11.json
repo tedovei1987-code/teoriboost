@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Du kjører på våt motorvei og kjenner at styringen blir lettere. Hva kan dette være?",
+    "answers": [
+      "Vannplaning",
+      "Motorfeil",
+      "Punktering",
+      "ABS-feil"
+    ],
+    "correct_answer": "Vannplaning",
+    "category": "Vannplaning",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du ser en syklist som vingler i veibanen. Hva bør du gjøre?",
+    "answers": [
+      "Redusere fart og holde god avstand",
+      "Passere tett",
+      "Bruke horn aggressivt",
+      "Kjøre raskt forbi"
+    ],
+    "correct_answer": "Redusere fart og holde god avstand",
+    "category": "Syklister",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i mørket og oppdager en bil uten lys foran deg. Hva gjør du?",
+    "answers": [
+      "Være ekstra oppmerksom og holde avstand",
+      "Kjøre tett bak",
+      "Slå av egne lys",
+      "Øke farten"
+    ],
+    "correct_answer": "Være ekstra oppmerksom og holde avstand",
+    "category": "Mørkekjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre gjennom en smal gate med parkerte biler på begge sider. Hva er viktig?",
+    "answers": [
+      "Lav fart og god oversikt",
+      "Kjøre raskt gjennom",
+      "Kun fokusere fremover",
+      "Bruke horn hele tiden"
+    ],
+    "correct_answer": "Lav fart og god oversikt",
+    "category": "Bykjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du nærmer deg en skarp sving på glatt vei. Hva bør du gjøre?",
+    "answers": [
+      "Redusere fart før svingen",
+      "Bremse hardt i svingen",
+      "Øke farten gjennom svingen",
+      "Slippe rattet"
+    ],
+    "correct_answer": "Redusere fart før svingen",
+    "category": "Glattkjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører bak en lastebil som spruter mye vann. Hva bør du gjøre?",
+    "answers": [
+      "Holde ekstra avstand",
+      "Kjøre tett bak",
+      "Slå av viskerne",
+      "Øke farten forbi uten sikt"
+    ],
+    "correct_answer": "Holde ekstra avstand",
+    "category": "Regn",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kommer til et kryss med dårlig sikt på grunn av busker. Hva gjør du?",
+    "answers": [
+      "Sakker ned og orienterer deg nøye",
+      "Kjører rett ut",
+      "Bruker horn og kjører",
+      "Kun følger bilen foran"
+    ],
+    "correct_answer": "Sakker ned og orienterer deg nøye",
+    "category": "Kryss",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du oppdager at bremselengden blir mye lengre på vinterføre. Hva er riktig?",
+    "answers": [
+      "Øke avstanden til bilen foran",
+      "Kjøre nærmere bilen foran",
+      "Øke farten",
+      "Bremse senere"
+    ],
+    "correct_answer": "Øke avstanden til bilen foran",
+    "category": "Bremselengde",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du blir stresset av kø og tett trafikk. Hva bør du gjøre?",
+    "answers": [
+      "Holde roen og kjøre defensivt",
+      "Bytte felt konstant",
+      "Bruke horn hele tiden",
+      "Kjøre aggressivt"
+    ],
+    "correct_answer": "Holde roen og kjøre defensivt",
+    "category": "Trafikkpsykologi",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i tunnel og ser røyk lenger fremme. Hva gjør du?",
+    "answers": [
+      "Stopper trygt og følger nødprosedyrer",
+      "Kjører raskere mot røyken",
+      "Ignorerer situasjonen",
+      "Slår av lysene"
+    ],
+    "correct_answer": "Stopper trygt og følger nødprosedyrer",
+    "category": "Nødsituasjon",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du ser barn leke nær veikanten i et boligområde. Hva bør du forvente?",
+    "answers": [
+      "At noen kan løpe ut i veien",
+      "At barna alltid stopper",
+      "At området er trygt å kjøre fort i",
+      "At veien er fri"
+    ],
+    "correct_answer": "At noen kan løpe ut i veien",
+    "category": "Risikovurdering",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre forbi en traktor på smal vei. Hva er viktig?",
+    "answers": [
+      "Vente til du har god sikt",
+      "Kjøre forbi i sving",
+      "Passere tett",
+      "Bruke horn aggressivt"
+    ],
+    "correct_answer": "Vente til du har god sikt",
+    "category": "Forbikjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du nærmer deg et gangfelt der en person står og ser mot veien. Hva gjør du?",
+    "answers": [
+      "Er klar til å stoppe",
+      "Kjører videre uten å se",
+      "Bruker horn",
+      "Øker farten"
+    ],
+    "correct_answer": "Er klar til å stoppe",
+    "category": "Gangfelt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører på landevei og møter kraftig sidevind. Hva bør du gjøre?",
+    "answers": [
+      "Holde godt i rattet og redusere fart",
+      "Øke farten",
+      "Slippe rattet",
+      "Kjøre midt i veien"
+    ],
+    "correct_answer": "Holde godt i rattet og redusere fart",
+    "category": "Vind",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du merker at du blir distrahert av GPS-en under kjøring. Hva er riktig?",
+    "answers": [
+      "Fokusere på trafikken og stoppe hvis nødvendig",
+      "Se lenge på skjermen",
+      "Bruke mobilen samtidig",
+      "Ignorere trafikken rundt"
+    ],
+    "correct_answer": "Fokusere på trafikken og stoppe hvis nødvendig",
+    "category": "Distraksjon",
+    "theory_type": "B"
+  }
+]

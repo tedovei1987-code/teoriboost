@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Du kjører på motorvei i regnvær og ser mye vann i hjulsporene. Hva bør du gjøre?",
+    "answers": [
+      "Redusere fart for å unngå vannplaning",
+      "Øke farten for bedre grep",
+      "Bremse hardt i vannet",
+      "Kjøre tett bak bilen foran"
+    ],
+    "correct_answer": "Redusere fart for å unngå vannplaning",
+    "category": "Vannplaning",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du nærmer deg et fotgjengerfelt hvor sikten er dårlig på grunn av mørke og regn. Hva gjør du?",
+    "answers": [
+      "Sakker ned og er klar til å stoppe",
+      "Kjører videre i samme fart",
+      "Bruker horn og passerer",
+      "Ser kun på bilen foran"
+    ],
+    "correct_answer": "Sakker ned og er klar til å stoppe",
+    "category": "Gangfelt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre forbi en lastebil på landevei. Hva er viktigst?",
+    "answers": [
+      "God sikt og nok plass",
+      "Kjøre tett før forbikjøring",
+      "Forbikjøre i sving",
+      "Ignorere møtende trafikk"
+    ],
+    "correct_answer": "God sikt og nok plass",
+    "category": "Forbikjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kommer til et kryss med høyre-regel og dårlig oversikt. Hva gjør du?",
+    "answers": [
+      "Reduserer fart og orienterer deg nøye",
+      "Kjører først uansett",
+      "Bruker horn og kjører",
+      "Ignorerer trafikk fra høyre"
+    ],
+    "correct_answer": "Reduserer fart og orienterer deg nøye",
+    "category": "Kryss",
+    "theory_type": "B"
+  }
+]

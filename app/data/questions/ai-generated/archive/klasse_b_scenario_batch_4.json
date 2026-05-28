@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du kjører på motorvei og bilen foran mister last i veibanen. Hva gjør du?",
+    "answers": [
+      "Reduserer fart kontrollert og skaper avstand",
+      "Kjører rett over gjenstanden",
+      "Bråbremser uten å sjekke speil",
+      "Øker farten forbi"
+    ],
+    "correct_answer": "Reduserer fart kontrollert og skaper avstand",
+    "category": "Risikovurdering",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal svinge til venstre i et lyskryss med mye trafikk. Hva er viktig?",
+    "answers": [
+      "Vente på ledig og trygg luke",
+      "Svinge raskt foran møtende biler",
+      "Ignorere fotgjengere",
+      "Kun følge bilen foran"
+    ],
+    "correct_answer": "Vente på ledig og trygg luke",
+    "category": "Kryss",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du merker at du begynner å miste konsentrasjonen under kjøring. Hva bør du gjøre?",
+    "answers": [
+      "Ta en pause",
+      "Skru opp musikken",
+      "Kjøre raskere",
+      "Bruke mobilen"
+    ],
+    "correct_answer": "Ta en pause",
+    "category": "Tretthet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kommer til et område med barn som leker nær veien. Hva er riktig?",
+    "answers": [
+      "Redusere fart og være ekstra oppmerksom",
+      "Kjøre som normalt",
+      "Bruke horn hele tiden",
+      "Passere raskt"
+    ],
+    "correct_answer": "Redusere fart og være ekstra oppmerksom",
+    "category": "Samhandling",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i kraftig snøvær. Hva er viktigst?",
+    "answers": [
+      "Tilpasse fart og avstand",
+      "Kjøre fort for å komme frem",
+      "Kun bruke parklys",
+      "Kjøre tett bak bilen foran"
+    ],
+    "correct_answer": "Tilpasse fart og avstand",
+    "category": "Vinterkjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du nærmer deg et gangfelt der sikten er dårlig på grunn av parkerte biler. Hva gjør du?",
+    "answers": [
+      "Sakker ned og er klar til å stoppe",
+      "Kjører videre i samme fart",
+      "Bruker horn og passerer",
+      "Ignorerer området"
+    ],
+    "correct_answer": "Sakker ned og er klar til å stoppe",
+    "category": "Gangfelt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører på våt vei og må bremse. Hvordan påvirkes bremselengden?",
+    "answers": [
+      "Den blir lengre",
+      "Den blir kortere",
+      "Ingen forskjell",
+      "Bremsene virker sterkere"
+    ],
+    "correct_answer": "Den blir lengre",
+    "category": "Bremselengde",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du blir forbikjørt av en aggressiv sjåfør. Hva er riktig reaksjon?",
+    "answers": [
+      "Holde roen og fortsette sikkert",
+      "Konkurrere om plassen",
+      "Øke farten",
+      "Bruke horn aggressivt"
+    ],
+    "correct_answer": "Holde roen og fortsette sikkert",
+    "category": "Trafikkpsykologi",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre ut fra en bensinstasjon til hovedvei. Hva gjelder?",
+    "answers": [
+      "Du har vikeplikt",
+      "Du har forkjørsrett",
+      "Ingen regler gjelder",
+      "Du kan kjøre først hvis du blinker"
+    ],
+    "correct_answer": "Du har vikeplikt",
+    "category": "Vikeplikt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du ser at trafikken foran plutselig stopper på motorvei. Hva bør du gjøre?",
+    "answers": [
+      "Bremse tidlig og varsle med bremselys",
+      "Svinge brått uten å se",
+      "Øke fart for å komme forbi",
+      "Stoppe midt i feltet uten kontroll"
+    ],
+    "correct_answer": "Bremse tidlig og varsle med bremselys",
+    "category": "Motorvei",
+    "theory_type": "B"
+  }
+]

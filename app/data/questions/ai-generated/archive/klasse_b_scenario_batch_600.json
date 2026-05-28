@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Scenario 1: Du nærmer deg et gangfelt. Hva bør du gjøre?",
+    "answers": [
+      "Senke farten og være klar til å stoppe",
+      "Øke farten",
+      "Ignorere fotgjengere",
+      "Bruke mobilen"
+    ],
+    "correct_answer": "Senke farten og være klar til å stoppe",
+    "category": "Scenario",
+    "difficulty": "easy",
+    "explanation": "Trygg kjøring handler om å være oppmerksom.",
+    "theory_type": "B"
+  },
+  {
+    "question": "Scenario 2: Du kjører på glatt vei. Hva bør du gjøre?",
+    "answers": [
+      "Tilpasse farten",
+      "Gasse mer",
+      "Bremse hardt i sving",
+      "Ignorere forholdene"
+    ],
+    "correct_answer": "Tilpasse farten",
+    "category": "Scenario",
+    "difficulty": "medium",
+    "explanation": "Lav fart gir bedre kontroll på glatt vei.",
+    "theory_type": "B"
+  },
+  {
+    "question": "Scenario 3: Du skal inn i en rundkjøring. Hva er viktig?",
+    "answers": [
+      "Vike for trafikk fra venstre",
+      "Kjøre rett inn",
+      "Stoppe midt i rundkjøringen",
+      "Bruke fjernlys"
+    ],
+    "correct_answer": "Vike for trafikk fra venstre",
+    "category": "Scenario",
+    "difficulty": "easy",
+    "explanation": "Trafikk inne i rundkjøringen har forkjørsrett.",
+    "theory_type": "B"
+  }
+]

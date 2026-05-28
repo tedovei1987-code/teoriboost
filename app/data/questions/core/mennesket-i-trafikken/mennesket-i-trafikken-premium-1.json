@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Du føler deg stresset og irritert etter en lang dag. Hvordan kan dette påvirke kjøringen din?",
+    "answers": [
+      "Du kan bli mindre oppmerksom og ta dårligere valg",
+      "Du får raskere reaksjonsevne",
+      "Stress påvirker ikke kjøringen"
+    ],
+    "correct_answer": "Du kan bli mindre oppmerksom og ta dårligere valg",
+    "category": "Mennesket i trafikken",
+    "difficulty": 2,
+    "explanation": "Stress og følelser kan påvirke vurderingsevnen i trafikken.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "En passasjer maser om at du bør kjøre fortere. Hva er riktig?",
+    "answers": [
+      "Kjøre etter forholdene og ignorere presset",
+      "Øke farten for å tilfredsstille passasjeren",
+      "Kjøre aggressivt for å vise kontroll"
+    ],
+    "correct_answer": "Kjøre etter forholdene og ignorere presset",
+    "category": "Mennesket i trafikken",
+    "difficulty": 2,
+    "explanation": "Som fører er du ansvarlig for sikker kjøring uansett press fra andre.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvordan kan mobilbruk under kjøring påvirke deg?",
+    "answers": [
+      "Oppmerksomheten flyttes bort fra trafikken",
+      "Du reagerer raskere på farer",
+      "Mobilbruk påvirker bare på motorvei"
+    ],
+    "correct_answer": "Oppmerksomheten flyttes bort fra trafikken",
+    "category": "Mennesket i trafikken",
+    "difficulty": 1,
+    "explanation": "Mobilbruk øker risikoen for ulykker fordi oppmerksomheten svekkes.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Hva betyr et gult varselskilt med elg-symbol?",
+    "answers": [
+      "Fare for elg",
+      "Dyrepark",
+      "Jaktområde",
+      "Husdyr på vei"
+    ],
+    "correct_answer": "Fare for elg",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva bør du gjøre ved sterk tåke?",
+    "answers": [
+      "Senke farten",
+      "Øke farten",
+      "Slå av lys",
+      "Kjøre nær bilen foran"
+    ],
+    "correct_answer": "Senke farten",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er viktig med vinterdekk?",
+    "answers": [
+      "Godt mønster",
+      "Høy musikk",
+      "Store felger",
+      "Sterkere motor"
+    ],
+    "correct_answer": "Godt mønster",
+    "category": "Bilteknikk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Når kan du bruke horn?",
+    "answers": [
+      "Ved fare",
+      "For å hilse",
+      "Ved kø",
+      "Ved parkering"
+    ],
+    "correct_answer": "Ved fare",
+    "category": "Trafikkregler",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr grønt trafikklys?",
+    "answers": [
+      "Kjør hvis veien er klar",
+      "Full stopp",
+      "Forbikjøring forbudt",
+      "Fare"
+    ],
+    "correct_answer": "Kjør hvis veien er klar",
+    "category": "Trafikklys",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er viktig ved forbikjøring?",
+    "answers": [
+      "God sikt",
+      "Mørke klær",
+      "Lav musikk",
+      "Åpne vinduer"
+    ],
+    "correct_answer": "God sikt",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva skjer med reaksjonslengden ved høy fart?",
+    "answers": [
+      "Den øker",
+      "Den minker",
+      "Ingen forskjell",
+      "Den stopper"
+    ],
+    "correct_answer": "Den øker",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr heltrukken gul linje?",
+    "answers": [
+      "Stans forbudt",
+      "Parkering tillatt",
+      "Gangfelt",
+      "Sykkelvei"
+    ],
+    "correct_answer": "Stans forbudt",
+    "category": "Vegmerking",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva bør du kontrollere før kjøring?",
+    "answers": [
+      "Lys og bremser",
+      "Radio",
+      "Mobil",
+      "Musikk"
+    ],
+    "correct_answer": "Lys og bremser",
+    "category": "Bilteknikk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr rødt lys i trafikklys?",
+    "answers": [
+      "Stopp",
+      "Kjør",
+      "Fare",
+      "Parkering"
+    ],
+    "correct_answer": "Stopp",
+    "category": "Trafikklys",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er riktig ved rundkjøring?",
+    "answers": [
+      "Vike for trafikk i rundkjøringen",
+      "Kjøre først uansett",
+      "Stoppe i rundkjøringen",
+      "Blinke alltid til venstre"
+    ],
+    "correct_answer": "Vike for trafikk i rundkjøringen",
+    "category": "Trafikkregler",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva kan redusere konsentrasjonen?",
+    "answers": [
+      "Mobilbruk",
+      "Bilbelte",
+      "Vinterdekk",
+      "Nærlys"
+    ],
+    "correct_answer": "Mobilbruk",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er riktig bruk av fjernlys?",
+    "answers": [
+      "Ikke blende andre",
+      "Bruke alltid",
+      "Kun i by",
+      "Kun i tunnel"
+    ],
+    "correct_answer": "Ikke blende andre",
+    "category": "Lysbruk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er risiko ved slitte dekk?",
+    "answers": [
+      "Dårlig veigrep",
+      "Lavere drivstoffbruk",
+      "Bedre styring",
+      "Mindre bremselengde"
+    ],
+    "correct_answer": "Dårlig veigrep",
+    "category": "Bilteknikk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Når skal du bruke nødblink?",
+    "answers": [
+      "Ved nødstopp",
+      "Ved forbikjøring",
+      "Ved parkering",
+      "Ved kø"
+    ],
+    "correct_answer": "Ved nødstopp",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr vikeplikt?",
+    "answers": [
+      "La andre kjøre først",
+      "Kjør først",
+      "Stopp motor",
+      "Øk fart"
+    ],
+    "correct_answer": "La andre kjøre først",
+    "category": "Trafikkregler",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva skjer ved tretthet under kjøring?",
+    "answers": [
+      "Reaksjonsevnen blir dårligere",
+      "Bremsene blir bedre",
+      "Bilen går raskere",
+      "Dekkene varer lenger"
+    ],
+    "correct_answer": "Reaksjonsevnen blir dårligere",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er riktig ved glatt vei?",
+    "answers": [
+      "Øke avstanden",
+      "Kjøre nærmere",
+      "Bremse hardt",
+      "Øke fart"
+    ],
+    "correct_answer": "Øke avstanden",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr blått parkeringsskilt?",
+    "answers": [
+      "Parkering tillatt",
+      "Forbikjøring",
+      "Fare",
+      "Stopp"
+    ],
+    "correct_answer": "Parkering tillatt",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er viktig ved rygging?",
+    "answers": [
+      "God oversikt",
+      "Høy fart",
+      "Lukkede speil",
+      "Slå av lys"
+    ],
+    "correct_answer": "God oversikt",
+    "category": "Kjøring",
+    "theory_type": "B"
+  }
+]

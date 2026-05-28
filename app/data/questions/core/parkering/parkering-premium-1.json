@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du vurderer å parkere nær et gangfelt i mørket. Hva er viktigst å ta hensyn til?",
+    "answers": [
+      "At parkeringen ikke hindrer sikten for fotgjengere og andre trafikanter",
+      "At bilen står nærmest mulig gangfeltet",
+      "At du parkerer raskt for å unngå trafikk bak"
+    ],
+    "correct_answer": "At parkeringen ikke hindrer sikten for fotgjengere og andre trafikanter",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Parkering nær gangfelt kan skape farlige situasjoner ved redusert sikt.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal parkere i en bratt bakke. Hva bør du gjøre før du forlater bilen?",
+    "answers": [
+      "Sikre bilen mot å rulle",
+      "La bilen stå i fri for lettere start",
+      "Holde motoren i gang"
+    ],
+    "correct_answer": "Sikre bilen mot å rulle",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Bilen må sikres slik at den ikke kan begynne å rulle.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du finner en ledig plass rett etter et kryss. Hva må du vurdere før du parkerer?",
+    "answers": [
+      "Om parkeringen er nærmere krysset enn tillatt",
+      "Om bilen bak deg bruker blinklys",
+      "Om du kan stå delvis i kjørefeltet"
+    ],
+    "correct_answer": "Om parkeringen er nærmere krysset enn tillatt",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Det er regler for hvor nær et kryss du kan parkere.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal rygge inn i en parkeringsplass på et travelt område. Hva er viktigst?",
+    "answers": [
+      "Kontrollere området rundt bilen nøye",
+      "Rygge raskt før andre biler kommer",
+      "Kun se i speilene"
+    ],
+    "correct_answer": "Kontrollere området rundt bilen nøye",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Ved rygging må du ha full kontroll på området rundt bilen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer å stanse i en bussholdeplass for å slippe av en passasjer. Hva gjelder vanligvis?",
+    "answers": [
+      "Det kan være forbudt å stanse eller parkere der",
+      "Det er alltid tillatt hvis du blir sittende i bilen",
+      "Du kan stå der så lenge nødblink er på"
+    ],
+    "correct_answer": "Det kan være forbudt å stanse eller parkere der",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Bussholdeplasser har ofte egne regler for stans og parkering.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal parkere langs en smal vei i mørket. Hva er viktig?",
+    "answers": [
+      "At bilen ikke skaper fare eller hindrer trafikken",
+      "Å stå så nær midten av veien som mulig",
+      "Å parkere uten å bruke parkeringslys"
+    ],
+    "correct_answer": "At bilen ikke skaper fare eller hindrer trafikken",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Parkert bil må ikke skape unødvendig fare eller hindring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er forskjellen mellom stans og parkering?",
+    "answers": [
+      "Stans er kortvarig opphold for av- eller påstigning, parkering er lengre opphold",
+      "Det er ingen forskjell",
+      "Parkering gjelder kun på private områder"
+    ],
+    "correct_answer": "Stans er kortvarig opphold for av- eller påstigning, parkering er lengre opphold",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Reglene skiller mellom kortvarig stans og parkering.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal parkere ved en bakketopp med dårlig sikt. Hva bør du tenke på?",
+    "answers": [
+      "At bilen ikke hindrer sikten for andre trafikanter",
+      "At bilen står så nær toppen som mulig",
+      "At du kan bruke nødblink i stedet for parkeringsregler"
+    ],
+    "correct_answer": "At bilen ikke hindrer sikten for andre trafikanter",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Parkering ved bakketopper kan være farlig på grunn av redusert sikt.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

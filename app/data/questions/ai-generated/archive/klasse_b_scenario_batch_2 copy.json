@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du kjører på landevei om vinteren og ser at bilen foran begynner å sladde. Hva bør du gjøre?",
+    "answers": [
+      "Øke avstanden og redusere farten",
+      "Kjøre nærmere for bedre kontroll",
+      "Bremse hardt umiddelbart",
+      "Kjøre forbi raskt"
+    ],
+    "correct_answer": "Øke avstanden og redusere farten",
+    "category": "Glattkjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du blir blendet av solen i et kryss. Hva er riktig handling?",
+    "answers": [
+      "Redusere fart og sikre god oversikt",
+      "Øke farten gjennom krysset",
+      "Lukke øynene kort",
+      "Bruke horn konstant"
+    ],
+    "correct_answer": "Redusere fart og sikre god oversikt",
+    "category": "Scenario",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du nærmer deg en buss som står ved holdeplass. Hva bør du være spesielt oppmerksom på?",
+    "answers": [
+      "Fotgjengere som kan komme ut foran bussen",
+      "Kun trafikken bak deg",
+      "Motorlyden",
+      "Skilt på motsatt side"
+    ],
+    "correct_answer": "Fotgjengere som kan komme ut foran bussen",
+    "category": "Samhandling",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i kraftig regnvær og merker vannplaning. Hva gjør du?",
+    "answers": [
+      "Slipper gassen rolig",
+      "Bremser hardt",
+      "Vrenger rattet",
+      "Øker farten"
+    ],
+    "correct_answer": "Slipper gassen rolig",
+    "category": "Vannplaning",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du ser blålys bak deg på smal vei. Hva bør du gjøre?",
+    "answers": [
+      "Gi fri vei så raskt og trygt som mulig",
+      "Fortsette som normalt",
+      "Stoppe midt i veien",
+      "Øke farten"
+    ],
+    "correct_answer": "Gi fri vei så raskt og trygt som mulig",
+    "category": "Utrykning",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre forbi en syklist i bytrafikk. Hva er viktig?",
+    "answers": [
+      "Holde god sideavstand",
+      "Passere tett for å spare tid",
+      "Bruke horn hele tiden",
+      "Øke farten kraftig"
+    ],
+    "correct_answer": "Holde god sideavstand",
+    "category": "Syklister",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kommer til et kryss uten skilt eller lys. Hva gjelder?",
+    "answers": [
+      "Høyreregel",
+      "Ingen regler",
+      "Største bil kjører først",
+      "Den raskeste bilen kjører først"
+    ],
+    "correct_answer": "Høyreregel",
+    "category": "Kryss",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre i en lang nedoverbakke. Hva er smart?",
+    "answers": [
+      "Bruke motorbrems",
+      "Kun bruke bremsene hele tiden",
+      "Sette bilen i fri",
+      "Slå av motoren"
+    ],
+    "correct_answer": "Bruke motorbrems",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du blir stresset av aggressiv bilist bak deg. Hva bør du gjøre?",
+    "answers": [
+      "Holde roen og kjøre sikkert",
+      "Bremseteste bilen bak",
+      "Øke farten kraftig",
+      "Bruke horn tilbake"
+    ],
+    "correct_answer": "Holde roen og kjøre sikkert",
+    "category": "Trafikkpsykologi",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du nærmer deg et gangfelt i mørket. Hva er viktig?",
+    "answers": [
+      "Se etter fotgjengere uten refleks",
+      "Kjøre raskere forbi",
+      "Kun følge bilen foran",
+      "Bruke horn"
+    ],
+    "correct_answer": "Se etter fotgjengere uten refleks",
+    "category": "Mørkekjøring",
+    "theory_type": "B"
+  }
+]

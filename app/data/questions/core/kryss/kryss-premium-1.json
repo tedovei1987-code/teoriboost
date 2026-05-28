@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Du nærmer deg et kryss i et boligområde hvor biler står parkert tett langs veien. Hva bør du gjøre?",
+    "answers": [
+      "Redusere farten og være ekstra oppmerksom",
+      "Holde farten siden du har forkjørsrett",
+      "Kjøre nær midten av veien uten å se etter trafikk"
+    ],
+    "correct_answer": "Redusere farten og være ekstra oppmerksom",
+    "category": "Kryss",
+    "difficulty": 2,
+    "explanation": "Parkerte biler kan redusere sikten og skjule trafikanter.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal kjøre rett frem i et lyskryss hvor lyset skifter til gult. Hva bør du gjøre?",
+    "answers": [
+      "Stoppe hvis det kan gjøres trygt",
+      "Øke farten for å rekke over",
+      "Kjøre videre uten vurdering"
+    ],
+    "correct_answer": "Stoppe hvis det kan gjøres trygt",
+    "category": "Kryss",
+    "difficulty": 2,
+    "explanation": "Gult lys varsler at signalet snart blir rødt.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal svinge til høyre i et kryss med gangfelt. Hva er viktig å kontrollere?",
+    "answers": [
+      "Om fotgjengere eller syklister skal krysse",
+      "Kun trafikken bak deg",
+      "Om bilen foran bruker blinklys"
+    ],
+    "correct_answer": "Om fotgjengere eller syklister skal krysse",
+    "category": "Kryss",
+    "difficulty": 2,
+    "explanation": "Fotgjengere og syklister kan ha prioritet i eller ved gangfelt.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du nærmer deg et kryss med grønt lys, men trafikken står stille på andre siden. Hva bør du gjøre?",
+    "answers": [
+      "Vente hvis du risikerer å blokkere krysset",
+      "Kjøre inn siden du har grønt lys",
+      "Bruke hornet for å få trafikken til å flytte seg"
+    ],
+    "correct_answer": "Vente hvis du risikerer å blokkere krysset",
+    "category": "Kryss",
+    "difficulty": 3,
+    "explanation": "Du skal ikke kjøre inn i et kryss hvis du blir stående og blokkere trafikken.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kommer til et kryss hvor sikten er dårlig på grunn av snø og mørke. Hva er tryggest?",
+    "answers": [
+      "Redusere farten og være klar til å stoppe",
+      "Kjøre raskt gjennom før andre kommer",
+      "Kun følge med på biler foran deg"
+    ],
+    "correct_answer": "Redusere farten og være klar til å stoppe",
+    "category": "Kryss",
+    "difficulty": 3,
+    "explanation": "Dårlig sikt krever lavere fart og høy oppmerksomhet.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

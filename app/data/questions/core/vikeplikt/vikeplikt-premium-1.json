@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Du nærmer deg et kryss med vikepliktsskilt. En bil kommer fra venstre i høy fart. Hva bør du gjøre?",
+    "answers": [
+      "Vente til det er trygt å kjøre ut",
+      "Kjøre ut siden bilen er langt unna",
+      "Øke farten for å rekke over først"
+    ],
+    "correct_answer": "Vente til det er trygt å kjøre ut",
+    "category": "Vikeplikt",
+    "difficulty": 2,
+    "explanation": "Ved vikeplikt må du alltid forsikre deg om at det er trygt før du kjører ut.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal inn i en rundkjøring med tett trafikk. Hva er viktigst?",
+    "answers": [
+      "Vike for trafikk som allerede er inne i rundkjøringen",
+      "Kjøre inn raskt før de andre rekker frem",
+      "Kun følge med på biler fra høyre"
+    ],
+    "correct_answer": "Vike for trafikk som allerede er inne i rundkjøringen",
+    "category": "Vikeplikt",
+    "difficulty": 2,
+    "explanation": "Trafikk inne i rundkjøringen har forkjørsrett.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kommer til et uoversiktlig kryss uten skilt. Hva bør du være forberedt på?",
+    "answers": [
+      "At trafikk fra høyre kan ha forkjørsrett",
+      "At du alltid har forkjørsrett",
+      "At møtende trafikk må stoppe"
+    ],
+    "correct_answer": "At trafikk fra høyre kan ha forkjørsrett",
+    "category": "Vikeplikt",
+    "difficulty": 3,
+    "explanation": "Høyreregelen gjelder i mange kryss uten skilt eller signaler.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal svinge til venstre i et kryss. Hva må du vanligvis gjøre?",
+    "answers": [
+      "Vike for møtende trafikk",
+      "Kjøre først hvis du signaliserer tidlig",
+      "Kun se etter fotgjengere"
+    ],
+    "correct_answer": "Vike for møtende trafikk",
+    "category": "Vikeplikt",
+    "difficulty": 2,
+    "explanation": "Ved venstresving må du normalt vike for møtende trafikk.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du nærmer deg et kryss med stoppskilt. Det er dårlig sikt til begge sider. Hva er tryggest?",
+    "answers": [
+      "Stoppe helt og kontrollere trafikken nøye",
+      "Rulle sakte frem uten å stoppe",
+      "Kjøre raskt gjennom før andre kommer"
+    ],
+    "correct_answer": "Stoppe helt og kontrollere trafikken nøye",
+    "category": "Vikeplikt",
+    "difficulty": 3,
+    "explanation": "Ved stoppskilt må du stoppe helt og forsikre deg om at det er trygt å kjøre videre.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

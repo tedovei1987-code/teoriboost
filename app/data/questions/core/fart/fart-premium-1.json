@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Du kjører på våt vei og nærmer deg et fotgjengerfelt. Hva bør du gjøre?",
+    "answers": [
+      "Redusere farten og være klar til å stoppe",
+      "Holde samme fart siden du har forkjørsrett",
+      "Øke farten for å passere raskere"
+    ],
+    "correct_answer": "Redusere farten og være klar til å stoppe",
+    "category": "Fart",
+    "difficulty": 2,
+    "explanation": "Våt vei gir lengre bremselengde og krever lavere fart.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvordan påvirker høy fart reaksjons- og bremselengden?",
+    "answers": [
+      "Begge blir lengre",
+      "Begge blir kortere",
+      "Kun reaksjonslengden påvirkes"
+    ],
+    "correct_answer": "Begge blir lengre",
+    "category": "Fart",
+    "difficulty": 1,
+    "explanation": "Høy fart gir lengre stoppstrekning og mindre tid til å reagere.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i mørket på ukjent vei. Hva bør påvirke valg av fart?",
+    "answers": [
+      "Sikt og muligheten til å stoppe innenfor synlig strekning",
+      "Kun fartsgrensen",
+      "Hvor rask bilen din er"
+    ],
+    "correct_answer": "Sikt og muligheten til å stoppe innenfor synlig strekning",
+    "category": "Fart",
+    "difficulty": 2,
+    "explanation": "Du må alltid kunne stoppe på den strekningen du har oversikt over.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

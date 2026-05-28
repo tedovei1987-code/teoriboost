@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du kjører på en mørk landevei og møter en bil i en sving. Hva er viktigst?",
+    "answers": [
+      "Blende ned i tide for å unngå å blende den andre føreren",
+      "Beholde fjernlys for å se best mulig",
+      "Se direkte på lysene fra møtende bil"
+    ],
+    "correct_answer": "Blende ned i tide for å unngå å blende den andre føreren",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Fjernlys kan blende andre trafikanter og skape farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i tett tåke om natten. Hva bør du gjøre?",
+    "answers": [
+      "Tilpasse farten og bruke riktig lys",
+      "Bruke fjernlys hele tiden",
+      "Øke farten for å komme raskere ut av tåken"
+    ],
+    "correct_answer": "Tilpasse farten og bruke riktig lys",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Tåke reduserer sikten kraftig og krever lavere fart og korrekt lysbruk.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du oppdager at frontruten begynner å dugge under kjøring i regnvær. Hva er tryggest?",
+    "answers": [
+      "Sørge for god sikt før du fortsetter",
+      "Fortsette siden du fortsatt ser litt",
+      "Åpne sidevinduet og ignorere duggen"
+    ],
+    "correct_answer": "Sørge for god sikt før du fortsetter",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "God sikt er avgjørende for sikker kjøring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører inn i en tunnel på dagtid. Hva bør du gjøre?",
+    "answers": [
+      "Sørge for at bilens lys er på",
+      "Slå av lysene siden det er dagslys",
+      "Øke farten for å komme raskere gjennom tunnelen"
+    ],
+    "correct_answer": "Sørge for at bilens lys er på",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Lys gjør deg mer synlig i tunneler og bidrar til tryggere trafikk.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du møter en bil med sterke lys som blender deg. Hva bør du gjøre?",
+    "answers": [
+      "Redusere farten og rette blikket mot høyre side av veien",
+      "Se direkte på lysene for å holde oversikt",
+      "Blinke med fjernlys hele tiden"
+    ],
+    "correct_answer": "Redusere farten og rette blikket mot høyre side av veien",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Blending kan redusere sikten betydelig. Du bør redusere farten og unngå å se direkte på lysene.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører på en mørk vei uten gatelys. Når bør du bruke fjernlys?",
+    "answers": [
+      "Når det ikke blender andre trafikanter",
+      "Kun i tettbygde strøk",
+      "Aldri på landevei"
+    ],
+    "correct_answer": "Når det ikke blender andre trafikanter",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Fjernlys gir bedre sikt, men må brukes uten å blende andre.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i kraftig snøvær om natten. Hva er viktigst?",
+    "answers": [
+      "Tilpasse fart og være oppmerksom på redusert sikt",
+      "Bruke fjernlys hele tiden",
+      "Kjøre nær bilen foran for å følge sporene"
+    ],
+    "correct_answer": "Tilpasse fart og være oppmerksom på redusert sikt",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Snøvær kan redusere både sikt og veigrep betydelig.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor er riktig bruk av lys viktig i trafikken?",
+    "answers": [
+      "For å se bedre og bli sett av andre trafikanter",
+      "Kun for å unngå bot",
+      "Bare når det er mørkt"
+    ],
+    "correct_answer": "For å se bedre og bli sett av andre trafikanter",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Riktig lysbruk bidrar til tryggere trafikk for alle.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

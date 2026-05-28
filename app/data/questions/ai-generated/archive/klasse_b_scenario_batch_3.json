@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du kjører i 70 km/t og ser et rådyr ved veikanten. Hva bør du gjøre?",
+    "answers": [
+      "Redusere fart og være klar til å stoppe",
+      "Bruke horn og øke farten",
+      "Kjøre rett mot dyret",
+      "Slå av lysene"
+    ],
+    "correct_answer": "Redusere fart og være klar til å stoppe",
+    "category": "Dyreliv",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal svinge til høyre i et kryss med sykkelfelt. Hva må du passe på?",
+    "answers": [
+      "Syklister i blindsonen",
+      "Kun biler bak",
+      "Kun trafikklys",
+      "Fotgjengere på motsatt side"
+    ],
+    "correct_answer": "Syklister i blindsonen",
+    "category": "Blindsoner",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører bak en traktor på smal vei. Hva er riktig?",
+    "answers": [
+      "Være tålmodig og vente på trygg forbikjøring",
+      "Kjøre forbi i sving",
+      "Bruke horn aggressivt",
+      "Kjøre tett bak"
+    ],
+    "correct_answer": "Være tålmodig og vente på trygg forbikjøring",
+    "category": "Forbikjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du merker at bilen trekker til én side ved bremsing. Hva bør du gjøre?",
+    "answers": [
+      "Få bremsene kontrollert",
+      "Ignorere problemet",
+      "Kjøre raskere",
+      "Slå av ABS"
+    ],
+    "correct_answer": "Få bremsene kontrollert",
+    "category": "Bilteknikk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kommer til en rundkjøring med mye trafikk. Hva er viktig?",
+    "answers": [
+      "Tilpasse fart og orientere seg godt",
+      "Kjøre inn raskt",
+      "Stoppe midt i rundkjøringen",
+      "Ignorere blinklys"
+    ],
+    "correct_answer": "Tilpasse fart og orientere seg godt",
+    "category": "Rundkjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal parkere i nedoverbakke. Hva bør du gjøre?",
+    "answers": [
+      "Sikre bilen mot å rulle",
+      "La bilen stå i fri",
+      "Slå av håndbrems",
+      "Parkere midt i veien"
+    ],
+    "correct_answer": "Sikre bilen mot å rulle",
+    "category": "Parkering",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører på motorvei og ser kø foran deg. Hva gjør du?",
+    "answers": [
+      "Bremser kontrollert og varsler trafikken bak",
+      "Bråbremser uten varsel",
+      "Kjører ut i grøften",
+      "Øker farten"
+    ],
+    "correct_answer": "Bremser kontrollert og varsler trafikken bak",
+    "category": "Motorvei",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre i mørket på landevei uten lys fra andre biler. Hva er riktig?",
+    "answers": [
+      "Bruke fjernlys når det er forsvarlig",
+      "Kjøre uten lys",
+      "Kun bruke parklys",
+      "Bruke nødblink"
+    ],
+    "correct_answer": "Bruke fjernlys når det er forsvarlig",
+    "category": "Mørkekjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du nærmer deg et område med veiarbeid. Hva bør du gjøre?",
+    "answers": [
+      "Redusere fart og følge skilting",
+      "Kjøre som normalt",
+      "Ignorere skiltene",
+      "Øke farten forbi området"
+    ],
+    "correct_answer": "Redusere fart og følge skilting",
+    "category": "Veiarbeid",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i boligområde og ser en ball trille ut i veien. Hva bør du forvente?",
+    "answers": [
+      "At et barn kan komme etter",
+      "At veien er tom",
+      "At trafikken stopper",
+      "At ballen blåser bort"
+    ],
+    "correct_answer": "At et barn kan komme etter",
+    "category": "Risikovurdering",
+    "theory_type": "B"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du kjører på våt vei i 80 km/t og bilen foran bremser hardt. Hva bør du gjøre?",
+    "answers": [
+      "Bremse kontrollert og holde bilen stabil",
+      "Rykke hardt i rattet",
+      "Øke farten for å kjøre forbi",
+      "Slå av lysene"
+    ],
+    "correct_answer": "Bremse kontrollert og holde bilen stabil",
+    "category": "Scenario",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du nærmer deg et gangfelt hvor en person står ved kanten. Hva er riktig?",
+    "answers": [
+      "Være klar til å stoppe",
+      "Kjøre videre uten å se",
+      "Bruke horn for å varsle",
+      "Øke hastigheten"
+    ],
+    "correct_answer": "Være klar til å stoppe",
+    "category": "Scenario",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i mørket og møter en bil med fjernlys på. Hva gjør du?",
+    "answers": [
+      "Ser mot høyre veikant og blender ned",
+      "Ser rett inn i lysene",
+      "Blinker konstant med fjernlys",
+      "Stopper midt i veien"
+    ],
+    "correct_answer": "Ser mot høyre veikant og blender ned",
+    "category": "Mørkekjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjenner at bilen begynner å skli i en sving på glatt vei. Hva bør du gjøre?",
+    "answers": [
+      "Styres rolig i ønsket retning",
+      "Bremse hardt umiddelbart",
+      "Slippe rattet",
+      "Gire opp"
+    ],
+    "correct_answer": "Styres rolig i ønsket retning",
+    "category": "Glattkjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du blir veldig trøtt under en lang kjøretur. Hva er riktig handling?",
+    "answers": [
+      "Stoppe og ta pause",
+      "Åpne vinduet og fortsette",
+      "Kjøre raskere for å bli ferdig",
+      "Drikke energidrikk og ignorere trettheten"
+    ],
+    "correct_answer": "Stoppe og ta pause",
+    "category": "Tretthet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre ut på motorvei. Hva er viktigst?",
+    "answers": [
+      "Tilpasse farten til trafikken",
+      "Stoppe i akselerasjonsfeltet",
+      "Kjøre veldig sakte",
+      "Ignorere biler bak"
+    ],
+    "correct_answer": "Tilpasse farten til trafikken",
+    "category": "Motorvei",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du ser et barn sykle ustabilt langs veien. Hva bør du gjøre?",
+    "answers": [
+      "Redusere fart og være ekstra oppmerksom",
+      "Bruke horn og passere tett",
+      "Kjøre raskt forbi",
+      "Ignorere barnet"
+    ],
+    "correct_answer": "Redusere fart og være ekstra oppmerksom",
+    "category": "Samhandling",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i tett tåke. Hva er riktig?",
+    "answers": [
+      "Tilpasse fart etter sikt",
+      "Kjøre som normalt",
+      "Bruke kun parklys",
+      "Kjøre tett på bilen foran"
+    ],
+    "correct_answer": "Tilpasse fart etter sikt",
+    "category": "Tåke",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kommer først til et ulykkessted. Hva gjør du først?",
+    "answers": [
+      "Sikrer stedet mot nye ulykker",
+      "Tar bilde",
+      "Kjører videre",
+      "Flytter skadde uten vurdering"
+    ],
+    "correct_answer": "Sikrer stedet mot nye ulykker",
+    "category": "Ulykker",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal rygge ut fra en parkeringsplass med dårlig sikt. Hva er riktig?",
+    "answers": [
+      "Rygge sakte og kontrollert",
+      "Rygge raskt",
+      "Kun bruke speil",
+      "Ignorere fotgjengere"
+    ],
+    "correct_answer": "Rygge sakte og kontrollert",
+    "category": "Parkering",
+    "theory_type": "B"
+  }
+]

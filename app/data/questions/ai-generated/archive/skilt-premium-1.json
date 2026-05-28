@@ -1,0 +1,168 @@
+[
+  {
+    "question": "Hva betyr et trekantet fareskilt med reinsdyr-symbol?",
+    "answers": [
+      "Fare for rein i området",
+      "Dyrepark i nærheten",
+      "Forbud mot dyr"
+    ],
+    "correct_answer": "Fare for rein i området",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skiltet varsler fare for rein eller annet stort dyr i området.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr et rundt skilt med rød kant og tallet 80?",
+    "answers": [
+      "Anbefalt fart 80 km/t",
+      "Maks tillatt fart er 80 km/t",
+      "Minimumsfart 80 km/t"
+    ],
+    "correct_answer": "Maks tillatt fart er 80 km/t",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Runde skilt med rød kant viser forbud eller begrensning.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et fareskilt for glatt kjørebane i regnvær. Hva bør du gjøre?",
+    "answers": [
+      "Redusere farten",
+      "Øke farten for bedre kontroll",
+      "Kjøre nærmere bilen foran"
+    ],
+    "correct_answer": "Redusere farten",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Ved glatt vei må du redusere farten og øke avstanden.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr et blått skilt med hvit pil mot høyre?",
+    "answers": [
+      "Påbudt kjøreretning mot høyre",
+      "Forkjørsvei til høyre",
+      "Enveiskjøring"
+    ],
+    "correct_answer": "Påbudt kjøreretning mot høyre",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Blå påbudsskilt viser hvilken retning du må kjøre.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr et fareskilt med barn-symbol?",
+    "answers": [
+      "Fare for barn i området",
+      "Skole forbudt",
+      "Lekeplass parkering"
+    ],
+    "correct_answer": "Fare for barn i området",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skiltet varsler at barn kan komme plutselig ut i veien.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt som varsler innsnevring av veien. Hva bør du være forberedt på?",
+    "answers": [
+      "Mindre plass og møtende trafikk",
+      "Høyere fartsgrense",
+      "Motorvei"
+    ],
+    "correct_answer": "Mindre plass og møtende trafikk",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Innsnevret vei krever økt oppmerksomhet og tilpasning.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr et skilt med rødt kryss over parkeringssymbol?",
+    "answers": [
+      "Parkering forbudt",
+      "Parkering tillatt",
+      "Kun korttidsparkering"
+    ],
+    "correct_answer": "Parkering forbudt",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Rødt kryss betyr at parkering ikke er tillatt.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr et blått motorveiskilt?",
+    "answers": [
+      "Start på motorvei",
+      "Slutt på motorvei",
+      "Forbud mot lastebil"
+    ],
+    "correct_answer": "Start på motorvei",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Motorveiskilt markerer at motorveiregler gjelder.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr et skilt med to biler hvor én er rød?",
+    "answers": [
+      "Forbud mot forbikjøring",
+      "Forbikjøring påbudt",
+      "Forkjørsvei"
+    ],
+    "correct_answer": "Forbud mot forbikjøring",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skiltet betyr at forbikjøring ikke er tillatt.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører inn i en tunnel og ser et skilt for nødstopp-plass. Hva betyr det?",
+    "answers": [
+      "Et område hvor du kan stoppe i nødsituasjoner",
+      "Vanlig parkeringsplass",
+      "Bussholdeplass"
+    ],
+    "correct_answer": "Et område hvor du kan stoppe i nødsituasjoner",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Nødstopp-plasser brukes ved tekniske problemer eller nød.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr dette skiltet?",
+    "answers": [
+      "Forkjørsvei",
+      "Vikeplikt",
+      "Stopp",
+      "Motorvei"
+    ],
+    "correct_answer": "Forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Dette skiltet betyr forkjørsvei.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": "https://nurtlkmdaycpdpaczudj.supabase.co/storage/v1/object/public/question-images/skilt/forkjorsvei.jpg"
+  }
+]

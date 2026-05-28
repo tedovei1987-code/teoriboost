@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du skal rett frem i en rundkjøring med to felt og tett trafikk. Hva er viktigst?",
+    "answers": [
+      "Velge riktig felt og følge nøye med på trafikken rundt deg",
+      "Kjøre raskt inn for å unngå å måtte stoppe",
+      "Kun følge med på bilen foran"
+    ],
+    "correct_answer": "Velge riktig felt og følge nøye med på trafikken rundt deg",
+    "category": "Rundkjøring",
+    "difficulty": 2,
+    "explanation": "Riktig plassering og god observasjon er viktig i rundkjøringer med flere felt.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du nærmer deg en rundkjøring med mye trafikk. Hvem må du vanligvis vike for?",
+    "answers": [
+      "Trafikk som allerede er inne i rundkjøringen",
+      "Kun biler fra høyre",
+      "Ingen hvis du holder høy fart"
+    ],
+    "correct_answer": "Trafikk som allerede er inne i rundkjøringen",
+    "category": "Rundkjøring",
+    "difficulty": 1,
+    "explanation": "Trafikk inne i rundkjøringen har normalt forkjørsrett.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal til venstre i en rundkjøring med flere felt. Hva bør du gjøre før innkjøring?",
+    "answers": [
+      "Plassere deg riktig og kontrollere trafikken nøye",
+      "Legge deg i høyre felt uansett",
+      "Kjøre inn uten å bruke blinklys"
+    ],
+    "correct_answer": "Plassere deg riktig og kontrollere trafikken nøye",
+    "category": "Rundkjøring",
+    "difficulty": 2,
+    "explanation": "Riktig feltvalg og observasjon er viktig ved venstresving i rundkjøring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal ut av en rundkjøring. Hva er viktig før du skifter felt eller kjører ut?",
+    "answers": [
+      "Kontrollere speil og blindsone",
+      "Kun se rett frem",
+      "Bremse hardt uten å sjekke trafikken"
+    ],
+    "correct_answer": "Kontrollere speil og blindsone",
+    "category": "Rundkjøring",
+    "difficulty": 2,
+    "explanation": "Syklister og andre kjøretøy kan befinne seg i blindsonen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører inn i en rundkjøring og ser en syklist på høyre side. Hva bør du gjøre?",
+    "answers": [
+      "Være ekstra oppmerksom og gi syklisten nødvendig plass",
+      "Kjøre tett forbi før syklisten kommer frem",
+      "Kun fokusere på bilene i rundkjøringen"
+    ],
+    "correct_answer": "Være ekstra oppmerksom og gi syklisten nødvendig plass",
+    "category": "Rundkjøring",
+    "difficulty": 3,
+    "explanation": "Syklister kan være vanskelige å oppdage i rundkjøringer.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du nærmer deg en liten rundkjøring uten oppmerking. Hva er tryggest?",
+    "answers": [
+      "Tilpasse farten og være klar til å stoppe",
+      "Kjøre raskt gjennom siden rundkjøringen er liten",
+      "Kun følge med på trafikk fra venstre"
+    ],
+    "correct_answer": "Tilpasse farten og være klar til å stoppe",
+    "category": "Rundkjøring",
+    "difficulty": 2,
+    "explanation": "Små rundkjøringer kan være uoversiktlige og krever lav fart.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når bør du normalt bruke blinklys i rundkjøring?",
+    "answers": [
+      "Når du skal ut av rundkjøringen",
+      "Kun hvis det ikke er andre biler der",
+      "Blinklys brukes ikke i rundkjøring"
+    ],
+    "correct_answer": "Når du skal ut av rundkjøringen",
+    "category": "Rundkjøring",
+    "difficulty": 1,
+    "explanation": "Blinklys gjør det lettere for andre trafikanter å forstå hvor du skal.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i en flerfelts-rundkjøring og oppdager sent at du skal ut. Hva bør du gjøre?",
+    "answers": [
+      "Fortsette rolig rundt til det er trygt å kjøre ut",
+      "Krysse feltene raskt for å rekke avkjøringen",
+      "Stoppe inne i rundkjøringen"
+    ],
+    "correct_answer": "Fortsette rolig rundt til det er trygt å kjøre ut",
+    "category": "Rundkjøring",
+    "difficulty": 3,
+    "explanation": "Brå feltskifte i rundkjøring kan skape farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

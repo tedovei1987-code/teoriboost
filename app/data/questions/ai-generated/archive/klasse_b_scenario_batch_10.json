@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Du kjører på motorvei og ser at trafikken plutselig stopper opp foran deg. Hva bør du gjøre først?",
+    "answers": [
+      "Redusere fart kontrollert og følge med i speil",
+      "Bråbremse uten å sjekke bak",
+      "Svinge ut i annet felt uten å se",
+      "Øke farten forbi køen"
+    ],
+    "correct_answer": "Redusere fart kontrollert og følge med i speil",
+    "category": "Motorvei",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre gjennom et område med mange barn på vei til skole. Hva er riktig?",
+    "answers": [
+      "Kjøre ekstra forsiktig og være forberedt på plutselige bevegelser",
+      "Kjøre som normalt",
+      "Bruke horn ofte",
+      "Øke farten forbi området"
+    ],
+    "correct_answer": "Kjøre ekstra forsiktig og være forberedt på plutselige bevegelser",
+    "category": "Skoleområde",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du merker at bilen sklir litt ved bremsing på våt vei. Hva er smartest?",
+    "answers": [
+      "Bremse roligere og redusere fart",
+      "Bremse hardere",
+      "Rykke i rattet",
+      "Gire opp"
+    ],
+    "correct_answer": "Bremse roligere og redusere fart",
+    "category": "Bremsing",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kommer til en rundkjøring med syklister rundt kanten. Hva må du passe på?",
+    "answers": [
+      "Syklister i blindsonen",
+      "Kun biler i rundkjøringen",
+      "Kun trafikk bak deg",
+      "At syklister alltid stopper"
+    ],
+    "correct_answer": "Syklister i blindsonen",
+    "category": "Blindsoner",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i mørket og ser dårlig oppmerkede fotgjengere langs veien. Hva gjør du?",
+    "answers": [
+      "Sakker ned og øker oppmerksomheten",
+      "Øker farten",
+      "Slår av fjernlys",
+      "Kun følger midtlinjen"
+    ],
+    "correct_answer": "Sakker ned og øker oppmerksomheten",
+    "category": "Mørkekjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører på vinterføre og bilen begynner å understyre i en sving. Hva bør du gjøre?",
+    "answers": [
+      "Redusere fart forsiktig",
+      "Vri rattet mer",
+      "Bremse hardt",
+      "Gasse kraftig"
+    ],
+    "correct_answer": "Redusere fart forsiktig",
+    "category": "Glattkjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du nærmer deg en buss som blinker ut fra holdeplass i tettbygd strøk. Hva gjelder?",
+    "answers": [
+      "Du skal slippe bussen ut",
+      "Bussen har alltid vikeplikt",
+      "Du skal bruke horn",
+      "Du kan ignorere blinklyset"
+    ],
+    "correct_answer": "Du skal slippe bussen ut",
+    "category": "Samhandling",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører på landevei og oppdager løs grus i veibanen. Hva gjør du?",
+    "answers": [
+      "Reduserer fart og kjører rolig",
+      "Øker fart gjennom området",
+      "Bremser hardt i svingen",
+      "Slipper rattet"
+    ],
+    "correct_answer": "Reduserer fart og kjører rolig",
+    "category": "Landevei",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal rygge ut fra en parkeringsplass med dårlig oversikt. Hva er riktig?",
+    "answers": [
+      "Rygge sakte og kontrollert",
+      "Rygge raskt for å komme ut",
+      "Kun bruke ryggekamera",
+      "Ignorere trafikken rundt"
+    ],
+    "correct_answer": "Rygge sakte og kontrollert",
+    "category": "Parkering",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du blir distrahert av passasjerer mens du kjører. Hva bør du gjøre?",
+    "answers": [
+      "Holde fokus på trafikken",
+      "Delta fullt i samtalen",
+      "Se bort fra veien",
+      "Bruke mobilen samtidig"
+    ],
+    "correct_answer": "Holde fokus på trafikken",
+    "category": "Distraksjon",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du ser en bil komme raskt mot deg i ditt kjørefelt. Hva er viktigst?",
+    "answers": [
+      "Redusere fart og forsøke å unngå kollisjon",
+      "Øke farten",
+      "Kjøre rett mot bilen",
+      "Lukke øynene"
+    ],
+    "correct_answer": "Redusere fart og forsøke å unngå kollisjon",
+    "category": "Nødsituasjon",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i kraftig sidevind på bro. Hva bør du gjøre?",
+    "answers": [
+      "Holde godt i rattet og redusere fart",
+      "Øke fart",
+      "Slippe rattet",
+      "Kjøre tett på andre biler"
+    ],
+    "correct_answer": "Holde godt i rattet og redusere fart",
+    "category": "Vind",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre ut på motorvei via akselerasjonsfelt. Hva er viktig?",
+    "answers": [
+      "Tilpasse farten til trafikken",
+      "Stoppe helt",
+      "Kjøre veldig sakte ut",
+      "Ignorere trafikken bak"
+    ],
+    "correct_answer": "Tilpasse farten til trafikken",
+    "category": "Motorvei",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kommer til et område med mange fotgjengere i sentrum. Hva gjør du?",
+    "answers": [
+      "Reduserer fart og følger ekstra godt med",
+      "Kjører fort forbi",
+      "Bruker horn hele tiden",
+      "Kun ser på biler"
+    ],
+    "correct_answer": "Reduserer fart og følger ekstra godt med",
+    "category": "Bykjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i mørket og blir blendet av møtende bil. Hva bør du gjøre?",
+    "answers": [
+      "Se mot høyre veikant",
+      "Se rett i lysene",
+      "Øke farten",
+      "Slå på nødblink"
+    ],
+    "correct_answer": "Se mot høyre veikant",
+    "category": "Mørkekjøring",
+    "theory_type": "B"
+  }
+]

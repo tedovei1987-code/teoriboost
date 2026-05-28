@@ -1,0 +1,4502 @@
+[
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til bussholdeplass. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for bussholdeplass",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for bussholdeplass",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til bussholdeplass krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kollektivfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kollektivfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kollektivfelt",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til kollektivfelt krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til bussholdeplass. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for bussholdeplass",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for bussholdeplass",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til bussholdeplass krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til barn. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for barn",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for barn",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til barn krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til bussholdeplass. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for bussholdeplass",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for bussholdeplass",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til bussholdeplass krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vikeplikt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vikeplikt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vikeplikt",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til vikeplikt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til syklister. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for syklister",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for syklister",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til syklister krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til nødutgang. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for nødutgang",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for nødutgang",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til nødutgang krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til nødutgang. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for nødutgang",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for nødutgang",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til nødutgang krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vikeplikt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vikeplikt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vikeplikt",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til vikeplikt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vikeplikt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vikeplikt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vikeplikt",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til vikeplikt krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til motorvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for motorvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for motorvei",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til motorvei krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kollektivfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kollektivfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kollektivfelt",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til kollektivfelt krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til gangfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for gangfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for gangfelt",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til gangfelt krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til rundkjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for rundkjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for rundkjøring",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til rundkjøring krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til rundkjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for rundkjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for rundkjøring",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til rundkjøring krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til tunnel. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for tunnel",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for tunnel",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til tunnel krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til barn. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for barn",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for barn",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til barn krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til barn. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for barn",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for barn",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til barn krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til syklister. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for syklister",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for syklister",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til syklister krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vegarbeid. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vegarbeid",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vegarbeid",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til vegarbeid krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vegarbeid. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vegarbeid",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vegarbeid",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til vegarbeid krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til barn. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for barn",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for barn",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til barn krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til fartsgrense. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for fartsgrense",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for fartsgrense",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til fartsgrense krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til fartsgrense. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for fartsgrense",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for fartsgrense",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til fartsgrense krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til rundkjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for rundkjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for rundkjøring",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til rundkjøring krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til tunnel. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for tunnel",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for tunnel",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til tunnel krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vegarbeid. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vegarbeid",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vegarbeid",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til vegarbeid krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til rundkjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for rundkjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for rundkjøring",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til rundkjøring krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til fartsgrense. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for fartsgrense",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for fartsgrense",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til fartsgrense krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kollektivfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kollektivfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kollektivfelt",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til kollektivfelt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til rundkjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for rundkjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for rundkjøring",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til rundkjøring krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kollektivfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kollektivfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kollektivfelt",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til kollektivfelt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til glatt kjørebane. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til glatt kjørebane krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vegarbeid. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vegarbeid",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vegarbeid",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til vegarbeid krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til rundkjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for rundkjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for rundkjøring",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til rundkjøring krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til rundkjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for rundkjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for rundkjøring",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til rundkjøring krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til tunnel. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for tunnel",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for tunnel",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til tunnel krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vegarbeid. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vegarbeid",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vegarbeid",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til vegarbeid krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til motorvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for motorvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for motorvei",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til motorvei krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til syklister. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for syklister",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for syklister",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til syklister krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til nødutgang. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for nødutgang",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for nødutgang",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til nødutgang krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til syklister. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for syklister",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for syklister",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til syklister krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vikeplikt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vikeplikt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vikeplikt",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til vikeplikt krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til syklister. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for syklister",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for syklister",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til syklister krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kollektivfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kollektivfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kollektivfelt",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til kollektivfelt krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til motorvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for motorvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for motorvei",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til motorvei krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til tunnel. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for tunnel",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for tunnel",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til tunnel krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til motorvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for motorvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for motorvei",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til motorvei krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til gangfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for gangfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for gangfelt",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til gangfelt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til fartsgrense. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for fartsgrense",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for fartsgrense",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til fartsgrense krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til tunnel. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for tunnel",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for tunnel",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til tunnel krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til motorvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for motorvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for motorvei",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til motorvei krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til fartsgrense. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for fartsgrense",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for fartsgrense",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til fartsgrense krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til glatt kjørebane. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til glatt kjørebane krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til tunnel. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for tunnel",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for tunnel",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til tunnel krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vegarbeid. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vegarbeid",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vegarbeid",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til vegarbeid krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til glatt kjørebane. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til glatt kjørebane krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til barn. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for barn",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for barn",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til barn krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til rundkjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for rundkjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for rundkjøring",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til rundkjøring krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vikeplikt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vikeplikt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vikeplikt",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til vikeplikt krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vikeplikt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vikeplikt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vikeplikt",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til vikeplikt krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til fartsgrense. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for fartsgrense",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for fartsgrense",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til fartsgrense krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til rundkjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for rundkjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for rundkjøring",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til rundkjøring krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til bussholdeplass. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for bussholdeplass",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for bussholdeplass",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til bussholdeplass krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til nødutgang. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for nødutgang",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for nødutgang",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til nødutgang krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til tunnel. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for tunnel",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for tunnel",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til tunnel krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til syklister. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for syklister",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for syklister",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til syklister krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vegarbeid. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vegarbeid",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vegarbeid",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til vegarbeid krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vegarbeid. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vegarbeid",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vegarbeid",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til vegarbeid krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til nødutgang. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for nødutgang",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for nødutgang",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til nødutgang krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til tunnel. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for tunnel",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for tunnel",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til tunnel krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til fartsgrense. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for fartsgrense",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for fartsgrense",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til fartsgrense krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til barn. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for barn",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for barn",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til barn krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til barn. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for barn",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for barn",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til barn krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til barn. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for barn",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for barn",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til barn krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til fartsgrense. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for fartsgrense",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for fartsgrense",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til fartsgrense krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vikeplikt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vikeplikt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vikeplikt",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til vikeplikt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til nødutgang. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for nødutgang",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for nødutgang",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til nødutgang krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til motorvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for motorvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for motorvei",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til motorvei krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til fartsgrense. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for fartsgrense",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for fartsgrense",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til fartsgrense krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til nødutgang. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for nødutgang",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for nødutgang",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til nødutgang krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til bussholdeplass. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for bussholdeplass",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for bussholdeplass",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til bussholdeplass krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til bussholdeplass. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for bussholdeplass",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for bussholdeplass",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til bussholdeplass krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til bussholdeplass. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for bussholdeplass",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for bussholdeplass",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til bussholdeplass krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kollektivfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kollektivfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kollektivfelt",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til kollektivfelt krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vikeplikt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vikeplikt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vikeplikt",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til vikeplikt krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til bussholdeplass. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for bussholdeplass",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for bussholdeplass",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til bussholdeplass krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til glatt kjørebane. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til glatt kjørebane krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vegarbeid. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vegarbeid",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vegarbeid",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til vegarbeid krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til glatt kjørebane. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til glatt kjørebane krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til motorvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for motorvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for motorvei",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til motorvei krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til motorvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for motorvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for motorvei",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til motorvei krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til syklister. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for syklister",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for syklister",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til syklister krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til tunnel. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for tunnel",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for tunnel",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til tunnel krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til bussholdeplass. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for bussholdeplass",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for bussholdeplass",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til bussholdeplass krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til fartsgrense. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for fartsgrense",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for fartsgrense",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til fartsgrense krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til tunnel. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for tunnel",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for tunnel",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til tunnel krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kollektivfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kollektivfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kollektivfelt",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til kollektivfelt krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til gangfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for gangfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for gangfelt",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til gangfelt krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til bussholdeplass. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for bussholdeplass",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for bussholdeplass",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til bussholdeplass krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til barn. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for barn",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for barn",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til barn krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til barn. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for barn",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for barn",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til barn krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til gangfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for gangfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for gangfelt",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til gangfelt krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til rundkjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for rundkjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for rundkjøring",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til rundkjøring krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kollektivfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kollektivfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kollektivfelt",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til kollektivfelt krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vegarbeid. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vegarbeid",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vegarbeid",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til vegarbeid krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vikeplikt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vikeplikt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vikeplikt",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til vikeplikt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vegarbeid. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vegarbeid",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vegarbeid",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til vegarbeid krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til barn. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for barn",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for barn",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til barn krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til rundkjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for rundkjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for rundkjøring",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til rundkjøring krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til glatt kjørebane. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til glatt kjørebane krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til nødutgang. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for nødutgang",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for nødutgang",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til nødutgang krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til syklister. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for syklister",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for syklister",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til syklister krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til gangfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for gangfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for gangfelt",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til gangfelt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vegarbeid. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vegarbeid",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vegarbeid",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til vegarbeid krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til fartsgrense. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for fartsgrense",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for fartsgrense",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til fartsgrense krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til glatt kjørebane. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til glatt kjørebane krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til fartsgrense. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for fartsgrense",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for fartsgrense",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til fartsgrense krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til tunnel. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for tunnel",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for tunnel",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til tunnel krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til rundkjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for rundkjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for rundkjøring",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til rundkjøring krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til barn. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for barn",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for barn",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til barn krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til barn. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for barn",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for barn",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til barn krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til tunnel. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for tunnel",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for tunnel",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til tunnel krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til rundkjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for rundkjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for rundkjøring",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til rundkjøring krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til rundkjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for rundkjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for rundkjøring",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til rundkjøring krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til tunnel. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for tunnel",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for tunnel",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til tunnel krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til barn. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for barn",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for barn",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til barn krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til gangfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for gangfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for gangfelt",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til gangfelt krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til syklister. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for syklister",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for syklister",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til syklister krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til fartsgrense. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for fartsgrense",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for fartsgrense",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til fartsgrense krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til tunnel. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for tunnel",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for tunnel",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til tunnel krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vikeplikt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vikeplikt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vikeplikt",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til vikeplikt krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til rundkjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for rundkjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for rundkjøring",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til rundkjøring krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kollektivfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kollektivfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kollektivfelt",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til kollektivfelt krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til bussholdeplass. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for bussholdeplass",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for bussholdeplass",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til bussholdeplass krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til nødutgang. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for nødutgang",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for nødutgang",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til nødutgang krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til fartsgrense. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for fartsgrense",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for fartsgrense",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til fartsgrense krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til glatt kjørebane. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til glatt kjørebane krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til glatt kjørebane. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til glatt kjørebane krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til gangfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for gangfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for gangfelt",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til gangfelt krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til syklister. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for syklister",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for syklister",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til syklister krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kollektivfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kollektivfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kollektivfelt",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til kollektivfelt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til gangfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for gangfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for gangfelt",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til gangfelt krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til parkering. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for parkering",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for parkering",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til parkering krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kollektivfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kollektivfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kollektivfelt",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til kollektivfelt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til glatt kjørebane. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til glatt kjørebane krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til stopp. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for stopp",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for stopp",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til stopp krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til glatt kjørebane. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til glatt kjørebane krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til glatt kjørebane. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til glatt kjørebane krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kø. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kø",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kø",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til kø krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til motorvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for motorvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for motorvei",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til motorvei krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kollektivfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kollektivfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kollektivfelt",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til kollektivfelt krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vikeplikt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vikeplikt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vikeplikt",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til vikeplikt krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til tunnel. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for tunnel",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for tunnel",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til tunnel krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vikeplikt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vikeplikt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vikeplikt",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til vikeplikt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til gangfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for gangfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for gangfelt",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til gangfelt krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forbikjøring. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forbikjøring",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forbikjøring",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til forbikjøring krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til barn. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for barn",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for barn",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til barn krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til motorvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for motorvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for motorvei",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til motorvei krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til glatt kjørebane. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for glatt kjørebane",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til glatt kjørebane krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vegarbeid. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vegarbeid",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vegarbeid",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til vegarbeid krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vegarbeid. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vegarbeid",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vegarbeid",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til vegarbeid krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til kollektivfelt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for kollektivfelt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for kollektivfelt",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til kollektivfelt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til nødutgang. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for nødutgang",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for nødutgang",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til nødutgang krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 3,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til nødutgang. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for nødutgang",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for nødutgang",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til nødutgang krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til dyr. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for dyr",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for dyr",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til dyr krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til barn. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for barn",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for barn",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til barn krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til nødutgang. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for nødutgang",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for nødutgang",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til nødutgang krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vikeplikt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vikeplikt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vikeplikt",
+    "category": "Skilt",
+    "difficulty": 4,
+    "explanation": "Skilt relatert til vikeplikt krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til vegarbeid. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for vegarbeid",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for vegarbeid",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skilt relatert til vegarbeid krever at du tilpasser kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til innkjøring forbudt. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for innkjøring forbudt",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Skilt relatert til innkjøring forbudt krever at du tilpasser kjøringen.",
+    "theory_type": "exam",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt relatert til forkjørsvei. Hva er riktig handling?",
+    "answers": [
+      "Tilpasse kjøringen etter skiltet for forkjørsvei",
+      "Ignorere skiltet dersom veien virker tom",
+      "Øke farten for å komme raskere forbi"
+    ],
+    "correct_answer": "Tilpasse kjøringen etter skiltet for forkjørsvei",
+    "category": "Skilt",
+    "difficulty": 5,
+    "explanation": "Skilt relatert til forkjørsvei krever at du tilpasser kjøringen.",
+    "theory_type": "trap",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du kjører i tett bytrafikk og en fotgjenger begynner å gå ut i veien mellom parkerte biler. Hva gjør du?",
+    "answers": [
+      "Bremser og er klar til å stoppe",
+      "Bruker horn og kjører videre",
+      "Øker farten",
+      "Ignorerer fotgjengeren"
+    ],
+    "correct_answer": "Bremser og er klar til å stoppe",
+    "category": "Bykjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører på motorvei og kjenner at bilen begynner å trekke mot siden. Hva bør du gjøre?",
+    "answers": [
+      "Redusere fart og stoppe trygt",
+      "Øke farten",
+      "Ignorere problemet",
+      "Bremse hardt midt i feltet"
+    ],
+    "correct_answer": "Redusere fart og stoppe trygt",
+    "category": "Bilteknikk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre gjennom en rundkjøring med flere felt. Hva er viktig?",
+    "answers": [
+      "Velge riktig felt tidlig",
+      "Bytte felt tilfeldig",
+      "Stoppe i rundkjøringen",
+      "Ignorere skilting"
+    ],
+    "correct_answer": "Velge riktig felt tidlig",
+    "category": "Rundkjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører på glatt vei og må svinge. Hva bør du unngå?",
+    "answers": [
+      "Brå rattbevegelser",
+      "Rolig styring",
+      "Lav fart",
+      "Motorbrems"
+    ],
+    "correct_answer": "Brå rattbevegelser",
+    "category": "Glattkjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du nærmer deg et gangfelt der en eldre person er på vei over. Hva er riktig?",
+    "answers": [
+      "Stoppe og gi personen tid",
+      "Kjøre foran personen",
+      "Bruke horn",
+      "Øke farten"
+    ],
+    "correct_answer": "Stoppe og gi personen tid",
+    "category": "Gangfelt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører bak en lastebil i mørket. Hva bør du tenke på?",
+    "answers": [
+      "Holde god avstand",
+      "Kjøre tett for bedre lys",
+      "Blende med fjernlys",
+      "Kjøre forbi uten sikt"
+    ],
+    "correct_answer": "Holde god avstand",
+    "category": "Mørkekjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre ut fra en parkeringsplass til trafikkert vei. Hva gjelder?",
+    "answers": [
+      "Du har vikeplikt",
+      "Du har forkjørsrett",
+      "Ingen regler gjelder",
+      "Du kan kjøre først hvis du blinker"
+    ],
+    "correct_answer": "Du har vikeplikt",
+    "category": "Vikeplikt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du ser at det ligger grus i en sving. Hva bør du gjøre?",
+    "answers": [
+      "Redusere fart før svingen",
+      "Øke fart gjennom svingen",
+      "Bremse hardt midt i svingen",
+      "Ignorere grusen"
+    ],
+    "correct_answer": "Redusere fart før svingen",
+    "category": "Risikovurdering",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du blir distrahert av mobilen under kjøring. Hva er riktig?",
+    "answers": [
+      "Legge mobilen bort",
+      "Svare raskt",
+      "Se ned i fanget",
+      "Skrive melding i kø"
+    ],
+    "correct_answer": "Legge mobilen bort",
+    "category": "Distraksjon",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i et område med mange syklister og fotgjengere. Hva er viktigst?",
+    "answers": [
+      "Lav fart og god oversikt",
+      "Rask gjennomkjøring",
+      "Kun fokus på biler",
+      "Bruke horn ofte"
+    ],
+    "correct_answer": "Lav fart og god oversikt",
+    "category": "Samhandling",
+    "theory_type": "B"
+  }
+]

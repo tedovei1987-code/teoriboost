@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Hva betyr skilt med ku-symbol?",
+    "answers": [
+      "Fare for dyr på veien",
+      "Gård",
+      "Dyrebutikk",
+      "Parkering"
+    ],
+    "correct_answer": "Fare for dyr på veien",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva bør du gjøre ved dårlig sikt?",
+    "answers": [
+      "Redusere fart",
+      "Øke fart",
+      "Slå av lys",
+      "Kjøre nærmere bilen foran"
+    ],
+    "correct_answer": "Redusere fart",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med utropstegn?",
+    "answers": [
+      "Annen fare",
+      "Parkering",
+      "Motorvei",
+      "Tunnel"
+    ],
+    "correct_answer": "Annen fare",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva skal du gjøre før du åpner bildøren?",
+    "answers": [
+      "Sjekke for syklister og trafikk",
+      "Hoppe ut raskt",
+      "Blinke med lys",
+      "Bruke horn"
+    ],
+    "correct_answer": "Sjekke for syklister og trafikk",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med barn og skole?",
+    "answers": [
+      "Skoleområde",
+      "Lekeplass",
+      "Parkering",
+      "Motorvei"
+    ],
+    "correct_answer": "Skoleområde",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva bør du gjøre ved tett tåke?",
+    "answers": [
+      "Bruke tåkelys ved behov",
+      "Kjøre fortere",
+      "Slå av lys",
+      "Parkere i veien"
+    ],
+    "correct_answer": "Bruke tåkelys ved behov",
+    "category": "Lysbruk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med forbikjøring slutt?",
+    "answers": [
+      "Forbikjøring tillatt igjen",
+      "Motorvei",
+      "Parkering",
+      "Tunnel"
+    ],
+    "correct_answer": "Forbikjøring tillatt igjen",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er riktig ved rygging?",
+    "answers": [
+      "Rygg sakte og kontrollert",
+      "Rygg raskt",
+      "Se kun i speil",
+      "Ignorere omgivelsene"
+    ],
+    "correct_answer": "Rygg sakte og kontrollert",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med sykkel og fotgjenger?",
+    "answers": [
+      "Gang- og sykkelvei",
+      "Motorvei",
+      "Privat vei",
+      "Tunnel"
+    ],
+    "correct_answer": "Gang- og sykkelvei",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva bør du gjøre hvis ABS aktiveres?",
+    "answers": [
+      "Holde bremsen inne",
+      "Pumpe bremsene",
+      "Slippe rattet",
+      "Øke fart"
+    ],
+    "correct_answer": "Holde bremsen inne",
+    "category": "Bilteknikk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med enveiskjøring?",
+    "answers": [
+      "Kjøring kun én retning",
+      "Motorvei",
+      "Gangfelt",
+      "Parkering"
+    ],
+    "correct_answer": "Kjøring kun én retning",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er viktig ved forbikjøring av syklister?",
+    "answers": [
+      "Holde god avstand",
+      "Kjøre tett",
+      "Bruke horn konstant",
+      "Øke fart kraftig"
+    ],
+    "correct_answer": "Holde god avstand",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med gående mann?",
+    "answers": [
+      "Gangvei",
+      "Motorvei",
+      "Forbikjøring",
+      "Tunnel"
+    ],
+    "correct_answer": "Gangvei",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva bør du gjøre ved sterk sol?",
+    "answers": [
+      "Bruke solskjerm eller solbriller",
+      "Slå av lys",
+      "Kjøre raskere",
+      "Lukke øynene kort"
+    ],
+    "correct_answer": "Bruke solskjerm eller solbriller",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med innsnevring?",
+    "answers": [
+      "Veien blir smalere",
+      "Tunnel",
+      "Parkering",
+      "Motorvei"
+    ],
+    "correct_answer": "Veien blir smalere",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er viktig ved bruk av vinterdekk?",
+    "answers": [
+      "Tilpasset vinterføre",
+      "Kun for motorvei",
+      "Kun for sommer",
+      "Kun for regn"
+    ],
+    "correct_answer": "Tilpasset vinterføre",
+    "category": "Bilteknikk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med parkering forbudt?",
+    "answers": [
+      "Parkering ikke tillatt",
+      "Gratis parkering",
+      "Korttidsparkering",
+      "Privat vei"
+    ],
+    "correct_answer": "Parkering ikke tillatt",
+    "category": "Parkering",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva bør du gjøre hvis bilen sklir?",
+    "answers": [
+      "Styres mot skrensretningen",
+      "Bremse hardt",
+      "Slippe rattet",
+      "Øke fart"
+    ],
+    "correct_answer": "Styres mot skrensretningen",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med tunnel-symbol?",
+    "answers": [
+      "Tunnel",
+      "Motorvei",
+      "Gangfelt",
+      "Parkering"
+    ],
+    "correct_answer": "Tunnel",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er viktig ved kjøring i boligområde?",
+    "answers": [
+      "Være oppmerksom på barn",
+      "Kjøre fort",
+      "Bruke horn ofte",
+      "Ignorere fotgjengere"
+    ],
+    "correct_answer": "Være oppmerksom på barn",
+    "category": "Trafikkregler",
+    "theory_type": "B"
+  }
+]

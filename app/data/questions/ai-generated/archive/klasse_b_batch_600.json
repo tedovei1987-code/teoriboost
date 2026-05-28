@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Hva betyr skilt med tog-symbol?",
+    "answers": [
+      "Jernbaneovergang",
+      "Bussholdeplass",
+      "Motorvei",
+      "Tunnel"
+    ],
+    "correct_answer": "Jernbaneovergang",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva skal du gjøre ved jernbaneovergang uten bom?",
+    "answers": [
+      "Være ekstra oppmerksom",
+      "Kjøre raskt over",
+      "Bruke horn",
+      "Stoppe midt på"
+    ],
+    "correct_answer": "Være ekstra oppmerksom",
+    "category": "Trafikkregler",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er riktig ved kjøring på isete vei?",
+    "answers": [
+      "Kjøre rolig",
+      "Bremse hardt",
+      "Øke fart",
+      "Kjøre tett"
+    ],
+    "correct_answer": "Kjøre rolig",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med buss-symbol?",
+    "answers": [
+      "Bussholdeplass",
+      "Motorvei",
+      "Forbikjøring",
+      "Gangfelt"
+    ],
+    "correct_answer": "Bussholdeplass",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er riktig bruk av sikkerhetsbelte?",
+    "answers": [
+      "Alle i bilen skal bruke det",
+      "Kun sjåfør",
+      "Kun på motorvei",
+      "Kun barn"
+    ],
+    "correct_answer": "Alle i bilen skal bruke det",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med P og klokkeslett?",
+    "answers": [
+      "Tidsbegrenset parkering",
+      "Parkering forbudt",
+      "Privat vei",
+      "Tunnel"
+    ],
+    "correct_answer": "Tidsbegrenset parkering",
+    "category": "Parkering",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er viktig ved kjøring i regn?",
+    "answers": [
+      "Bruke vindusviskere",
+      "Slå av lys",
+      "Kjøre raskere",
+      "Holde kort avstand"
+    ],
+    "correct_answer": "Bruke vindusviskere",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med steinsprut-symbol?",
+    "answers": [
+      "Fare for steinsprang",
+      "Grusvei",
+      "Anleggsområde",
+      "Tunnel"
+    ],
+    "correct_answer": "Fare for steinsprang",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er viktig ved bruk av mobil under kjøring?",
+    "answers": [
+      "Unngå bruk uten handsfree",
+      "Holde mobilen i hånden",
+      "Skrive meldinger",
+      "Bruke sosiale medier"
+    ],
+    "correct_answer": "Unngå bruk uten handsfree",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med rundkjøring-symbol?",
+    "answers": [
+      "Rundkjøring",
+      "Motorvei",
+      "Gangvei",
+      "Parkering"
+    ],
+    "correct_answer": "Rundkjøring",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva bør du gjøre ved sterk vind?",
+    "answers": [
+      "Holde godt i rattet",
+      "Kjøre fortere",
+      "Slå av lys",
+      "Lukke speil"
+    ],
+    "correct_answer": "Holde godt i rattet",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr gult blinkende trafikklys?",
+    "answers": [
+      "Vær ekstra oppmerksom",
+      "Kjør fort",
+      "Motorvei",
+      "Parkering"
+    ],
+    "correct_answer": "Vær ekstra oppmerksom",
+    "category": "Trafikklys",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er riktig ved møtende trafikk i mørket?",
+    "answers": [
+      "Blende ned fjernlys",
+      "Bruke nødblink",
+      "Øke fart",
+      "Slå av lys"
+    ],
+    "correct_answer": "Blende ned fjernlys",
+    "category": "Lysbruk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med glatt vei-symbol?",
+    "answers": [
+      "Fare for glatt vei",
+      "Vask av bil",
+      "Snørydding",
+      "Tunnel"
+    ],
+    "correct_answer": "Fare for glatt vei",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er viktig ved lange kjøreturer?",
+    "answers": [
+      "Ta pauser",
+      "Kjøre uten stopp",
+      "Øke fart",
+      "Unngå mat"
+    ],
+    "correct_answer": "Ta pauser",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med kamera-symbol?",
+    "answers": [
+      "Fotoboks",
+      "Turistområde",
+      "Parkering",
+      "Tunnel"
+    ],
+    "correct_answer": "Fotoboks",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva bør du gjøre ved motorstopp?",
+    "answers": [
+      "Sikre bilen og varsle",
+      "Forlate bilen midt i veien",
+      "Kjøre videre",
+      "Bruke horn"
+    ],
+    "correct_answer": "Sikre bilen og varsle",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med smal vei-symbol?",
+    "answers": [
+      "Veien blir smalere",
+      "Motorvei",
+      "Parkering",
+      "Sykkelvei"
+    ],
+    "correct_answer": "Veien blir smalere",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er viktig ved kjøring i tunnel?",
+    "answers": [
+      "Holde avstand",
+      "Kjøre uten lys",
+      "Parkere",
+      "Bruke mobil"
+    ],
+    "correct_answer": "Holde avstand",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med fartsgrense 60?",
+    "answers": [
+      "Maks 60 km/t",
+      "Minst 60 km/t",
+      "Anbefalt fart",
+      "Forbikjøring"
+    ],
+    "correct_answer": "Maks 60 km/t",
+    "category": "Skilt",
+    "theory_type": "B"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Hva betyr et skilt med barn-symbol?",
+    "answers": [
+      "Fare for barn",
+      "Lekeplass",
+      "Skolefri",
+      "Gangvei"
+    ],
+    "correct_answer": "Fare for barn",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva skal du gjøre ved gul varsellampe for olje?",
+    "answers": [
+      "Kontrollere olje",
+      "Øke fart",
+      "Ignorere lampen",
+      "Skru av lys"
+    ],
+    "correct_answer": "Kontrollere olje",
+    "category": "Bilteknikk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er viktig ved kjøring i mørket?",
+    "answers": [
+      "Tilpasse fart etter sikt",
+      "Kjøre raskere",
+      "Bruke nødblink",
+      "Slå av nærlys"
+    ],
+    "correct_answer": "Tilpasse fart etter sikt",
+    "category": "Lysbruk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr fotgjengersymbol på skilt?",
+    "answers": [
+      "Gangfelt eller gangvei",
+      "Motorvei",
+      "Parkering",
+      "Forbikjøring"
+    ],
+    "correct_answer": "Gangfelt eller gangvei",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva bør du gjøre ved kø?",
+    "answers": [
+      "Holde avstand",
+      "Kjøre tett",
+      "Bruke horn hele tiden",
+      "Blinke konstant"
+    ],
+    "correct_answer": "Holde avstand",
+    "category": "Trafikkregler",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med sykkel-symbol?",
+    "answers": [
+      "Sykkelvei",
+      "Motorvei",
+      "Tunnel",
+      "Parkering"
+    ],
+    "correct_answer": "Sykkelvei",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva skjer med bremselengden på våt vei?",
+    "answers": [
+      "Den blir lengre",
+      "Den blir kortere",
+      "Ingen forskjell",
+      "Den halveres"
+    ],
+    "correct_answer": "Den blir lengre",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er viktig ved tunnelkjøring?",
+    "answers": [
+      "Bruke nærlys",
+      "Slå av lys",
+      "Parkere",
+      "Kjøre uten belte"
+    ],
+    "correct_answer": "Bruke nærlys",
+    "category": "Lysbruk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med snøfnugg?",
+    "answers": [
+      "Fare for glatt vei",
+      "Snøpark",
+      "Skianlegg",
+      "Rasteplass"
+    ],
+    "correct_answer": "Fare for glatt vei",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er riktig ved motorvei?",
+    "answers": [
+      "Bruke akselerasjonsfelt",
+      "Stoppe ved innkjøring",
+      "Kjøre mot trafikken",
+      "Parkere i veikanten"
+    ],
+    "correct_answer": "Bruke akselerasjonsfelt",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med to biler og rød bil?",
+    "answers": [
+      "Forbikjøring forbudt",
+      "Motorvei",
+      "Vikeplikt",
+      "Parkering"
+    ],
+    "correct_answer": "Forbikjøring forbudt",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hvorfor er riktig dekktrykk viktig?",
+    "answers": [
+      "Bedre sikkerhet og grep",
+      "Høyere musikk",
+      "Bedre radio",
+      "Større motor"
+    ],
+    "correct_answer": "Bedre sikkerhet og grep",
+    "category": "Bilteknikk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr trekantet skilt med kryss?",
+    "answers": [
+      "Farlig veikryss",
+      "Parkering",
+      "Gangfelt",
+      "Sykkelvei"
+    ],
+    "correct_answer": "Farlig veikryss",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er riktig ved passering av skolebuss?",
+    "answers": [
+      "Vise ekstra hensyn",
+      "Kjøre forbi raskt",
+      "Bruke horn",
+      "Ignorere barn"
+    ],
+    "correct_answer": "Vise ekstra hensyn",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr skilt med bensinpumpe?",
+    "answers": [
+      "Bensinstasjon",
+      "Motorstopp",
+      "Vikeplikt",
+      "Parkering"
+    ],
+    "correct_answer": "Bensinstasjon",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva bør du gjøre før forbikjøring?",
+    "answers": [
+      "Kontrollere sikt og trafikk",
+      "Slå av lys",
+      "Bremse hardt",
+      "Kjøre nær bilen foran"
+    ],
+    "correct_answer": "Kontrollere sikt og trafikk",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr hvit pil malt i veien?",
+    "answers": [
+      "Kjøreretning",
+      "Stopp",
+      "Parkering",
+      "Forbikjøring"
+    ],
+    "correct_answer": "Kjøreretning",
+    "category": "Vegmerking",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er riktig ved regnvær?",
+    "answers": [
+      "Øke avstanden",
+      "Kjøre raskere",
+      "Slå av vindusviskere",
+      "Bruke horn"
+    ],
+    "correct_answer": "Øke avstanden",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva betyr blått skilt med hvit pil?",
+    "answers": [
+      "Påbudt kjøreretning",
+      "Fare",
+      "Stopp",
+      "Forbud"
+    ],
+    "correct_answer": "Påbudt kjøreretning",
+    "category": "Skilt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Hva er viktig ved parkering i bakke?",
+    "answers": [
+      "Sikre bilen mot rulling",
+      "Slå av lys",
+      "Kjøre videre",
+      "Bruke horn"
+    ],
+    "correct_answer": "Sikre bilen mot rulling",
+    "category": "Parkering",
+    "theory_type": "B"
+  }
+]

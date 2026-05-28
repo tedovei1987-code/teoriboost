@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du nærmer deg et gangfelt hvor en fotgjenger er på vei ut i veibanen. Hva må du gjøre?",
+    "answers": [
+      "Stoppe og slippe fotgjengeren over",
+      "Kjøre videre hvis du holder fartsgrensen",
+      "Blinke med lysene for å varsle"
+    ],
+    "correct_answer": "Stoppe og slippe fotgjengeren over",
+    "category": "Regler",
+    "difficulty": 1,
+    "explanation": "Førere skal stanse for fotgjengere som er i eller på vei ut i gangfelt.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal skifte kjørefelt i tett trafikk. Hva er viktigst?",
+    "answers": [
+      "Kontrollere speil, blindsone og bruke blinklys",
+      "Kjøre raskt over før andre rekker frem",
+      "Kun se i bakspeilet"
+    ],
+    "correct_answer": "Kontrollere speil, blindsone og bruke blinklys",
+    "category": "Regler",
+    "difficulty": 2,
+    "explanation": "Ved feltskifte må du forsikre deg om at det kan gjøres trygt.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kommer til et kryss uten skilt eller signaler. Hvilken regel gjelder vanligvis?",
+    "answers": [
+      "Høyreregelen",
+      "Forkjørsrett for den største bilen",
+      "At møtende trafikk alltid må stoppe"
+    ],
+    "correct_answer": "Høyreregelen",
+    "category": "Regler",
+    "difficulty": 1,
+    "explanation": "I kryss uten regulering gjelder normalt høyreregelen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal rygge ut fra en parkeringsplass. Hva har du ansvar for?",
+    "answers": [
+      "At ryggingen skjer uten fare eller hinder for andre",
+      "At andre trafikanter stopper for deg",
+      "At bilen bak flytter seg"
+    ],
+    "correct_answer": "At ryggingen skjer uten fare eller hinder for andre",
+    "category": "Regler",
+    "difficulty": 2,
+    "explanation": "Ved rygging har føreren et særlig ansvar for sikkerheten.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når skal du bruke blinklys?",
+    "answers": [
+      "Når du skal svinge eller skifte kjørefelt",
+      "Kun på motorvei",
+      "Bare når det er mørkt"
+    ],
+    "correct_answer": "Når du skal svinge eller skifte kjørefelt",
+    "category": "Regler",
+    "difficulty": 1,
+    "explanation": "Blinklys brukes for å varsle andre trafikanter om planlagte manøvrer.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du nærmer deg en skole i skoletiden. Hva bør du gjøre?",
+    "answers": [
+      "Redusere farten og være ekstra oppmerksom",
+      "Holde samme fart som ellers",
+      "Bruke hornet for å varsle barna"
+    ],
+    "correct_answer": "Redusere farten og være ekstra oppmerksom",
+    "category": "Regler",
+    "difficulty": 2,
+    "explanation": "Barn kan være uforutsigbare i trafikken og krever ekstra aktsomhet.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal svinge til venstre i et kryss. Hva må du vanligvis gjøre?",
+    "answers": [
+      "Vike for møtende trafikk",
+      "Kjøre først hvis du blinker",
+      "Kun følge med på biler bak"
+    ],
+    "correct_answer": "Vike for møtende trafikk",
+    "category": "Regler",
+    "difficulty": 1,
+    "explanation": "Ved venstresving må du normalt vike for møtende trafikk.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er riktig plassering på vei med toveis trafikk?",
+    "answers": [
+      "På høyre side av veien",
+      "Midt i kjørebanen",
+      "Så nær midtlinjen som mulig"
+    ],
+    "correct_answer": "På høyre side av veien",
+    "category": "Regler",
+    "difficulty": 1,
+    "explanation": "I Norge gjelder høyrekjøring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

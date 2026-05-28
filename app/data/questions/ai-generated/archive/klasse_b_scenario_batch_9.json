@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Du kjører på landevei om natten og ser refleks fra dyr ved veikanten. Hva gjør du?",
+    "answers": [
+      "Sakker ned og er klar til å stoppe",
+      "Øker farten for å passere raskt",
+      "Ser bort fra veikanten",
+      "Slår av fjernlys"
+    ],
+    "correct_answer": "Sakker ned og er klar til å stoppe",
+    "category": "Dyreliv",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre ut fra en sidevei til forkjørsvei. Hva gjelder?",
+    "answers": [
+      "Du har vikeplikt",
+      "Du har alltid forkjørsrett",
+      "Den største bilen kjører først",
+      "Du kan kjøre først hvis du blinker"
+    ],
+    "correct_answer": "Du har vikeplikt",
+    "category": "Vikeplikt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du merker at bilen foran bremser ujevnt og vingler. Hva bør du gjøre?",
+    "answers": [
+      "Holde ekstra avstand",
+      "Kjøre tett bak",
+      "Forbikjøre uten sikt",
+      "Bruke horn aggressivt"
+    ],
+    "correct_answer": "Holde ekstra avstand",
+    "category": "Risikovurdering",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører på våt vei og bilen begynner å miste grep i en sving. Hva er riktig?",
+    "answers": [
+      "Redusere fart rolig",
+      "Bremse hardt",
+      "Rykke i rattet",
+      "Gire opp"
+    ],
+    "correct_answer": "Redusere fart rolig",
+    "category": "Vannplaning",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du nærmer deg en fotgjengerovergang i tett regnvær. Hva er viktig?",
+    "answers": [
+      "Være ekstra oppmerksom på fotgjengere",
+      "Øke farten",
+      "Kun følge bilen foran",
+      "Bruke horn"
+    ],
+    "correct_answer": "Være ekstra oppmerksom på fotgjengere",
+    "category": "Gangfelt",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre i et område med mange syklister. Hva bør du gjøre?",
+    "answers": [
+      "Holde god avstand og følge nøye med",
+      "Kjøre tett forbi",
+      "Bruke horn hele tiden",
+      "Ignorere sykkelfelt"
+    ],
+    "correct_answer": "Holde god avstand og følge nøye med",
+    "category": "Syklister",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i mørket og opplever dårlig sikt. Hva bør du gjøre?",
+    "answers": [
+      "Tilpasse fart etter sikten",
+      "Kjøre som normalt",
+      "Slå av lysene",
+      "Kun bruke parklys"
+    ],
+    "correct_answer": "Tilpasse fart etter sikten",
+    "category": "Mørkekjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kommer til et kryss med blinkende gult lys. Hva betyr det?",
+    "answers": [
+      "Vær ekstra oppmerksom",
+      "Full stopp",
+      "Kjør fort",
+      "Motorvei"
+    ],
+    "correct_answer": "Vær ekstra oppmerksom",
+    "category": "Trafikklys",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal parkere i en bratt bakke. Hva er viktig?",
+    "answers": [
+      "Sikre bilen mot å rulle",
+      "La bilen stå i fri",
+      "Slå av håndbrems",
+      "Parkere midt i veien"
+    ],
+    "correct_answer": "Sikre bilen mot å rulle",
+    "category": "Parkering",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du blir trøtt under kjøring på motorvei. Hva bør du gjøre?",
+    "answers": [
+      "Stoppe og ta pause",
+      "Drikke kaffe og fortsette",
+      "Kjøre raskere",
+      "Åpne vinduet og ignorere trettheten"
+    ],
+    "correct_answer": "Stoppe og ta pause",
+    "category": "Tretthet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i kø og bilen bak ligger veldig nærme. Hva er riktig?",
+    "answers": [
+      "Holde roen og fokusere fremover",
+      "Bråbremse",
+      "Øke farten kraftig",
+      "Bruke horn tilbake"
+    ],
+    "correct_answer": "Holde roen og fokusere fremover",
+    "category": "Trafikkpsykologi",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du nærmer deg et område med veiarbeid og innsnevret kjørefelt. Hva gjør du?",
+    "answers": [
+      "Reduserer fart og følger skilting",
+      "Kjører raskt gjennom",
+      "Ignorerer arbeiderne",
+      "Bytter felt plutselig"
+    ],
+    "correct_answer": "Reduserer fart og følger skilting",
+    "category": "Veiarbeid",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre forbi en buss som står på holdeplass. Hva bør du være forberedt på?",
+    "answers": [
+      "Fotgjengere som krysser veien",
+      "At veien er helt tom",
+      "At bussen kjører bakover",
+      "Ingen spesielle farer"
+    ],
+    "correct_answer": "Fotgjengere som krysser veien",
+    "category": "Samhandling",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du oppdager at det er is i veibanen i en sving. Hva er riktig?",
+    "answers": [
+      "Sakke ned før svingen",
+      "Bremse hardt i svingen",
+      "Øke fart gjennom svingen",
+      "Slippe rattet"
+    ],
+    "correct_answer": "Sakke ned før svingen",
+    "category": "Glattkjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i tunnel med mye trafikk. Hva er viktig?",
+    "answers": [
+      "Holde god avstand",
+      "Kjøre tett for å slippe andre inn",
+      "Slå av nærlys",
+      "Bruke nødblink hele tiden"
+    ],
+    "correct_answer": "Holde god avstand",
+    "category": "Tunnel",
+    "theory_type": "B"
+  }
+]

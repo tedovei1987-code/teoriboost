@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du vurderer å kjøre forbi en lastebil på våt landevei med begrenset sikt. Hva er tryggest?",
+    "answers": [
+      "Vente til du har god sikt og tilstrekkelig plass",
+      "Øke farten og kjøre forbi raskt",
+      "Legge deg tett bak lastebilen før forbikjøringen"
+    ],
+    "correct_answer": "Vente til du har god sikt og tilstrekkelig plass",
+    "category": "Forbikjøring",
+    "difficulty": 3,
+    "explanation": "God sikt og tilstrekkelig sikkerhetsmargin er avgjørende ved forbikjøring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal kjøre forbi en syklist på en smal vei. Hva er viktigst?",
+    "answers": [
+      "Holde god sideavstand og tilpasse farten",
+      "Passere raskt med liten avstand",
+      "Bruke hornet kontinuerlig under forbikjøringen"
+    ],
+    "correct_answer": "Holde god sideavstand og tilpasse farten",
+    "category": "Forbikjøring",
+    "difficulty": 2,
+    "explanation": "Syklister er sårbare trafikanter og trenger god sikkerhetsmargin.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du nærmer deg en bakketopp og vurderer forbikjøring. Hva bør du gjøre?",
+    "answers": [
+      "Unngå forbikjøring dersom sikten er begrenset",
+      "Kjøre forbi raskt før toppen",
+      "Kun følge med på bilen foran"
+    ],
+    "correct_answer": "Unngå forbikjøring dersom sikten er begrenset",
+    "category": "Forbikjøring",
+    "difficulty": 2,
+    "explanation": "Begrenset sikt gjør forbikjøring farlig.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal kjøre forbi en bil på motorvei. Hva må du kontrollere før du bytter felt?",
+    "answers": [
+      "Speil, blindsone og trafikken bak",
+      "Kun bilen foran deg",
+      "At bilen ved siden av holder samme fart"
+    ],
+    "correct_answer": "Speil, blindsone og trafikken bak",
+    "category": "Forbikjøring",
+    "difficulty": 2,
+    "explanation": "Før feltskifte må du kontrollere hele trafikksituasjonen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du vurderer å kjøre forbi i mørket på en vei uten gatelys. Hva er viktig?",
+    "answers": [
+      "At du har tilstrekkelig sikt og oversikt",
+      "At bilen foran kjører under fartsgrensen",
+      "At du slår av fjernlys før forbikjøringen starter"
+    ],
+    "correct_answer": "At du har tilstrekkelig sikt og oversikt",
+    "category": "Forbikjøring",
+    "difficulty": 3,
+    "explanation": "Mørke reduserer sikten og gjør avstandsvurdering vanskeligere.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du begynner en forbikjøring og oppdager møtende trafikk tidligere enn forventet. Hva bør du gjøre?",
+    "answers": [
+      "Avbryte forbikjøringen dersom det er tryggest",
+      "Fortsette og håpe å rekke forbi",
+      "Blinke med lysene for å få møtende bil til å bremse"
+    ],
+    "correct_answer": "Avbryte forbikjøringen dersom det er tryggest",
+    "category": "Forbikjøring",
+    "difficulty": 3,
+    "explanation": "Du må alltid prioritere sikkerhet og unngå risikofylte forbikjøringer.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er en vanlig årsak til farlige forbikjøringer?",
+    "answers": [
+      "Feil vurdering av avstand og fart",
+      "For stor avstand til bilen foran",
+      "At bilen bruker nærlys"
+    ],
+    "correct_answer": "Feil vurdering av avstand og fart",
+    "category": "Forbikjøring",
+    "difficulty": 2,
+    "explanation": "Mange farlige forbikjøringer skyldes feilvurdering av tid og avstand.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal kjøre forbi et langsomt kjøretøy i regnvær. Hva må du være spesielt oppmerksom på?",
+    "answers": [
+      "Redusert veigrep og lengre bremselengde",
+      "At motoren bruker mer drivstoff",
+      "At vindusviskerne kan bli distraherende"
+    ],
+    "correct_answer": "Redusert veigrep og lengre bremselengde",
+    "category": "Forbikjøring",
+    "difficulty": 2,
+    "explanation": "Regnvær gir dårligere veigrep og øker risikoen ved forbikjøring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

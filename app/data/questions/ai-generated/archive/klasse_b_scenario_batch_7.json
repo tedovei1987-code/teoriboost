@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du kjører på en smal landevei og møter en buss i en sving. Hva bør du gjøre?",
+    "answers": [
+      "Redusere fart og gi god plass",
+      "Holde full fart",
+      "Kjøre midt i veien",
+      "Bruke horn aggressivt"
+    ],
+    "correct_answer": "Redusere fart og gi god plass",
+    "category": "Landevei",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i kraftig regn og ser at sikten blir dårligere. Hva er riktig?",
+    "answers": [
+      "Tilpasse fart etter forholdene",
+      "Øke farten",
+      "Slå av lysene",
+      "Kjøre nærmere bilen foran"
+    ],
+    "correct_answer": "Tilpasse fart etter forholdene",
+    "category": "Regn",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal skifte kjørefelt på motorvei. Hva må du gjøre først?",
+    "answers": [
+      "Sjekke speil og blindsone",
+      "Bremse hardt",
+      "Blinke etter feltbytte",
+      "Øke farten kraftig"
+    ],
+    "correct_answer": "Sjekke speil og blindsone",
+    "category": "Motorvei",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du ser en bil komme raskt bakfra mens du skal svinge av. Hva er riktig?",
+    "answers": [
+      "Signalisere tydelig og gjennomføre trygt",
+      "Bråbremse uten varsel",
+      "Svinge plutselig",
+      "Ignorere bilen bak"
+    ],
+    "correct_answer": "Signalisere tydelig og gjennomføre trygt",
+    "category": "Kjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i mørket og ser refleksvester langs veikanten. Hva bør du forvente?",
+    "answers": [
+      "Veiarbeid eller personer nær veien",
+      "Tom vei",
+      "Kun parkerte biler",
+      "At veien er stengt"
+    ],
+    "correct_answer": "Veiarbeid eller personer nær veien",
+    "category": "Mørkekjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du nærmer deg et område med mange parkerte biler og dårlig sikt. Hva gjør du?",
+    "answers": [
+      "Sakker ned og følger ekstra godt med",
+      "Kjører raskere gjennom området",
+      "Kun følger bilen foran",
+      "Ignorerer sidegatene"
+    ],
+    "correct_answer": "Sakker ned og følger ekstra godt med",
+    "category": "Bykjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du merker at bilen bruker lengre tid på å stoppe enn vanlig. Hva kan være årsaken?",
+    "answers": [
+      "Dårlig veigrep eller slitte bremser",
+      "For mye drivstoff",
+      "Sterkere motor",
+      "Feil musikkvolum"
+    ],
+    "correct_answer": "Dårlig veigrep eller slitte bremser",
+    "category": "Bilteknikk",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører inn i et område med barn som aker nær veien. Hva bør du gjøre?",
+    "answers": [
+      "Kjøre svært forsiktig",
+      "Øke farten forbi området",
+      "Bruke horn hele tiden",
+      "Kjøre midt i veien"
+    ],
+    "correct_answer": "Kjøre svært forsiktig",
+    "category": "Vinterkjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du ser at bilen foran plutselig bremser for et dyr i veien. Hva er viktigst?",
+    "answers": [
+      "Holde nok avstand til å reagere",
+      "Kjøre tett bak",
+      "Svinge brått uten å se",
+      "Øke farten"
+    ],
+    "correct_answer": "Holde nok avstand til å reagere",
+    "category": "Sikkerhet",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører i tett trafikk og føler deg stresset. Hva er riktig?",
+    "answers": [
+      "Beholde roen og fokusere på trafikken",
+      "Kjøre aggressivt",
+      "Bruke horn ofte",
+      "Bytte felt konstant"
+    ],
+    "correct_answer": "Beholde roen og fokusere på trafikken",
+    "category": "Trafikkpsykologi",
+    "theory_type": "B"
+  }
+]

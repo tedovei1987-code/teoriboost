@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du kjører inn i en tunnel og sikten endrer seg raskt. Hva bør du gjøre?",
+    "answers": [
+      "Tilpasse farten og bruke nærlys",
+      "Øke farten",
+      "Slå av lysene",
+      "Kjøre tett bak bilen foran"
+    ],
+    "correct_answer": "Tilpasse farten og bruke nærlys",
+    "category": "Tunnel",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre forbi en parkert bilrekke i byen. Hva må du være oppmerksom på?",
+    "answers": [
+      "At dører kan åpnes plutselig",
+      "Kun biler bak deg",
+      "Kun trafikklys",
+      "At veien alltid er fri"
+    ],
+    "correct_answer": "At dører kan åpnes plutselig",
+    "category": "Bykjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du merker at det er mye isspor i veien. Hva er riktig?",
+    "answers": [
+      "Kjøre rolig og unngå brå bevegelser",
+      "Kjøre raskere for bedre grep",
+      "Bremse hardt i sving",
+      "Ignorere forholdene"
+    ],
+    "correct_answer": "Kjøre rolig og unngå brå bevegelser",
+    "category": "Glattkjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kommer til et kryss der sikten er blokkert av bygninger. Hva bør du gjøre?",
+    "answers": [
+      "Redusere fart og orientere deg nøye",
+      "Kjøre rett ut",
+      "Kun følge bilen foran",
+      "Bruke horn og kjøre"
+    ],
+    "correct_answer": "Redusere fart og orientere deg nøye",
+    "category": "Kryss",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal kjøre ned en lang bakke med glatt føre. Hva er smartest?",
+    "answers": [
+      "Bruke lavt gir og motorbrems",
+      "Sette bilen i fri",
+      "Kun bruke fotbrems",
+      "Øke farten"
+    ],
+    "correct_answer": "Bruke lavt gir og motorbrems",
+    "category": "Vinterkjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du ser en syklist som signaliserer venstresving. Hva gjør du?",
+    "answers": [
+      "Gir syklisten plass og følger med",
+      "Kjører tett forbi",
+      "Bruker horn aggressivt",
+      "Ignorerer signalet"
+    ],
+    "correct_answer": "Gir syklisten plass og følger med",
+    "category": "Syklister",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du nærmer deg et område med mye fotgjengere i mørket. Hva bør du gjøre?",
+    "answers": [
+      "Sakke ned og være ekstra oppmerksom",
+      "Kjøre fort forbi",
+      "Kun se på bilen foran",
+      "Bruke horn konstant"
+    ],
+    "correct_answer": "Sakke ned og være ekstra oppmerksom",
+    "category": "Mørkekjøring",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kjører på landevei og ser at bilen foran vingler. Hva er riktig?",
+    "answers": [
+      "Holde ekstra avstand",
+      "Kjøre tett bak",
+      "Kjøre forbi umiddelbart",
+      "Bruke horn kontinuerlig"
+    ],
+    "correct_answer": "Holde ekstra avstand",
+    "category": "Risikovurdering",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du skal parkere parallelt i byen. Hva er viktig?",
+    "answers": [
+      "God kontroll og oversikt",
+      "Høy fart",
+      "Kun se fremover",
+      "Ignorere trafikken bak"
+    ],
+    "correct_answer": "God kontroll og oversikt",
+    "category": "Parkering",
+    "theory_type": "B"
+  },
+  {
+    "question": "Du kommer til et område med veiarbeid og innsnevret kjørefelt. Hva gjør du?",
+    "answers": [
+      "Tilpasser fart og følger skilting",
+      "Kjører raskt gjennom",
+      "Ignorerer varsling",
+      "Stopper uten grunn"
+    ],
+    "correct_answer": "Tilpasser fart og følger skilting",
+    "category": "Veiarbeid",
+    "theory_type": "B"
+  }
+]

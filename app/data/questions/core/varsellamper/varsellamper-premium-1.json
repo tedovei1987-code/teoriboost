@@ -1,0 +1,47 @@
+[
+  {
+    "question": "En rød oljelampe lyser under kjøring. Hva bør du gjøre?",
+    "answers": [
+      "Stoppe bilen på et trygt sted og kontrollere feilen",
+      "Fortsette til neste bensinstasjon",
+      "Ignorere lampen hvis bilen fortsatt går"
+    ],
+    "correct_answer": "Stoppe bilen på et trygt sted og kontrollere feilen",
+    "category": "Varsellamper",
+    "difficulty": 2,
+    "explanation": "Rød oljelampe kan varsle alvorlig motorskade.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr vanligvis en gul motorlampe?",
+    "answers": [
+      "At bilen bør kontrolleres så snart som mulig",
+      "At du må stoppe umiddelbart",
+      "At fjernlysene er aktivert"
+    ],
+    "correct_answer": "At bilen bør kontrolleres så snart som mulig",
+    "category": "Varsellamper",
+    "difficulty": 1,
+    "explanation": "Gule varsellamper varsler ofte feil som bør undersøkes.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "ABS-lampen lyser under kjøring. Hva kan dette bety?",
+    "answers": [
+      "ABS-systemet kan ha feil",
+      "Bremsene virker ikke i det hele tatt",
+      "At håndbrekket er aktivert"
+    ],
+    "correct_answer": "ABS-systemet kan ha feil",
+    "category": "Varsellamper",
+    "difficulty": 2,
+    "explanation": "Vanlige bremser virker ofte fortsatt, men ABS-funksjonen kan være ute av drift.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

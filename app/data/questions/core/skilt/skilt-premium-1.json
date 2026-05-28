@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du kjører på en landevei og ser et fareskilt som varsler skarp sving til høyre. Veibanen er våt. Hva er riktig vurdering?",
+    "answers": [
+      "Redusere farten før svingen",
+      "Bremse hardt midt i svingen",
+      "Holde høy fart for bedre veigrep"
+    ],
+    "correct_answer": "Redusere farten før svingen",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Farten bør reduseres før svingen for å beholde kontroll på våt vei.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt som varsler barn i nærheten av veien. Hva bør du være spesielt oppmerksom på?",
+    "answers": [
+      "At barn kan komme plutselig ut i veien",
+      "At det er forbudt å stoppe",
+      "At veien automatisk blir forkjørsvei"
+    ],
+    "correct_answer": "At barn kan komme plutselig ut i veien",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Barn kan være uforutsigbare i trafikken, og du må være klar til å reagere raskt.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i mørket og ser et fareskilt for elg. Hva er tryggest?",
+    "answers": [
+      "Redusere farten og være klar til å stoppe",
+      "Blinke med fjernlys hele tiden",
+      "Kjøre raskere for å komme ut av området"
+    ],
+    "correct_answer": "Redusere farten og være klar til å stoppe",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Store dyr kan plutselig komme ut i veien, spesielt i mørket.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du nærmer deg et skilt som varsler innsnevret vei. Det kommer møtende trafikk. Hva bør du gjøre?",
+    "answers": [
+      "Tilpasse farten og være forberedt på å vente",
+      "Kjøre først siden du allerede er nærmest",
+      "Øke farten for å komme raskt gjennom"
+    ],
+    "correct_answer": "Tilpasse farten og være forberedt på å vente",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Ved innsnevret vei må du være forberedt på begrenset plass og møtende trafikk.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt som varsler glatt kjørebane. Hva er viktigst?",
+    "answers": [
+      "Tilpasse fart og avstand etter forholdene",
+      "Holde samme fart for å unngå skrens",
+      "Bremse kraftig rett før svinger"
+    ],
+    "correct_answer": "Tilpasse fart og avstand etter forholdene",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Glatt vei krever lavere fart og større avstand til andre trafikanter.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører mot et kryss og ser et stoppskilt. Det virker ikke å være trafikk i nærheten. Hva må du gjøre?",
+    "answers": [
+      "Stoppe helt før du kjører videre",
+      "Rulle sakte gjennom hvis det ser klart ut",
+      "Kun redusere farten"
+    ],
+    "correct_answer": "Stoppe helt før du kjører videre",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Ved stoppskilt har du plikt til å stoppe helt opp.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt som viser forbikjøring forbudt. Hva betyr dette i praksis?",
+    "answers": [
+      "Du kan ikke kjøre forbi andre motorvogner",
+      "Du må redusere farten til 50 km/t",
+      "Det er forbudt å skifte kjørefelt"
+    ],
+    "correct_answer": "Du kan ikke kjøre forbi andre motorvogner",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skiltet betyr at forbikjøring av motorvogner ikke er tillatt.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører på motorvei og ser et skilt som varsler kø. Hva er riktig handling?",
+    "answers": [
+      "Redusere farten og være oppmerksom",
+      "Kjøre nærmere bilen foran",
+      "Bytte felt uten å bruke speil"
+    ],
+    "correct_answer": "Redusere farten og være oppmerksom",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Ved fare for kø må du redusere farten og følge nøye med på trafikken.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

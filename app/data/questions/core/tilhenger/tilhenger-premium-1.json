@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Du merker at tilhengeren begynner å slingre i høy fart. Hva bør du gjøre?",
+    "answers": [
+      "Redusere farten rolig og unngå brå bevegelser",
+      "Øke farten for å stabilisere hengeren",
+      "Bremse hardt umiddelbart"
+    ],
+    "correct_answer": "Redusere farten rolig og unngå brå bevegelser",
+    "category": "Tilhenger",
+    "difficulty": 3,
+    "explanation": "Brå bremsing eller styring kan gjøre slingringen verre.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal rygge med tilhenger inn på en smal plass. Hva er viktigst?",
+    "answers": [
+      "Rygge rolig og kontrollere området nøye",
+      "Svinge raskt for å komme raskere inn",
+      "Kun bruke sidespeilene uten å se bakover"
+    ],
+    "correct_answer": "Rygge rolig og kontrollere området nøye",
+    "category": "Tilhenger",
+    "difficulty": 2,
+    "explanation": "Rygging med tilhenger krever lav fart og god oversikt.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva kan skje dersom lasten i tilhengeren ikke er sikret godt nok?",
+    "answers": [
+      "Lasten kan flytte seg og påvirke stabiliteten",
+      "Drivstofforbruket blir lavere",
+      "Bremselengden blir kortere"
+    ],
+    "correct_answer": "Lasten kan flytte seg og påvirke stabiliteten",
+    "category": "Tilhenger",
+    "difficulty": 2,
+    "explanation": "Usikret last kan gjøre kjøretøyet ustabilt og farlig.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører med tung tilhenger i nedoverbakke. Hva bør du være oppmerksom på?",
+    "answers": [
+      "Lengre bremselengde og høyere belastning på bremsene",
+      "At bilen får kortere stoppdistanse",
+      "At tilhengeren automatisk stabiliserer bilen"
+    ],
+    "correct_answer": "Lengre bremselengde og høyere belastning på bremsene",
+    "category": "Tilhenger",
+    "difficulty": 2,
+    "explanation": "Tung tilhenger øker både bremselengde og risiko ved nedbremsing.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal kjøre ut på motorvei med tilhenger. Hva er viktig?",
+    "answers": [
+      "Tilpasse fart og ha god avstand til andre kjøretøy",
+      "Kjøre raskt inn uten å kontrollere trafikken",
+      "Ligge tett bak bilen foran"
+    ],
+    "correct_answer": "Tilpasse fart og ha god avstand til andre kjøretøy",
+    "category": "Tilhenger",
+    "difficulty": 2,
+    "explanation": "Kjøring med tilhenger krever større sikkerhetsmarginer.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Sterk sidevind påvirker bilen mens du kjører med tilhenger. Hva bør du gjøre?",
+    "answers": [
+      "Redusere farten og holde godt grep om rattet",
+      "Øke farten for å stabilisere kjøretøyet",
+      "Bremse hardt i hver vindkast"
+    ],
+    "correct_answer": "Redusere farten og holde godt grep om rattet",
+    "category": "Tilhenger",
+    "difficulty": 3,
+    "explanation": "Sidevind kan påvirke stabiliteten betydelig når du kjører med tilhenger.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva bør du kontrollere før du kjører med tilhenger?",
+    "answers": [
+      "At kobling, lys og last er sikret riktig",
+      "Kun at motoren på bilen fungerer",
+      "At tilhengeren er tom"
+    ],
+    "correct_answer": "At kobling, lys og last er sikret riktig",
+    "category": "Tilhenger",
+    "difficulty": 1,
+    "explanation": "Sikkerhetskontroll før kjøring er viktig for trygg transport.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal svinge skarpt med tilhenger i et trangt område. Hva må du huske?",
+    "answers": [
+      "At tilhengeren følger en trangere bane enn bilen",
+      "At tilhengeren følger nøyaktig samme spor som bilen",
+      "At du kan ignorere speilene i lave hastigheter"
+    ],
+    "correct_answer": "At tilhengeren følger en trangere bane enn bilen",
+    "category": "Tilhenger",
+    "difficulty": 2,
+    "explanation": "Tilhengeren skjærer inn i svinger og krever ekstra plass.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]
