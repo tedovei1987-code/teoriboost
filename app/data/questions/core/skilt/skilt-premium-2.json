@@ -1,0 +1,303 @@
+[
+  {
+    "question": "Du ser et fareskilt som varsler steinsprang. Hva bør du gjøre?",
+    "answers": [
+      "Redusere farten og være oppmerksom",
+      "Øke farten for å passere raskere",
+      "Kjøre nærmere bilen foran"
+    ],
+    "correct_answer": "Redusere farten og være oppmerksom",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Steinsprang kan oppstå plutselig og krever høy oppmerksomhet.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr et fareskilt med hjort eller elg?",
+    "answers": [
+      "Fare for dyr i eller ved veien",
+      "Forbud mot jakt",
+      "Innkjøring til naturreservat"
+    ],
+    "correct_answer": "Fare for dyr i eller ved veien",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skiltet varsler fare for at dyr kan krysse veien.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser skilt for vegarbeid. Hva bør du forvente?",
+    "answers": [
+      "Endrede kjøreforhold og arbeidere i området",
+      "At veien er stengt for alltid",
+      "At fartsgrensen oppheves"
+    ],
+    "correct_answer": "Endrede kjøreforhold og arbeidere i området",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Vegarbeid kan medføre innsnevringer, redusert fart og arbeidere nær veibanen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr et rundt skilt med rødt felt og tallet 60?",
+    "answers": [
+      "Høyeste tillatte hastighet er 60 km/t",
+      "Anbefalt hastighet er 60 km/t",
+      "Minste hastighet er 60 km/t"
+    ],
+    "correct_answer": "Høyeste tillatte hastighet er 60 km/t",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Runde skilt med rød kant angir påbud eller forbud.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt som varsler jernbaneovergang uten bom. Hva bør du gjøre?",
+    "answers": [
+      "Være ekstra oppmerksom og redusere farten",
+      "Kjøre raskere over sporet",
+      "Kun se til høyre"
+    ],
+    "correct_answer": "Være ekstra oppmerksom og redusere farten",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Du må selv kontrollere om det kommer tog.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr et skilt som viser forkjørsvei?",
+    "answers": [
+      "Du har forkjørsrett i kommende kryss til annet er skiltet",
+      "Andre må alltid stoppe",
+      "Du kan ignorere vikeplikt"
+    ],
+    "correct_answer": "Du har forkjørsrett i kommende kryss til annet er skiltet",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Forkjørsvei gir prioritet, men du må fortsatt kjøre aktsomt.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt som varsler syklister. Hva bør du være forberedt på?",
+    "answers": [
+      "Syklister kan krysse eller være nær veibanen",
+      "At sykler er forbudt",
+      "At veien er enveiskjørt"
+    ],
+    "correct_answer": "Syklister kan krysse eller være nær veibanen",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Skiltet varsler økt risiko for møte med syklister.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr et skilt som varsler innsnevring av veien?",
+    "answers": [
+      "Veibanen blir smalere",
+      "Veien blir bredere",
+      "Det er slutt på fartsgrensen"
+    ],
+    "correct_answer": "Veibanen blir smalere",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Innsnevret vei krever ofte lavere fart og økt oppmerksomhet.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et fareskilt for kø. Hva bør du gjøre?",
+    "answers": [
+      "Være forberedt på brå nedbremsing",
+      "Øke farten for å komme forbi køen",
+      "Kjøre nærmere bilen foran"
+    ],
+    "correct_answer": "Være forberedt på brå nedbremsing",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Kø kan oppstå plutselig og krever god avstand.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr et skilt som viser motorvei?",
+    "answers": [
+      "Du kjører inn på motorvei",
+      "Du nærmer deg en tunnel",
+      "Forbikjøring er forbudt"
+    ],
+    "correct_answer": "Du kjører inn på motorvei",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Motorveiskilt markerer start på motorvei med egne regler.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+
+  {
+    "question": "Du ser et fareskilt for sidevind. Hva bør du gjøre?",
+    "answers": [
+      "Holde godt grep om rattet og være oppmerksom",
+      "Øke farten",
+      "Kjøre nærmere midtlinjen"
+    ],
+    "correct_answer": "Holde godt grep om rattet og være oppmerksom",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Sterk sidevind kan påvirke bilens kurs.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr et skilt som viser enveiskjøring?",
+    "answers": [
+      "Trafikken går kun i én retning",
+      "Forbikjøring er forbudt",
+      "Kun busser kan kjøre der"
+    ],
+    "correct_answer": "Trafikken går kun i én retning",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Enveiskjørte veier tillater trafikk i én retning.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt som varsler skole. Hva bør påvirke kjøringen din?",
+    "answers": [
+      "Lavere fart og høyere oppmerksomhet",
+      "Kun fartsgrensen",
+      "Bilens størrelse"
+    ],
+    "correct_answer": "Lavere fart og høyere oppmerksomhet",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Barn kan være uforutsigbare trafikanter.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr et skilt som viser parkering?",
+    "answers": [
+      "Parkering er tillatt etter gjeldende regler",
+      "All stans er forbudt",
+      "Kun varebiler kan parkere"
+    ],
+    "correct_answer": "Parkering er tillatt etter gjeldende regler",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "P-skilt viser at parkering er tillatt dersom andre regler følges.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et fareskilt for glatt kjørebane og temperaturen nærmer seg frysepunktet. Hva bør du gjøre?",
+    "answers": [
+      "Redusere farten og øke avstanden",
+      "Holde samme fart",
+      "Bremse hardt i svinger"
+    ],
+    "correct_answer": "Redusere farten og øke avstanden",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Fare for is og redusert veigrep krever ekstra sikkerhetsmargin.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr et skilt som viser kollektivfelt?",
+    "answers": [
+      "Feltet er reservert for bestemte kjøretøygrupper",
+      "Alle biler må bruke feltet",
+      "Forbikjøring er påbudt"
+    ],
+    "correct_answer": "Feltet er reservert for bestemte kjøretøygrupper",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Kollektivfelt har egne regler for hvem som kan bruke dem.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et fareskilt for kryssende vei. Hva bør du være forberedt på?",
+    "answers": [
+      "Trafikk kan komme inn fra sideveier",
+      "At du automatisk har forkjørsrett",
+      "At veien blir enveiskjørt"
+    ],
+    "correct_answer": "Trafikk kan komme inn fra sideveier",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Kryssende trafikk krever økt oppmerksomhet.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr et skilt som markerer slutt på motorvei?",
+    "answers": [
+      "Motorveireglene opphører",
+      "Du må stoppe",
+      "Fartsgrensen blir alltid 50 km/t"
+    ],
+    "correct_answer": "Motorveireglene opphører",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Etter skiltet gjelder vanlige regler for veitypen du kjører inn på.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et fareskilt for møtende trafikk på en smal vei. Hva bør du gjøre?",
+    "answers": [
+      "Tilpasse farten og være forberedt på møte",
+      "Øke farten",
+      "Legge deg midt i veien"
+    ],
+    "correct_answer": "Tilpasse farten og være forberedt på møte",
+    "category": "Skilt",
+    "difficulty": 2,
+    "explanation": "Smal vei krever ekstra hensyn ved møtende trafikk.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor er fareskilt viktige?",
+    "answers": [
+      "De varsler farer slik at du kan tilpasse kjøringen",
+      "De gir deg forkjørsrett",
+      "De viser parkeringsplasser"
+    ],
+    "correct_answer": "De varsler farer slik at du kan tilpasse kjøringen",
+    "category": "Skilt",
+    "difficulty": 1,
+    "explanation": "Fareskilt gir informasjon om forhold som krever økt oppmerksomhet.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

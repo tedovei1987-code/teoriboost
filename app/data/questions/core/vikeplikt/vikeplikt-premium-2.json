@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Du kjører ut fra en parkeringsplass og inn på veien. Hvem har vikeplikt?",
+    "answers": [
+      "Du har vikeplikt for all trafikk på veien",
+      "Trafikken på veien har vikeplikt",
+      "Den som kommer fra venstre har vikeplikt"
+    ],
+    "correct_answer": "Du har vikeplikt for all trafikk på veien",
+    "category": "Vikeplikt",
+    "difficulty": 2,
+    "explanation": "Ved utkjøring fra parkeringsplass har du vikeplikt for andre trafikanter.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kommer til et kryss uten skilt. En bil kommer fra høyre samtidig som deg. Hva gjelder?",
+    "answers": [
+      "Du må vike",
+      "Bilen fra høyre må vike",
+      "Den største bilen kjører først"
+    ],
+    "correct_answer": "Du må vike",
+    "category": "Vikeplikt",
+    "difficulty": 1,
+    "explanation": "Høyreregelen gjelder når krysset ikke er regulert.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal svinge til venstre i et kryss. Hva må du normalt gjøre?",
+    "answers": [
+      "Vike for møtende trafikk",
+      "Kjøre først hvis du bruker blinklys",
+      "Kun vike for lastebiler"
+    ],
+    "correct_answer": "Vike for møtende trafikk",
+    "category": "Vikeplikt",
+    "difficulty": 1,
+    "explanation": "Ved venstresving må du normalt vike for møtende trafikk.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du nærmer deg et gangfelt hvor en fotgjenger tydelig ønsker å krysse. Hva må du gjøre?",
+    "answers": [
+      "Være klar til å stanse og slippe fotgjengeren over",
+      "Fortsette hvis du holder fartsgrensen",
+      "Blinke med lysene og kjøre videre"
+    ],
+    "correct_answer": "Være klar til å stanse og slippe fotgjengeren over",
+    "category": "Vikeplikt",
+    "difficulty": 2,
+    "explanation": "Fotgjengere i eller på vei ut i gangfelt skal gis mulighet til å krysse trygt.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal kjøre inn på en vei fra en bensinstasjon. Hva gjelder?",
+    "answers": [
+      "Du har vikeplikt for trafikken på veien",
+      "Trafikken på veien må vike",
+      "Høyreregelen gjelder alltid"
+    ],
+    "correct_answer": "Du har vikeplikt for trafikken på veien",
+    "category": "Vikeplikt",
+    "difficulty": 2,
+    "explanation": "Utkjøring fra bensinstasjon regnes som utkjøring fra eiendom.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr et trekantet vikepliktsskilt?",
+    "answers": [
+      "Du må vike for kryssende trafikk",
+      "Du har forkjørsrett",
+      "Du må stoppe helt"
+    ],
+    "correct_answer": "Du må vike for kryssende trafikk",
+    "category": "Vikeplikt",
+    "difficulty": 1,
+    "explanation": "Vikepliktsskiltet pålegger deg å vike ved behov.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører på en forkjørsvei og nærmer deg et kryss. Hva bør du likevel gjøre?",
+    "answers": [
+      "Være oppmerksom og kontrollere trafikken",
+      "Kjøre gjennom uten å observere",
+      "Øke farten"
+    ],
+    "correct_answer": "Være oppmerksom og kontrollere trafikken",
+    "category": "Vikeplikt",
+    "difficulty": 2,
+    "explanation": "Forkjørsrett fritar deg ikke fra aktsomhetsplikten.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal kjøre ut fra et gågateområde. Hva gjelder normalt?",
+    "answers": [
+      "Du har vikeplikt for annen trafikk",
+      "Du har alltid forkjørsrett",
+      "Kun syklister har forkjørsrett"
+    ],
+    "correct_answer": "Du har vikeplikt for annen trafikk",
+    "category": "Vikeplikt",
+    "difficulty": 3,
+    "explanation": "Ved utkjøring fra slike områder gjelder normalt vikeplikt.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når gjelder høyreregelen?",
+    "answers": [
+      "Når krysset ikke er regulert av skilt, lys eller politi",
+      "Kun på motorvei",
+      "Kun i boligområder"
+    ],
+    "correct_answer": "Når krysset ikke er regulert av skilt, lys eller politi",
+    "category": "Vikeplikt",
+    "difficulty": 1,
+    "explanation": "Høyreregelen er grunnregelen i uregulerte kryss.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et stoppskilt før et kryss. Hva må du gjøre?",
+    "answers": [
+      "Stoppe helt og deretter vurdere trafikken",
+      "Kun redusere farten",
+      "Kjøre videre hvis det virker klart"
+    ],
+    "correct_answer": "Stoppe helt og deretter vurdere trafikken",
+    "category": "Vikeplikt",
+    "difficulty": 2,
+    "explanation": "Stoppskilt krever full stans før videre kjøring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

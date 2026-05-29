@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Du vurderer å kjøre forbi en lastebil på en landevei. Hva er viktigst før du starter forbikjøringen?",
+    "answers": [
+      "At du har god sikt og tilstrekkelig strekning",
+      "At bilen bak holder god avstand",
+      "At du kjører raskere enn fartsgrensen"
+    ],
+    "correct_answer": "At du har god sikt og tilstrekkelig strekning",
+    "category": "Forbikjøring",
+    "difficulty": 2,
+    "explanation": "Du må være sikker på at forbikjøringen kan gjennomføres trygt uten å skape fare.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når er det normalt forbudt å kjøre forbi?",
+    "answers": [
+      "Når sikten er utilstrekkelig",
+      "Når veien er rett",
+      "Når du kjører personbil"
+    ],
+    "correct_answer": "Når sikten er utilstrekkelig",
+    "category": "Forbikjøring",
+    "difficulty": 1,
+    "explanation": "Manglende sikt gjør det umulig å vurdere møtende trafikk sikkert.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du nærmer deg en bakketopp og vurderer forbikjøring. Hva bør du gjøre?",
+    "answers": [
+      "Vente til du har full oversikt",
+      "Øke farten og kjøre forbi raskt",
+      "Starte forbikjøringen før bakketoppen"
+    ],
+    "correct_answer": "Vente til du har full oversikt",
+    "category": "Forbikjøring",
+    "difficulty": 2,
+    "explanation": "Bakketopper reduserer sikten og kan skjule møtende trafikk.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er en vanlig feil ved forbikjøring?",
+    "answers": [
+      "Å undervurdere avstanden til møtende trafikk",
+      "Å bruke blinklys",
+      "Å kontrollere speilene"
+    ],
+    "correct_answer": "Å undervurdere avstanden til møtende trafikk",
+    "category": "Forbikjøring",
+    "difficulty": 2,
+    "explanation": "Feil vurdering av avstand og fart er en vanlig årsak til alvorlige ulykker.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører bak en traktor som holder lav fart. Hva må du vurdere før forbikjøring?",
+    "answers": [
+      "Sikt, møtende trafikk og om traktoren kan svinge",
+      "Kun egen fart",
+      "Kun avstanden til bilen bak"
+    ],
+    "correct_answer": "Sikt, møtende trafikk og om traktoren kan svinge",
+    "category": "Forbikjøring",
+    "difficulty": 2,
+    "explanation": "Landbrukskjøretøy kan plutselig svinge inn på avkjørsler eller jorder.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du oppdager møtende trafikk tidligere enn forventet under forbikjøring. Hva bør du gjøre?",
+    "answers": [
+      "Avbryte forbikjøringen dersom det er tryggest",
+      "Fortsette uansett",
+      "Bruke hornet og øke farten kraftig"
+    ],
+    "correct_answer": "Avbryte forbikjøringen dersom det er tryggest",
+    "category": "Forbikjøring",
+    "difficulty": 3,
+    "explanation": "Sikkerhet kommer alltid først. Avbryt dersom situasjonen blir farlig.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor bør du holde god avstand før du kjører forbi?",
+    "answers": [
+      "For å få bedre oversikt fremover",
+      "For å spare drivstoff",
+      "For å gjøre bilen lettere å styre"
+    ],
+    "correct_answer": "For å få bedre oversikt fremover",
+    "category": "Forbikjøring",
+    "difficulty": 1,
+    "explanation": "God avstand gir bedre sikt og bedre vurderingsgrunnlag.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser et skilt som viser forbikjøring forbudt. Hva betyr det?",
+    "answers": [
+      "Du kan ikke kjøre forbi motorvogner",
+      "Du må kjøre under 50 km/t",
+      "Du må bruke venstre kjørefelt"
+    ],
+    "correct_answer": "Du kan ikke kjøre forbi motorvogner",
+    "category": "Forbikjøring",
+    "difficulty": 1,
+    "explanation": "Skiltet forbyr forbikjøring av motorvogner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal kjøre forbi en syklist på smal vei. Hva er viktig?",
+    "answers": [
+      "Gi tilstrekkelig sideavstand",
+      "Passere så raskt som mulig",
+      "Bruke hornet kontinuerlig"
+    ],
+    "correct_answer": "Gi tilstrekkelig sideavstand",
+    "category": "Forbikjøring",
+    "difficulty": 2,
+    "explanation": "Syklister er sårbare trafikanter og trenger god sikkerhetsmargin.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er viktig rett etter en forbikjøring?",
+    "answers": [
+      "Legge deg inn igjen uten å hindre den forbikjørte",
+      "Bremse for å redusere farten",
+      "Slå av blinklyset flere sekunder senere"
+    ],
+    "correct_answer": "Legge deg inn igjen uten å hindre den forbikjørte",
+    "category": "Forbikjøring",
+    "difficulty": 2,
+    "explanation": "Du må ikke kutte inn så tidlig at den forbikjørte må bremse.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

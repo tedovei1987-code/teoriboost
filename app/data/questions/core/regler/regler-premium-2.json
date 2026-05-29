@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Hvem har ansvaret for at kjøretøyet er i forskriftsmessig stand før kjøring?",
+    "answers": [
+      "Føreren",
+      "Verkstedet",
+      "Forsikringsselskapet"
+    ],
+    "correct_answer": "Føreren",
+    "category": "Regler",
+    "difficulty": 1,
+    "explanation": "Føreren har ansvar for at kjøretøyet er trafikksikkert før kjøring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er hovedregelen dersom du er usikker på hvem som har vikeplikt?",
+    "answers": [
+      "Kjøre forsiktig og unngå å skape fare",
+      "Kjøre først for å vise tydelighet",
+      "Bruke hornet og fortsette"
+    ],
+    "correct_answer": "Kjøre forsiktig og unngå å skape fare",
+    "category": "Regler",
+    "difficulty": 2,
+    "explanation": "Trafikksikkerhet går alltid foran fremkommelighet.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er formålet med trafikkreglene?",
+    "answers": [
+      "Å skape sikker og effektiv trafikk",
+      "Å gjøre kjøring vanskeligere",
+      "Å redusere antall biler"
+    ],
+    "correct_answer": "Å skape sikker og effektiv trafikk",
+    "category": "Regler",
+    "difficulty": 1,
+    "explanation": "Trafikkreglene skal bidra til sikkerhet og god trafikkflyt.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser en fotgjenger som virker usikker ved et gangfelt. Hva bør du gjøre?",
+    "answers": [
+      "Være klar til å stoppe",
+      "Kjøre videre så lenge personen står stille",
+      "Bruke hornet"
+    ],
+    "correct_answer": "Være klar til å stoppe",
+    "category": "Regler",
+    "difficulty": 2,
+    "explanation": "Du må ta hensyn til sårbare trafikanter og deres handlinger.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr aktsomhetsplikten i trafikken?",
+    "answers": [
+      "At du skal opptre hensynsfullt og unngå fare",
+      "At du alltid har forkjørsrett",
+      "At du må kjøre sakte"
+    ],
+    "correct_answer": "At du skal opptre hensynsfullt og unngå fare",
+    "category": "Regler",
+    "difficulty": 2,
+    "explanation": "Aktsomhetsplikten er en grunnregel for all ferdsel i trafikken.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du nærmer deg et område med mange syklister. Hva bør du gjøre?",
+    "answers": [
+      "Tilpasse fart og være ekstra oppmerksom",
+      "Holde høy fart for å passere raskt",
+      "Kun følge med på biler"
+    ],
+    "correct_answer": "Tilpasse fart og være ekstra oppmerksom",
+    "category": "Regler",
+    "difficulty": 2,
+    "explanation": "Syklister er sårbare trafikanter og krever ekstra hensyn.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når gjelder trafikkreglene?",
+    "answers": [
+      "All ferdsel på vei eller område åpent for alminnelig ferdsel",
+      "Kun på motorvei",
+      "Kun ved kjøring i tettbygd strøk"
+    ],
+    "correct_answer": "All ferdsel på vei eller område åpent for alminnelig ferdsel",
+    "category": "Regler",
+    "difficulty": 2,
+    "explanation": "Trafikkreglene gjelder på alle områder som er åpne for vanlig ferdsel.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva bør du gjøre dersom du er involvert i et trafikkuhell uten personskade?",
+    "answers": [
+      "Sikre stedet og utveksle nødvendig informasjon",
+      "Kjøre videre",
+      "Flytte bilen uten å snakke med noen"
+    ],
+    "correct_answer": "Sikre stedet og utveksle nødvendig informasjon",
+    "category": "Regler",
+    "difficulty": 2,
+    "explanation": "Førere har plikter også ved mindre trafikkuhell.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor er det viktig å følge trafikkreglene selv når veien virker tom?",
+    "answers": [
+      "Fordi farer kan oppstå uventet",
+      "Kun for å unngå bøter",
+      "Det er ikke nødvendig på tom vei"
+    ],
+    "correct_answer": "Fordi farer kan oppstå uventet",
+    "category": "Regler",
+    "difficulty": 1,
+    "explanation": "Reglene er laget for å håndtere både synlige og usynlige risikoer.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er det viktigste målet for en ansvarlig trafikant?",
+    "answers": [
+      "Å unngå å skape fare eller skade",
+      "Å komme raskest mulig frem",
+      "Å bruke minst mulig drivstoff"
+    ],
+    "correct_answer": "Å unngå å skape fare eller skade",
+    "category": "Regler",
+    "difficulty": 1,
+    "explanation": "Sikkerhet er alltid det viktigste hensynet i trafikken.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

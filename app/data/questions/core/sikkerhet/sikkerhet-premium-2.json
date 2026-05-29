@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Hvorfor er bilbelte viktig selv ved lave hastigheter?",
+    "answers": [
+      "Kollisjonskreftene kan være store selv ved lav fart",
+      "Bilbeltet beskytter bare ved høy fart",
+      "Bilbeltet er mest for komfort"
+    ],
+    "correct_answer": "Kollisjonskreftene kan være store selv ved lav fart",
+    "category": "Sikkerhet",
+    "difficulty": 1,
+    "explanation": "Selv lave hastigheter kan gi store krefter ved en kollisjon.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal transportere en tung gjenstand i bilen. Hva er viktigst?",
+    "answers": [
+      "Sikre lasten slik at den ikke flytter seg",
+      "Legge den løst i bagasjerommet",
+      "Plassere den på baksetet uten sikring"
+    ],
+    "correct_answer": "Sikre lasten slik at den ikke flytter seg",
+    "category": "Sikkerhet",
+    "difficulty": 2,
+    "explanation": "Usikret last kan bli livsfarlig ved bråbrems eller kollisjon.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva skjer med risikoen dersom avstanden til bilen foran blir for kort?",
+    "answers": [
+      "Risikoen for påkjørsel bakfra øker",
+      "Bremselengden blir kortere",
+      "Du får bedre oversikt"
+    ],
+    "correct_answer": "Risikoen for påkjørsel bakfra øker",
+    "category": "Sikkerhet",
+    "difficulty": 1,
+    "explanation": "Kort avstand gir mindre tid til å reagere.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du oppdager at et barn ikke har festet bilbeltet. Hva bør du gjøre?",
+    "answers": [
+      "Stoppe og sørge for at beltet brukes riktig",
+      "Fortsette siden turen er kort",
+      "Kjøre videre hvis barnet sitter bak"
+    ],
+    "correct_answer": "Stoppe og sørge for at beltet brukes riktig",
+    "category": "Sikkerhet",
+    "difficulty": 2,
+    "explanation": "Fører har ansvar for sikker transport av passasjerer.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor er nakkestøtten viktig?",
+    "answers": [
+      "Den reduserer risikoen for nakkeskader",
+      "Den forbedrer drivstofføkonomien",
+      "Den gjør bilen lettere å styre"
+    ],
+    "correct_answer": "Den reduserer risikoen for nakkeskader",
+    "category": "Sikkerhet",
+    "difficulty": 1,
+    "explanation": "Riktig justert nakkestøtte kan redusere whiplash-skader.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører på motorvei og bilen foran bremser plutselig. Hva øker sikkerheten mest?",
+    "answers": [
+      "God avstand til bilen foran",
+      "Sterkere motor",
+      "Større felger"
+    ],
+    "correct_answer": "God avstand til bilen foran",
+    "category": "Sikkerhet",
+    "difficulty": 2,
+    "explanation": "Avstand gir deg tid til å reagere og bremse kontrollert.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er en vanlig årsak til alvorlige personskader i trafikken?",
+    "answers": [
+      "Manglende bruk av sikkerhetsutstyr",
+      "For mye bruk av blinklys",
+      "For lav fart"
+    ],
+    "correct_answer": "Manglende bruk av sikkerhetsutstyr",
+    "category": "Sikkerhet",
+    "difficulty": 1,
+    "explanation": "Bilbelte og annet sikkerhetsutstyr redder liv.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal kjøre med takboks. Hva må du være oppmerksom på?",
+    "answers": [
+      "Endret kjøreegenskap og høyere tyngdepunkt",
+      "Kortere bremselengde",
+      "Bedre veigrep"
+    ],
+    "correct_answer": "Endret kjøreegenskap og høyere tyngdepunkt",
+    "category": "Sikkerhet",
+    "difficulty": 2,
+    "explanation": "Last på taket påvirker stabilitet og kjøreegenskaper.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor er det viktig å planlegge kjøringen?",
+    "answers": [
+      "For å redusere stress og risiko",
+      "For å bruke mer drivstoff",
+      "For å kjøre fortere"
+    ],
+    "correct_answer": "For å redusere stress og risiko",
+    "category": "Sikkerhet",
+    "difficulty": 1,
+    "explanation": "God planlegging gir tryggere og mer forutsigbar kjøring.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du oppdager at sikten er betydelig redusert av regn og mørke. Hva bør du gjøre?",
+    "answers": [
+      "Tilpasse fart og øke sikkerhetsmarginene",
+      "Holde samme fart som i dagslys",
+      "Kjøre nærmere bilen foran"
+    ],
+    "correct_answer": "Tilpasse fart og øke sikkerhetsmarginene",
+    "category": "Sikkerhet",
+    "difficulty": 2,
+    "explanation": "Dårlig sikt krever lavere fart og større avstand.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

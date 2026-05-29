@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Hva er en viktig fordel med miljøvennlig kjøring?",
+    "answers": [
+      "Lavere drivstofforbruk",
+      "Høyere dekkslitasje",
+      "Lengre bremselengde"
+    ],
+    "correct_answer": "Lavere drivstofforbruk",
+    "category": "Miljøkjøring",
+    "difficulty": 1,
+    "explanation": "Miljøvennlig kjøring reduserer drivstofforbruk og utslipp.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvordan bør du akselerere for å kjøre mest mulig økonomisk?",
+    "answers": [
+      "Jevnt og kontrollert",
+      "Så hardt som mulig",
+      "Kun i lave gir"
+    ],
+    "correct_answer": "Jevnt og kontrollert",
+    "category": "Miljøkjøring",
+    "difficulty": 1,
+    "explanation": "Jevn akselerasjon reduserer drivstofforbruket.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser at trafikken stopper lenger fremme. Hva er mest miljøvennlig?",
+    "answers": [
+      "Slippe gassen tidlig og rulle inn mot stoppet",
+      "Holde gassen inne til siste øyeblikk",
+      "Akselerere og deretter bremse hardt"
+    ],
+    "correct_answer": "Slippe gassen tidlig og rulle inn mot stoppet",
+    "category": "Miljøkjøring",
+    "difficulty": 2,
+    "explanation": "God planlegging reduserer unødvendig bremsing og akselerasjon.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor er riktig dekktrykk viktig for miljøet?",
+    "answers": [
+      "Det reduserer rullemotstand og drivstofforbruk",
+      "Det gjør bilen tyngre",
+      "Det øker motorstøyen"
+    ],
+    "correct_answer": "Det reduserer rullemotstand og drivstofforbruk",
+    "category": "Miljøkjøring",
+    "difficulty": 2,
+    "explanation": "Feil dekktrykk kan føre til høyere forbruk og større utslipp.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du står stille i flere minutter med motoren i gang. Hva er mest miljøvennlig?",
+    "answers": [
+      "Slå av motoren dersom det er hensiktsmessig",
+      "La motoren gå på tomgang",
+      "Øke turtallet regelmessig"
+    ],
+    "correct_answer": "Slå av motoren dersom det er hensiktsmessig",
+    "category": "Miljøkjøring",
+    "difficulty": 2,
+    "explanation": "Tomgangskjøring bruker drivstoff uten at bilen beveger seg.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva skjer med drivstofforbruket ved høy fart?",
+    "answers": [
+      "Det øker",
+      "Det synker alltid",
+      "Det påvirkes ikke"
+    ],
+    "correct_answer": "Det øker",
+    "category": "Miljøkjøring",
+    "difficulty": 1,
+    "explanation": "Luftmotstanden øker betydelig ved høyere hastigheter.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor bør du planlegge kjøringen godt?",
+    "answers": [
+      "For å redusere unødvendige stopp og akselerasjoner",
+      "For å kjøre fortere",
+      "For å bruke lavere gir hele tiden"
+    ],
+    "correct_answer": "For å redusere unødvendige stopp og akselerasjoner",
+    "category": "Miljøkjøring",
+    "difficulty": 1,
+    "explanation": "Jevn kjøring er både tryggere og mer miljøvennlig.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du nærmer deg en nedoverbakke. Hva er ofte mest økonomisk?",
+    "answers": [
+      "Utnytte farten og planlegge videre kjøring",
+      "Akselerere kraftig",
+      "Legge bilen i fri"
+    ],
+    "correct_answer": "Utnytte farten og planlegge videre kjøring",
+    "category": "Miljøkjøring",
+    "difficulty": 2,
+    "explanation": "God planlegging reduserer behovet for unødvendig gasspådrag.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvordan påvirker ekstra last drivstofforbruket?",
+    "answers": [
+      "Det øker drivstofforbruket",
+      "Det reduserer drivstofforbruket",
+      "Det påvirker ikke bilen"
+    ],
+    "correct_answer": "Det øker drivstofforbruket",
+    "category": "Miljøkjøring",
+    "difficulty": 1,
+    "explanation": "Tyngre kjøretøy krever mer energi for å bevege seg.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er et kjennetegn på miljøvennlig kjøring?",
+    "answers": [
+      "Jevn fart og god trafikkflyt",
+      "Hyppige kraftige akselerasjoner",
+      "Sen nedbremsing"
+    ],
+    "correct_answer": "Jevn fart og god trafikkflyt",
+    "category": "Miljøkjøring",
+    "difficulty": 1,
+    "explanation": "Rolig og forutsigbar kjøring gir lavere forbruk og mindre slitasje.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

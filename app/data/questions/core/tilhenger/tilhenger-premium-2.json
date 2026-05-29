@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Hva skjer vanligvis med bremselengden når du kjører med tilhenger?",
+    "answers": [
+      "Bremselengden blir lengre",
+      "Bremselengden blir kortere",
+      "Bremselengden påvirkes ikke"
+    ],
+    "correct_answer": "Bremselengden blir lengre",
+    "category": "Tilhenger",
+    "difficulty": 1,
+    "explanation": "Økt vekt gjør at kjøretøyet trenger lengre strekning for å stoppe.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er viktig før du starter kjøring med tilhenger?",
+    "answers": [
+      "Kontrollere kobling, lys og sikkerhetswire",
+      "Kun kontrollere dekkene på bilen",
+      "Kun kontrollere drivstoffnivået"
+    ],
+    "correct_answer": "Kontrollere kobling, lys og sikkerhetswire",
+    "category": "Tilhenger",
+    "difficulty": 2,
+    "explanation": "Feil kobling kan føre til svært farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvordan påvirker tung last på tilhengeren kjøreegenskapene?",
+    "answers": [
+      "Kjøretøyet blir mindre stabilt",
+      "Bilen får bedre akselerasjon",
+      "Bremselengden blir kortere"
+    ],
+    "correct_answer": "Kjøretøyet blir mindre stabilt",
+    "category": "Tilhenger",
+    "difficulty": 2,
+    "explanation": "Økt vekt krever mer forsiktig kjøring og større sikkerhetsmargin.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du merker at tilhengeren begynner å slingre under kjøring. Hva bør du gjøre?",
+    "answers": [
+      "Redusere farten kontrollert",
+      "Akselerere kraftig",
+      "Svinge raskt mot skulderen"
+    ],
+    "correct_answer": "Redusere farten kontrollert",
+    "category": "Tilhenger",
+    "difficulty": 3,
+    "explanation": "Rolig fartsreduksjon bidrar til å gjenvinne stabilitet.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor må last på tilhengeren sikres godt?",
+    "answers": [
+      "For å hindre at den flytter seg under kjøring",
+      "For å redusere drivstofforbruket",
+      "For å beskytte tilhengerfestet"
+    ],
+    "correct_answer": "For å hindre at den flytter seg under kjøring",
+    "category": "Tilhenger",
+    "difficulty": 1,
+    "explanation": "Last som flytter seg kan påvirke stabiliteten og skape farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva bør du være spesielt oppmerksom på i svinger med tilhenger?",
+    "answers": [
+      "At tilhengeren følger en annen bane enn bilen",
+      "At bilen får bedre veigrep",
+      "At bremsene blir sterkere"
+    ],
+    "correct_answer": "At tilhengeren følger en annen bane enn bilen",
+    "category": "Tilhenger",
+    "difficulty": 2,
+    "explanation": "Tilhengeren skjærer ofte mer inn i svinger enn bilen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er sikkerhetswirens oppgave?",
+    "answers": [
+      "Å holde tilhengeren koblet dersom koblingen løsner",
+      "Å redusere drivstofforbruket",
+      "Å forbedre belysningen"
+    ],
+    "correct_answer": "Å holde tilhengeren koblet dersom koblingen løsner",
+    "category": "Tilhenger",
+    "difficulty": 2,
+    "explanation": "Sikkerhetswiren er en ekstra sikkerhet dersom koblingen svikter.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal rygge med tilhenger. Hva er viktigst?",
+    "answers": [
+      "Lav fart og god observasjon",
+      "Høy fart for å bli raskt ferdig",
+      "Kun å se i bakspeilet"
+    ],
+    "correct_answer": "Lav fart og god observasjon",
+    "category": "Tilhenger",
+    "difficulty": 2,
+    "explanation": "Rygging med tilhenger krever presisjon og kontroll.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvordan påvirker tilhenger bilens akselerasjon?",
+    "answers": [
+      "Akselerasjonen blir ofte dårligere",
+      "Akselerasjonen blir bedre",
+      "Den påvirkes ikke"
+    ],
+    "correct_answer": "Akselerasjonen blir ofte dårligere",
+    "category": "Tilhenger",
+    "difficulty": 1,
+    "explanation": "Økt totalvekt gjør at bilen bruker lengre tid på å oppnå fart.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal kjøre ned en lang bakke med tung tilhenger. Hva bør du gjøre?",
+    "answers": [
+      "Tilpasse farten tidlig og bruke motorbrems",
+      "Legge bilen i fri",
+      "Bremse hardt hele veien ned"
+    ],
+    "correct_answer": "Tilpasse farten tidlig og bruke motorbrems",
+    "category": "Tilhenger",
+    "difficulty": 3,
+    "explanation": "Motorbrems reduserer belastningen på bremsene og gir bedre kontroll.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

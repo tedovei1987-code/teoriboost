@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Du kjører på en mørk landevei uten gatelys. Når bør du bruke fjernlys?",
+    "answers": [
+      "Når det ikke blender andre trafikanter",
+      "Kun når du kjører over 80 km/t",
+      "Aldri på landevei"
+    ],
+    "correct_answer": "Når det ikke blender andre trafikanter",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Fjernlys gir bedre sikt, men må ikke blende andre trafikanter.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du møter en bil i mørket. Hva bør du gjøre med fjernlyset?",
+    "answers": [
+      "Blende ned i god tid",
+      "Beholde fjernlyset på",
+      "Slå av alle lys"
+    ],
+    "correct_answer": "Blende ned i god tid",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Andre trafikanter skal ikke blendes av ditt lys.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor er blending farlig?",
+    "answers": [
+      "Den reduserer sikten og reaksjonsevnen",
+      "Den øker drivstofforbruket",
+      "Den gjør bilen vanskeligere å starte"
+    ],
+    "correct_answer": "Den reduserer sikten og reaksjonsevnen",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Blending kan gjøre at føreren mister oversikten over trafikkbildet.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører inn i en tunnel på dagtid. Hva er viktig?",
+    "answers": [
+      "At bilens lys er på",
+      "Å slå av lysene",
+      "Å øke farten"
+    ],
+    "correct_answer": "At bilens lys er på",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Lys gjør deg lettere å se i tunneler.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i tett tåke. Hva bør du gjøre?",
+    "answers": [
+      "Tilpasse farten til sikten",
+      "Bruke fjernlys hele tiden",
+      "Øke farten for å komme raskere frem"
+    ],
+    "correct_answer": "Tilpasse farten til sikten",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Dårlig sikt krever lavere fart og høyere oppmerksomhet.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva bør du gjøre hvis frontruten dugger under kjøring?",
+    "answers": [
+      "Sørge for fri sikt før du fortsetter",
+      "Ignorere det så lenge du ser litt",
+      "Åpne døren mens du kjører"
+    ],
+    "correct_answer": "Sørge for fri sikt før du fortsetter",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "God sikt er avgjørende for sikker kjøring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du blir blendet av en møtende bil. Hva er tryggest?",
+    "answers": [
+      "Se mot høyre side av veien og redusere farten",
+      "Se direkte på lysene",
+      "Blinke med fjernlys kontinuerlig"
+    ],
+    "correct_answer": "Se mot høyre side av veien og redusere farten",
+    "category": "Lys",
+    "difficulty": 3,
+    "explanation": "Dette hjelper deg å holde kursen uten å bli blendet.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor er riktig lysbruk viktig?",
+    "answers": [
+      "For å se og bli sett",
+      "Kun for å unngå bot",
+      "Bare ved kjøring i mørket"
+    ],
+    "correct_answer": "For å se og bli sett",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Lysbruk handler både om egen sikt og synlighet for andre.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i kraftig snøvær om natten. Hva bør du være spesielt oppmerksom på?",
+    "answers": [
+      "Redusert sikt og veigrep",
+      "At motoren blir varmere",
+      "At bilen bruker mindre drivstoff"
+    ],
+    "correct_answer": "Redusert sikt og veigrep",
+    "category": "Lys",
+    "difficulty": 2,
+    "explanation": "Snøvær påvirker både hva du ser og hvordan bilen oppfører seg.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når bør du kontrollere at bilens lys fungerer?",
+    "answers": [
+      "Jevnlig og før lengre kjøreturer",
+      "Kun ved EU-kontroll",
+      "Bare når det er mørkt"
+    ],
+    "correct_answer": "Jevnlig og før lengre kjøreturer",
+    "category": "Lys",
+    "difficulty": 1,
+    "explanation": "Defekte lys reduserer både sikkerhet og synlighet.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

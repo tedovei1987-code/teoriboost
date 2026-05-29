@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Hva bør du gjøre hvis den røde oljelampen lyser under kjøring?",
+    "answers": [
+      "Stoppe så snart det er trygt og undersøke bilen",
+      "Fortsette til neste service",
+      "Skru opp varmen i bilen"
+    ],
+    "correct_answer": "Stoppe så snart det er trygt og undersøke bilen",
+    "category": "Varsellamper",
+    "difficulty": 2,
+    "explanation": "Rød oljelampe kan indikere alvorlig mangel på oljetrykk og risiko for motorskade.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr det vanligvis når batterilampen lyser under kjøring?",
+    "answers": [
+      "Ladeanlegget kan ha en feil",
+      "Drivstofftanken er tom",
+      "ABS-systemet er aktivert"
+    ],
+    "correct_answer": "Ladeanlegget kan ha en feil",
+    "category": "Varsellamper",
+    "difficulty": 2,
+    "explanation": "Batterilampen varsler ofte problemer med ladingen av batteriet.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva bør du gjøre dersom bremselampen lyser rødt under kjøring?",
+    "answers": [
+      "Stoppe og kontrollere bremsesystemet",
+      "Ignorere lampen",
+      "Kjøre fortere for å teste bremsene"
+    ],
+    "correct_answer": "Stoppe og kontrollere bremsesystemet",
+    "category": "Varsellamper",
+    "difficulty": 3,
+    "explanation": "Bremsesystemet er kritisk for sikkerheten og feil må tas på alvor.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva betyr det vanligvis når ABS-lampen lyser?",
+    "answers": [
+      "ABS-systemet kan ha en feil",
+      "Motoren er overopphetet",
+      "Nærlysene er slått på"
+    ],
+    "correct_answer": "ABS-systemet kan ha en feil",
+    "category": "Varsellamper",
+    "difficulty": 2,
+    "explanation": "Vanlige bremser fungerer ofte fortsatt, men ABS-funksjonen kan være ute av drift.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser at varsellampen for kjølevæske lyser. Hva kan være risikoen?",
+    "answers": [
+      "Motoren kan bli overopphetet",
+      "Drivstofforbruket blir lavere",
+      "Bilen får bedre veigrep"
+    ],
+    "correct_answer": "Motoren kan bli overopphetet",
+    "category": "Varsellamper",
+    "difficulty": 2,
+    "explanation": "For høy motortemperatur kan føre til alvorlige skader.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva bør du gjøre dersom dekktrykkvarslingen tennes?",
+    "answers": [
+      "Kontrollere dekktrykket så snart som mulig",
+      "Øke farten",
+      "Slå av bilens lys"
+    ],
+    "correct_answer": "Kontrollere dekktrykket så snart som mulig",
+    "category": "Varsellamper",
+    "difficulty": 1,
+    "explanation": "Feil dekktrykk kan påvirke sikkerhet, veigrep og drivstofforbruk.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor er røde varsellamper vanligvis mer alvorlige enn gule?",
+    "answers": [
+      "De varsler ofte om feil som krever umiddelbar handling",
+      "De bruker mer strøm",
+      "De vises bare om vinteren"
+    ],
+    "correct_answer": "De varsler ofte om feil som krever umiddelbar handling",
+    "category": "Varsellamper",
+    "difficulty": 1,
+    "explanation": "Røde varsellamper signaliserer ofte alvorlige problemer eller sikkerhetsrisiko.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Motorlampen lyser gult, men bilen virker normal. Hva bør du gjøre?",
+    "answers": [
+      "Få bilen kontrollert så snart som praktisk mulig",
+      "Ignorere lampen permanent",
+      "Koble fra batteriet under kjøring"
+    ],
+    "correct_answer": "Få bilen kontrollert så snart som praktisk mulig",
+    "category": "Varsellamper",
+    "difficulty": 2,
+    "explanation": "En gul motorlampe kan indikere feil som bør undersøkes.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er hensikten med varsellamper i bilen?",
+    "answers": [
+      "Å informere føreren om feil eller viktige forhold",
+      "Å gjøre dashbordet penere",
+      "Å redusere drivstofforbruket"
+    ],
+    "correct_answer": "Å informere føreren om feil eller viktige forhold",
+    "category": "Varsellamper",
+    "difficulty": 1,
+    "explanation": "Varsellamper hjelper føreren med å oppdage problemer tidlig.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du får opp en rød varsellampe du ikke kjenner igjen. Hva er tryggest?",
+    "answers": [
+      "Stoppe trygt og undersøke hva lampen betyr",
+      "Fortsette som normalt",
+      "Dekke til lampen"
+    ],
+    "correct_answer": "Stoppe trygt og undersøke hva lampen betyr",
+    "category": "Varsellamper",
+    "difficulty": 2,
+    "explanation": "Ukjente røde varsler bør alltid tas på alvor.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

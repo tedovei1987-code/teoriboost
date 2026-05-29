@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Du nærmer deg et uregulert kryss hvor sikten er dårlig. Hva bør du gjøre?",
+    "answers": [
+      "Redusere farten og være klar til å stoppe",
+      "Holde fartsgrensen uansett",
+      "Kjøre raskt gjennom før andre kommer"
+    ],
+    "correct_answer": "Redusere farten og være klar til å stoppe",
+    "category": "Kryss",
+    "difficulty": 2,
+    "explanation": "Dårlig sikt krever lavere fart og økt oppmerksomhet.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er en vanlig risiko i kryss?",
+    "answers": [
+      "Trafikanter som kommer fra flere retninger",
+      "At veien alltid er rett",
+      "At alle har samme vikeplikt"
+    ],
+    "correct_answer": "Trafikanter som kommer fra flere retninger",
+    "category": "Kryss",
+    "difficulty": 1,
+    "explanation": "Kryss er områder med mange mulige konfliktpunkter.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal kjøre rett frem i et kryss med grønt lys, men trafikken står stille på andre siden. Hva bør du gjøre?",
+    "answers": [
+      "Vente til det er plass til bilen på andre siden",
+      "Kjøre inn siden du har grønt",
+      "Bruke hornet og kjøre videre"
+    ],
+    "correct_answer": "Vente til det er plass til bilen på andre siden",
+    "category": "Kryss",
+    "difficulty": 3,
+    "explanation": "Du skal ikke blokkere et kryss selv om du har grønt lys.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva bør du være ekstra oppmerksom på når du svinger til høyre i et kryss?",
+    "answers": [
+      "Fotgjengere og syklister",
+      "Kun trafikken bak deg",
+      "Kun møtende trafikk"
+    ],
+    "correct_answer": "Fotgjengere og syklister",
+    "category": "Kryss",
+    "difficulty": 2,
+    "explanation": "Myke trafikanter kan være vanskelig å oppdage i kryss.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor bør du redusere farten før et kryss selv om du har forkjørsrett?",
+    "answers": [
+      "Andre kan gjøre feil",
+      "Forkjørsrett betyr at du må stoppe",
+      "For å spare drivstoff"
+    ],
+    "correct_answer": "Andre kan gjøre feil",
+    "category": "Kryss",
+    "difficulty": 2,
+    "explanation": "God trafikksikkerhet handler også om å ta høyde for andres feil.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du nærmer deg et kryss med tett vegetasjon som hindrer sikten. Hva er tryggest?",
+    "answers": [
+      "Kjøre sakte frem og observere nøye",
+      "Kjøre raskt gjennom",
+      "Kun se til venstre"
+    ],
+    "correct_answer": "Kjøre sakte frem og observere nøye",
+    "category": "Kryss",
+    "difficulty": 2,
+    "explanation": "Dårlig sikt krever forsiktig kjøring og god observasjon.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er viktigst når du nærmer deg et kryss i mørket?",
+    "answers": [
+      "Tilpasse fart og være oppmerksom på dårligere sikt",
+      "Øke farten for å bruke mindre tid i krysset",
+      "Kun se etter biler med lys"
+    ],
+    "correct_answer": "Tilpasse fart og være oppmerksom på dårligere sikt",
+    "category": "Kryss",
+    "difficulty": 2,
+    "explanation": "Mørke gjør det vanskeligere å oppdage trafikanter og farer.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor skjer mange ulykker i kryss?",
+    "answers": [
+      "Fordi mange trafikkstrømmer møtes",
+      "Fordi det alltid er høy fart",
+      "Fordi kryss er enveiskjørte"
+    ],
+    "correct_answer": "Fordi mange trafikkstrømmer møtes",
+    "category": "Kryss",
+    "difficulty": 1,
+    "explanation": "Kryss inneholder mange konfliktpunkter mellom trafikanter.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal til venstre i et travelt kryss. Hva bør du prioritere?",
+    "answers": [
+      "God observasjon og korrekt plassering",
+      "Høy fart gjennom krysset",
+      "Kun å følge bilen foran"
+    ],
+    "correct_answer": "God observasjon og korrekt plassering",
+    "category": "Kryss",
+    "difficulty": 2,
+    "explanation": "Venstresving krever oversikt over flere trafikkretninger samtidig.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er den beste måten å redusere risiko i kryss på?",
+    "answers": [
+      "Lav fart, observasjon og planlegging",
+      "Høy fart og raske avgjørelser",
+      "Kun å stole på trafikklys"
+    ],
+    "correct_answer": "Lav fart, observasjon og planlegging",
+    "category": "Kryss",
+    "difficulty": 1,
+    "explanation": "God observasjon og riktig fart gir mer tid til å oppdage farer.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

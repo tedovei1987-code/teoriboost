@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Du kjører på glatt vintervei og ser en sving foran deg. Hva bør du gjøre?",
+    "answers": [
+      "Redusere farten før svingen",
+      "Bremse hardt inne i svingen",
+      "Øke farten for å komme raskere gjennom"
+    ],
+    "correct_answer": "Redusere farten før svingen",
+    "category": "Fart",
+    "difficulty": 2,
+    "explanation": "På glatt føre bør farten reduseres før svingen for å beholde kontrollen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor øker risikoen ved høy fart?",
+    "answers": [
+      "Du får mindre tid til å reagere",
+      "Bilen får bedre veigrep",
+      "Bremselengden blir kortere"
+    ],
+    "correct_answer": "Du får mindre tid til å reagere",
+    "category": "Fart",
+    "difficulty": 1,
+    "explanation": "Høy fart gir mindre tid til å oppdage og håndtere farer.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører gjennom et område hvor barn leker nær veien. Hva bør du gjøre?",
+    "answers": [
+      "Redusere farten betydelig",
+      "Holde fartsgrensen hvis veien er fri",
+      "Bruke hornet og fortsette"
+    ],
+    "correct_answer": "Redusere farten betydelig",
+    "category": "Fart",
+    "difficulty": 2,
+    "explanation": "Barn kan være uforutsigbare og krever ekstra sikkerhetsmargin.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva skjer med bevegelsesenergien når farten dobles?",
+    "answers": [
+      "Den øker kraftig",
+      "Den halveres",
+      "Den forblir uendret"
+    ],
+    "correct_answer": "Den øker kraftig",
+    "category": "Fart",
+    "difficulty": 3,
+    "explanation": "Økt fart gir mye høyere kollisjonsenergi og større skadepotensial.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du nærmer deg et veiarbeidsområde. Hva bør påvirke valg av fart?",
+    "answers": [
+      "Arbeidere, innsnevret vei og redusert sikkerhetsmargin",
+      "Kun bilens motorkraft",
+      "Kun fartsgrensen uten hensyn til forholdene"
+    ],
+    "correct_answer": "Arbeidere, innsnevret vei og redusert sikkerhetsmargin",
+    "category": "Fart",
+    "difficulty": 2,
+    "explanation": "Veiarbeid krever ekstra oppmerksomhet og lavere fart.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er hovedgrunnen til å holde lav fart i tettbygde strøk?",
+    "answers": [
+      "Flere myke trafikanter og flere mulige farer",
+      "Lavere drivstoffpris",
+      "Bedre motoreffekt"
+    ],
+    "correct_answer": "Flere myke trafikanter og flere mulige farer",
+    "category": "Fart",
+    "difficulty": 1,
+    "explanation": "Fotgjengere, syklister og kryss gjør risikoen større.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører bak en buss som stopper ved en holdeplass. Hva bør du gjøre?",
+    "answers": [
+      "Redusere farten og være klar til å stoppe",
+      "Kjøre forbi uten å endre fart",
+      "Bruke hornet for å varsle passasjerene"
+    ],
+    "correct_answer": "Redusere farten og være klar til å stoppe",
+    "category": "Fart",
+    "difficulty": 2,
+    "explanation": "Passasjerer kan komme ut i veibanen fra bussen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva påvirker bremselengden mest?",
+    "answers": [
+      "Fart og veigrep",
+      "Bilens farge",
+      "Antall passasjerer alene"
+    ],
+    "correct_answer": "Fart og veigrep",
+    "category": "Fart",
+    "difficulty": 1,
+    "explanation": "Høy fart og dårlig veigrep øker bremselengden betydelig.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i tett tåke. Hva bør styre farten din?",
+    "answers": [
+      "Sikten og muligheten til å stoppe innenfor synlig strekning",
+      "Fartsgrensen alene",
+      "Farten til bilen bak"
+    ],
+    "correct_answer": "Sikten og muligheten til å stoppe innenfor synlig strekning",
+    "category": "Fart",
+    "difficulty": 2,
+    "explanation": "Du må kunne stoppe på strekningen du har oversikt over.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor bør du redusere farten før en bakketopp med dårlig sikt?",
+    "answers": [
+      "Du vet ikke hva som befinner seg på den andre siden",
+      "Motoren bruker mindre olje",
+      "Bilen blir lettere å styre"
+    ],
+    "correct_answer": "Du vet ikke hva som befinner seg på den andre siden",
+    "category": "Fart",
+    "difficulty": 2,
+    "explanation": "Dårlig sikt krever lavere fart og større sikkerhetsmargin.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

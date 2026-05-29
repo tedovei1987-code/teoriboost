@@ -2,8 +2,8 @@
 
 import { useEffect, useMemo, useState } from "react";
 import Papa from "papaparse";
-import { supabase } from "../../lib/supabase";
-import { THEORY_TYPES } from "../../lib/theoryTypes";
+import { supabase } from "../../../../lib/supabase";
+import { THEORY_TYPES } from "../../../../lib/theoryTypes";
 
 type ImportQuestion = {
   question: string;

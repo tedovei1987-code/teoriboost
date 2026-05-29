@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Du har sovet dårlig og skal kjøre langt. Hva er den største risikoen?",
+    "answers": [
+      "Nedsatt oppmerksomhet og reaksjonsevne",
+      "Økt drivstofforbruk",
+      "Bedre konsentrasjon"
+    ],
+    "correct_answer": "Nedsatt oppmerksomhet og reaksjonsevne",
+    "category": "Mennesket i trafikken",
+    "difficulty": 2,
+    "explanation": "Lite søvn påvirker reaksjonstid, vurderingsevne og oppmerksomhet.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor er unge førere overrepresentert i ulykkesstatistikken?",
+    "answers": [
+      "Mindre erfaring og høyere risikovilje",
+      "Dårligere biler",
+      "Dårligere syn"
+    ],
+    "correct_answer": "Mindre erfaring og høyere risikovilje",
+    "category": "Mennesket i trafikken",
+    "difficulty": 2,
+    "explanation": "Erfaring og risikoforståelse utvikles over tid.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjenner deg sint etter en krangel rett før kjøring. Hva bør du tenke på?",
+    "answers": [
+      "Følelser kan påvirke vurderingsevnen",
+      "Sinne gjør deg mer fokusert",
+      "Følelser påvirker ikke kjøringen"
+    ],
+    "correct_answer": "Følelser kan påvirke vurderingsevnen",
+    "category": "Mennesket i trafikken",
+    "difficulty": 2,
+    "explanation": "Sterke følelser kan føre til dårligere beslutninger i trafikken.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er en vanlig konsekvens av mobilbruk under kjøring?",
+    "answers": [
+      "Oppmerksomheten flyttes bort fra trafikken",
+      "Kortere bremselengde",
+      "Bedre oversikt"
+    ],
+    "correct_answer": "Oppmerksomheten flyttes bort fra trafikken",
+    "category": "Mennesket i trafikken",
+    "difficulty": 1,
+    "explanation": "Mobilbruk reduserer oppmerksomheten og øker ulykkesrisikoen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Passasjerene dine oppfordrer deg til å kjøre fortere. Hva er riktig valg?",
+    "answers": [
+      "Kjøre etter forholdene og ignorere presset",
+      "Øke farten for å imponere dem",
+      "Kjøre aggressivt for å vise kontroll"
+    ],
+    "correct_answer": "Kjøre etter forholdene og ignorere presset",
+    "category": "Mennesket i trafikken",
+    "difficulty": 2,
+    "explanation": "Føreren har alltid ansvaret for sikkerheten.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva menes med risikoforståelse i trafikken?",
+    "answers": [
+      "Evnen til å oppdage og vurdere farer",
+      "Evnen til å kjøre raskt",
+      "Evnen til å parkere"
+    ],
+    "correct_answer": "Evnen til å oppdage og vurdere farer",
+    "category": "Mennesket i trafikken",
+    "difficulty": 2,
+    "explanation": "God risikoforståelse er en viktig del av trafikksikkerhet.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du begynner å gjespe gjentatte ganger under kjøring. Hva bør du gjøre?",
+    "answers": [
+      "Ta en pause så snart det er trygt",
+      "Skru opp musikken",
+      "Åpne vinduet og fortsette"
+    ],
+    "correct_answer": "Ta en pause så snart det er trygt",
+    "category": "Mennesket i trafikken",
+    "difficulty": 2,
+    "explanation": "Gjesping kan være et tegn på tretthet som påvirker sikkerheten.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor kan rutine være en risiko i trafikken?",
+    "answers": [
+      "Du kan bli mindre oppmerksom",
+      "Du får dårligere syn",
+      "Bilen bruker mer drivstoff"
+    ],
+    "correct_answer": "Du kan bli mindre oppmerksom",
+    "category": "Mennesket i trafikken",
+    "difficulty": 3,
+    "explanation": "Rutine kan føre til at man overser viktige detaljer i trafikkbildet.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er faren ved å overvurdere egne kjøreferdigheter?",
+    "answers": [
+      "Du kan ta større risiko enn du bør",
+      "Du blir mer forsiktig",
+      "Du får bedre reaksjonsevne"
+    ],
+    "correct_answer": "Du kan ta større risiko enn du bør",
+    "category": "Mennesket i trafikken",
+    "difficulty": 2,
+    "explanation": "Overvurdering kan føre til farlige beslutninger.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du føler deg stresset fordi du er sent ute. Hva bør du gjøre?",
+    "answers": [
+      "Akseptere forsinkelsen og kjøre trygt",
+      "Kjøre fortere enn forholdene tillater",
+      "Ta flere sjanser i trafikken"
+    ],
+    "correct_answer": "Akseptere forsinkelsen og kjøre trygt",
+    "category": "Mennesket i trafikken",
+    "difficulty": 2,
+    "explanation": "Tidspress er en vanlig årsak til risikofylt kjøring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

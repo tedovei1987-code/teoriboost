@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Du skal parkere i en bratt nedoverbakke. Hva bør du gjøre før du forlater bilen?",
+    "answers": [
+      "Sikre bilen mot å rulle",
+      "La bilen stå i fri",
+      "Holde motoren i gang"
+    ],
+    "correct_answer": "Sikre bilen mot å rulle",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Bilen må sikres slik at den ikke kan begynne å rulle av seg selv.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er hovedgrunnen til at parkering nær et gangfelt kan være farlig?",
+    "answers": [
+      "Det kan redusere sikten for fotgjengere og førere",
+      "Det skader veibanen",
+      "Det øker drivstofforbruket"
+    ],
+    "correct_answer": "Det kan redusere sikten for fotgjengere og førere",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Dårlig sikt øker risikoen for ulykker ved gangfelt.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal rygge ut fra en parkeringsplass på et kjøpesenter. Hva bør du prioritere?",
+    "answers": [
+      "God observasjon av området rundt bilen",
+      "Høy fart for å komme raskt ut",
+      "Kun å se i bakspeilet"
+    ],
+    "correct_answer": "God observasjon av området rundt bilen",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Fotgjengere og biler kan dukke opp plutselig på parkeringsområder.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er forskjellen mellom stans og parkering?",
+    "answers": [
+      "Stans er et kort opphold, parkering er et lengre opphold",
+      "Det er ingen forskjell",
+      "Parkering gjelder kun privat område"
+    ],
+    "correct_answer": "Stans er et kort opphold, parkering er et lengre opphold",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Trafikkreglene skiller mellom stans og parkering.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du finner en ledig plass nær en bakketopp. Hva bør du tenke på?",
+    "answers": [
+      "Om bilen kan hindre sikten for andre",
+      "Om bilen står nær fortauet",
+      "Om radioen har god dekning"
+    ],
+    "correct_answer": "Om bilen kan hindre sikten for andre",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Parkering ved bakketopper kan skape farlige situasjoner på grunn av dårlig sikt.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal lukeparkere langs en trafikkert gate. Hva er viktigst?",
+    "answers": [
+      "Kontrollere trafikken rundt bilen kontinuerlig",
+      "Gjøre manøveren så raskt som mulig",
+      "Kun følge med på bilen bak"
+    ],
+    "correct_answer": "Kontrollere trafikken rundt bilen kontinuerlig",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Du må ha oversikt over både biler, syklister og fotgjengere.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva bør du gjøre dersom du er usikker på om parkering er tillatt?",
+    "answers": [
+      "Kontrollere skilting og oppmerking",
+      "Parkere og håpe det går bra",
+      "Spørre en tilfeldig forbipasserende"
+    ],
+    "correct_answer": "Kontrollere skilting og oppmerking",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Skilt og vegoppmerking avgjør ofte om parkering er tillatt.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal parkere ved siden av en sykkelvei. Hva må du passe på?",
+    "answers": [
+      "At du ikke hindrer syklister eller åpner dør inn i sykkelveien",
+      "At bilen står nærmest mulig sykkelveien",
+      "At du parkerer raskt"
+    ],
+    "correct_answer": "At du ikke hindrer syklister eller åpner dør inn i sykkelveien",
+    "category": "Parkering",
+    "difficulty": 3,
+    "explanation": "Syklister er sårbare trafikanter som lett kan bli oversett.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor bør du bruke parkeringsbrems når du parkerer?",
+    "answers": [
+      "For å hindre at bilen ruller",
+      "For å spare drivstoff",
+      "For å beskytte dekkene"
+    ],
+    "correct_answer": "For å hindre at bilen ruller",
+    "category": "Parkering",
+    "difficulty": 1,
+    "explanation": "Parkeringsbremsen er en viktig sikkerhetsbarriere mot uønsket bevegelse.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal parkere på et område med mange barn. Hva bør du gjøre?",
+    "answers": [
+      "Kjøre svært sakte og være forberedt på uforutsigbare bevegelser",
+      "Bruke hornet kontinuerlig",
+      "Parkere så raskt som mulig"
+    ],
+    "correct_answer": "Kjøre svært sakte og være forberedt på uforutsigbare bevegelser",
+    "category": "Parkering",
+    "difficulty": 2,
+    "explanation": "Barn kan plutselig løpe ut mellom biler og krever ekstra oppmerksomhet.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Du skal rett frem i en rundkjøring med to felt. Hva er viktigst før du kjører inn?",
+    "answers": [
+      "Velge riktig felt og observere trafikken",
+      "Kun følge bilen foran",
+      "Kjøre inn så raskt som mulig"
+    ],
+    "correct_answer": "Velge riktig felt og observere trafikken",
+    "category": "Rundkjøring",
+    "difficulty": 2,
+    "explanation": "Riktig feltvalg og observasjon reduserer risikoen for konflikter.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvem må du normalt vike for når du skal inn i en rundkjøring?",
+    "answers": [
+      "Trafikk som allerede er inne i rundkjøringen",
+      "Kun trafikk fra høyre",
+      "Ingen dersom du holder fartsgrensen"
+    ],
+    "correct_answer": "Trafikk som allerede er inne i rundkjøringen",
+    "category": "Rundkjøring",
+    "difficulty": 1,
+    "explanation": "Trafikk inne i rundkjøringen har normalt forkjørsrett.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du oppdager sent at du skal ut av rundkjøringen. Hva bør du gjøre?",
+    "answers": [
+      "Kjøre en ekstra runde hvis nødvendig",
+      "Krysse feltene raskt",
+      "Stoppe i rundkjøringen"
+    ],
+    "correct_answer": "Kjøre en ekstra runde hvis nødvendig",
+    "category": "Rundkjøring",
+    "difficulty": 3,
+    "explanation": "Brå manøvrer i rundkjøring kan skape farlige situasjoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Når bør du normalt blinke til høyre i rundkjøring?",
+    "answers": [
+      "Når du skal ut av rundkjøringen",
+      "Når du kjører inn",
+      "Kun dersom det er mørkt"
+    ],
+    "correct_answer": "Når du skal ut av rundkjøringen",
+    "category": "Rundkjøring",
+    "difficulty": 1,
+    "explanation": "Blinklys gjør det lettere for andre trafikanter å forstå hvor du skal.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser en syklist på høyre side før utkjøringen. Hva bør du gjøre?",
+    "answers": [
+      "Kontrollere speil og blindsone nøye",
+      "Kjøre ut før syklisten",
+      "Kun følge med på bilene"
+    ],
+    "correct_answer": "Kontrollere speil og blindsone nøye",
+    "category": "Rundkjøring",
+    "difficulty": 3,
+    "explanation": "Syklister kan være vanskelige å oppdage ved utkjøring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor er lav fart viktig i rundkjøring?",
+    "answers": [
+      "Det gir bedre oversikt og kontroll",
+      "Motoren bruker mindre olje",
+      "Det gir forkjørsrett"
+    ],
+    "correct_answer": "Det gir bedre oversikt og kontroll",
+    "category": "Rundkjøring",
+    "difficulty": 1,
+    "explanation": "Lav fart gir bedre mulighet til å observere og reagere.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du nærmer deg en rundkjøring med tett trafikk. Hva bør du gjøre?",
+    "answers": [
+      "Være tålmodig og vente på en trygg luke",
+      "Kjøre inn raskt",
+      "Bruke hornet for å få plass"
+    ],
+    "correct_answer": "Være tålmodig og vente på en trygg luke",
+    "category": "Rundkjøring",
+    "difficulty": 2,
+    "explanation": "Forhastede innkjøringer kan føre til kollisjon.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er viktig ved flerfelts-rundkjøringer?",
+    "answers": [
+      "Riktig feltvalg og god observasjon",
+      "Kun høy fart",
+      "Kun å følge bilen foran"
+    ],
+    "correct_answer": "Riktig feltvalg og god observasjon",
+    "category": "Rundkjøring",
+    "difficulty": 2,
+    "explanation": "Flere felt gir flere potensielle konfliktpunkter.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører ved siden av en lastebil i rundkjøringen. Hva bør du huske?",
+    "answers": [
+      "Lastebilen kan trenge ekstra plass",
+      "Lastebilen følger alltid sitt felt",
+      "Du kan ignorere blindsonene"
+    ],
+    "correct_answer": "Lastebilen kan trenge ekstra plass",
+    "category": "Rundkjøring",
+    "difficulty": 3,
+    "explanation": "Store kjøretøy trenger ofte mer plass i rundkjøringer.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er en vanlig årsak til ulykker i rundkjøring?",
+    "answers": [
+      "Manglende observasjon ved feltbytte eller utkjøring",
+      "For lav fart",
+      "For mye bruk av blinklys"
+    ],
+    "correct_answer": "Manglende observasjon ved feltbytte eller utkjøring",
+    "category": "Rundkjøring",
+    "difficulty": 2,
+    "explanation": "Mange konflikter oppstår fordi førere overser andre trafikanter.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

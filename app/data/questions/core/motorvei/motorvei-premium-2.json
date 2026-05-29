@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Du skal flette inn på motorvei. Hva er viktigst?",
+    "answers": [
+      "Tilpasse farten til trafikken på motorveien",
+      "Stoppe på akselerasjonsfeltet",
+      "Kjøre rett ut uten observasjon"
+    ],
+    "correct_answer": "Tilpasse farten til trafikken på motorveien",
+    "category": "Motorvei",
+    "difficulty": 2,
+    "explanation": "Akselerasjonsfeltet brukes for å oppnå passende fart før innfletting.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor er god avstand ekstra viktig på motorvei?",
+    "answers": [
+      "Fordi farten er høyere",
+      "Fordi veien er bredere",
+      "Fordi det er færre biler"
+    ],
+    "correct_answer": "Fordi farten er høyere",
+    "category": "Motorvei",
+    "difficulty": 1,
+    "explanation": "Høy fart gir lengre reaksjons- og bremsestrekning.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du oppdager kø på motorveien. Hva bør du gjøre?",
+    "answers": [
+      "Redusere farten gradvis og være oppmerksom",
+      "Bremse hardt i siste øyeblikk",
+      "Kjøre nærmere bilen foran"
+    ],
+    "correct_answer": "Redusere farten gradvis og være oppmerksom",
+    "category": "Motorvei",
+    "difficulty": 2,
+    "explanation": "Gradvis fartsreduksjon reduserer risikoen for påkjørsel bakfra.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er hovedregelen for venstre felt på motorvei?",
+    "answers": [
+      "Det brukes hovedsakelig til forbikjøring",
+      "Det er alltid raskeste felt",
+      "Det er for lastebiler"
+    ],
+    "correct_answer": "Det brukes hovedsakelig til forbikjøring",
+    "category": "Motorvei",
+    "difficulty": 1,
+    "explanation": "Etter forbikjøring bør du normalt legge deg tilbake i høyre felt.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du kjører i kraftig regnvær på motorvei. Hva bør du være ekstra oppmerksom på?",
+    "answers": [
+      "Vannplaning og redusert sikt",
+      "Økt veigrep",
+      "Kortere bremselengde"
+    ],
+    "correct_answer": "Vannplaning og redusert sikt",
+    "category": "Motorvei",
+    "difficulty": 2,
+    "explanation": "Regnvær kan redusere kontrollen over bilen betydelig.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva bør du gjøre dersom du kjører feil og passerer avkjøringen din?",
+    "answers": [
+      "Fortsette til neste avkjøring",
+      "Rygge tilbake på motorveien",
+      "Stoppe i kjørefeltet"
+    ],
+    "correct_answer": "Fortsette til neste avkjøring",
+    "category": "Motorvei",
+    "difficulty": 2,
+    "explanation": "Rygging eller stans på motorvei er svært farlig.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du skal kjøre forbi en lastebil på motorvei. Hva bør du tenke på?",
+    "answers": [
+      "Store blindsoner og behov for sikkerhetsmargin",
+      "At lastebilen alltid ser deg",
+      "At lastebilen må flytte seg"
+    ],
+    "correct_answer": "Store blindsoner og behov for sikkerhetsmargin",
+    "category": "Motorvei",
+    "difficulty": 2,
+    "explanation": "Store kjøretøy har betydelige blindsoner.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er en vanlig årsak til alvorlige motorveiulykker?",
+    "answers": [
+      "For kort avstand mellom kjøretøy",
+      "For mye bruk av blinklys",
+      "For lav fart"
+    ],
+    "correct_answer": "For kort avstand mellom kjøretøy",
+    "category": "Motorvei",
+    "difficulty": 2,
+    "explanation": "Kort avstand gir liten tid til å reagere på hendelser foran.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du begynner å føle deg trøtt på motorveien. Hva er tryggest?",
+    "answers": [
+      "Ta pause ved første egnede sted",
+      "Skru opp musikken og fortsette",
+      "Øke farten for å komme raskere frem"
+    ],
+    "correct_answer": "Ta pause ved første egnede sted",
+    "category": "Motorvei",
+    "difficulty": 2,
+    "explanation": "Tretthet reduserer reaksjonsevnen og øker ulykkesrisikoen.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor bør du følge med langt frem i trafikken på motorvei?",
+    "answers": [
+      "For å oppdage endringer tidlig og planlegge kjøringen",
+      "For å kunne kjøre fortere",
+      "For å slippe å bruke speilene"
+    ],
+    "correct_answer": "For å oppdage endringer tidlig og planlegge kjøringen",
+    "category": "Motorvei",
+    "difficulty": 1,
+    "explanation": "Tidlig observasjon gir mer tid til å reagere og tilpasse kjøringen.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Hvorfor er riktig lufttrykk i dekkene viktig?",
+    "answers": [
+      "For veigrep, sikkerhet og drivstofføkonomi",
+      "Kun for komfort",
+      "Kun for å unngå dekkslitasje"
+    ],
+    "correct_answer": "For veigrep, sikkerhet og drivstofføkonomi",
+    "category": "Teknisk",
+    "difficulty": 1,
+    "explanation": "Riktig lufttrykk påvirker både sikkerhet, dekkslitasje og drivstofforbruk.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du oppdager at bremsene føles svakere enn normalt. Hva bør du gjøre?",
+    "answers": [
+      "Få bilen kontrollert så snart som mulig",
+      "Fortsette som normalt",
+      "Kjøre fortere for å teste bremsene"
+    ],
+    "correct_answer": "Få bilen kontrollert så snart som mulig",
+    "category": "Teknisk",
+    "difficulty": 2,
+    "explanation": "Bremsesystemet er avgjørende for trafikksikkerheten.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er hovedoppgaven til ABS-bremsesystemet?",
+    "answers": [
+      "Hindre at hjulene låser seg ved bremsing",
+      "Forkorte all bremselengde",
+      "Øke motoreffekten"
+    ],
+    "correct_answer": "Hindre at hjulene låser seg ved bremsing",
+    "category": "Teknisk",
+    "difficulty": 2,
+    "explanation": "ABS hjelper føreren å beholde styring under kraftig bremsing.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser at en varsellampe for motoren lyser under kjøring. Hva bør du gjøre?",
+    "answers": [
+      "Undersøke årsaken og følge bilens instruksjoner",
+      "Ignorere lampen",
+      "Slå av bilens lys"
+    ],
+    "correct_answer": "Undersøke årsaken og følge bilens instruksjoner",
+    "category": "Teknisk",
+    "difficulty": 2,
+    "explanation": "Varsellamper skal tas på alvor for å unngå skade eller fare.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva kan skje dersom mønsterdybden på dekkene er for liten?",
+    "answers": [
+      "Veigrepet blir dårligere",
+      "Bilen bruker mindre drivstoff",
+      "Bremsene fungerer bedre"
+    ],
+    "correct_answer": "Veigrepet blir dårligere",
+    "category": "Teknisk",
+    "difficulty": 1,
+    "explanation": "Lite mønster gir dårligere grep, spesielt på vått føre.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du oppdager at vindusviskerne ikke fungerer godt i regnvær. Hva bør du gjøre?",
+    "answers": [
+      "Bytte eller reparere dem",
+      "Kjøre fortere",
+      "Kun bruke spylervæske"
+    ],
+    "correct_answer": "Bytte eller reparere dem",
+    "category": "Teknisk",
+    "difficulty": 1,
+    "explanation": "God sikt er avgjørende for sikker kjøring.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor er det viktig å kontrollere bilens lys jevnlig?",
+    "answers": [
+      "For å se og bli sett i trafikken",
+      "For å redusere drivstofforbruket",
+      "For å forbedre motorens ytelse"
+    ],
+    "correct_answer": "For å se og bli sett i trafikken",
+    "category": "Teknisk",
+    "difficulty": 1,
+    "explanation": "Defekte lys kan skape farlige situasjoner.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hva er risikoen ved for lite olje i motoren?",
+    "answers": [
+      "Motoren kan bli skadet",
+      "Bilen får bedre akselerasjon",
+      "Bremselengden blir kortere"
+    ],
+    "correct_answer": "Motoren kan bli skadet",
+    "category": "Teknisk",
+    "difficulty": 2,
+    "explanation": "Olje smører motoren og hindrer unødvendig slitasje.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Du ser at kjølevæsketemperaturen stiger unormalt høyt. Hva bør du gjøre?",
+    "answers": [
+      "Stoppe på et trygt sted og undersøke bilen",
+      "Fortsette til temperaturen blir normal",
+      "Øke farten for å kjøle ned motoren"
+    ],
+    "correct_answer": "Stoppe på et trygt sted og undersøke bilen",
+    "category": "Teknisk",
+    "difficulty": 3,
+    "explanation": "Overoppheting kan føre til alvorlige motorskader.",
+    "theory_type": "scenario",
+    "exam_relevant": true,
+    "image_url": null
+  },
+  {
+    "question": "Hvorfor er regelmessig vedlikehold viktig?",
+    "answers": [
+      "For å opprettholde sikkerhet og driftssikkerhet",
+      "Kun for å øke bilens verdi",
+      "Kun for å spare drivstoff"
+    ],
+    "correct_answer": "For å opprettholde sikkerhet og driftssikkerhet",
+    "category": "Teknisk",
+    "difficulty": 1,
+    "explanation": "Vedlikehold bidrar til å oppdage feil før de blir farlige.",
+    "theory_type": "standard",
+    "exam_relevant": true,
+    "image_url": null
+  }
+]
