@@ -66,7 +66,8 @@ const plans: {
 export default function PricingPage() {
   const searchParams = useSearchParams();
   const reason = searchParams.get("reason");
-  const showFreemiumPaywall = reason === "free-limit";
+  const showFreemiumPaywall =
+  reason === "free-limit" || reason === "ai-explanation";
 
   const [loadingPlan, setLoadingPlan] = useState<Plan | null>(null);
   const [errorMessage, setErrorMessage] = useState("");

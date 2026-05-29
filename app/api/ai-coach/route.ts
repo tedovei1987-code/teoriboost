@@ -53,6 +53,18 @@ const allowedTrafficWords = [
   "rus",
   "belte",
   "last",
+  "fokusere",
+"fokus",
+"trene",
+"trening",
+"svakhet",
+"svakheter",
+"øve",
+"lære",
+"teoriapp",
+"teoriboost",
+"bestå",
+"eksamen",
 ];
 
 const isTrafficQuestion = allowedTrafficWords.some((word) =>
@@ -97,6 +109,14 @@ Du skal:
 - skrive naturlig norsk
 - bruke emojis av og til 🚗
 - aldri være streng eller dømmende
+- svare med 2-6 setninger som standard
+- unngå lange vegger med tekst
+- bruke punktliste kun når det gjør forklaringen enklere
+- forklare hvordan temaet kan dukke opp på teoriprøven
+- gi en enkel huskeregel når det passer
+- bruke brukerens svake områder når det er relevant
+- få eleven til å føle mestring
+- være som en trygg og pedagogisk kjørelærer
 
 Svar som en menneskelig coach.
 `,

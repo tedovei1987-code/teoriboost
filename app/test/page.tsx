@@ -30,6 +30,7 @@ const TEST_QUESTION_LIMIT = 20;
 export default function TestPage() {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [answerOptions, setAnswerOptions] = useState<
+  
   Record<string, string[]>
 >({});
   const [current, setCurrent] = useState(0);
@@ -40,6 +41,9 @@ export default function TestPage() {
   const [hasAccess, setHasAccess] = useState(false);
   const [loading, setLoading] = useState(true);
   const [activePlan, setActivePlan] = useState<string | null>(null);
+  
+const [freeQuestionsUsed, setFreeQuestionsUsed] = useState(0);
+
   const [adaptiveMode, setAdaptiveMode] = useState(false);
   const [weakFocus, setWeakFocus] = useState<string[]>([]);
   const [comboStreak, setComboStreak] = useState(0);
@@ -314,18 +318,25 @@ setLoading(false);
     if (!user) return;
 
     const { data: profile } = await supabase
-      .from("profiles")
-      .select("xp")
-      .eq("id", user.id)
-      .single();
+  .from("profiles")
+  .select("xp, free_questions_used")
+  .eq("id", user.id)
+  .single();
 
     const currentXp = profile?.xp ?? 0;
+setFreeQuestionsUsed(
+  profile?.free_questions_used ?? 0
+);
 
     await supabase
       .from("profiles")
       .update({
-        xp: currentXp + finalXp,
-      })
+  xp: currentXp + finalXp,
+  free_questions_used:
+    activePlan === "free"
+      ? freeQuestionsUsed + questions.length
+      : freeQuestionsUsed,
+})
       .eq("id", user.id);
 
     await supabase.from("test_results").insert({
@@ -398,7 +409,11 @@ setLoading(false);
   }
 async function explainWrongAnswer() {
   if (!question || !selected) return;
-
+if (!hasAccess && activePlan !== "premium") {
+  window.location.href =
+    "/pricing?reason=ai-explanation";
+  return;
+}
   setAiExplanationLoading(true);
   setAiExplanation("");
 
@@ -450,10 +465,10 @@ Forklar kort, enkelt og pedagogisk på norsk.
   }
 }
   async function nextQuestion() {
-  if (
-    activePlan === "free" &&
-    current >= 19
-  ) {
+ if (
+  activePlan === "free" &&
+  freeQuestionsUsed >= 20
+) {
    window.location.href = "/pricing?reason=free-limit";
 return;
   }
