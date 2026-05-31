@@ -221,13 +221,17 @@ const [freeQuestionsUsed, setFreeQuestionsUsed] = useState(0);
 
     const subscription = await getActiveSubscription(user.id);
 
-    if (!subscription) {
-  setHasAccess(true);
-  setActivePlan("free");
-} else {
-  setHasAccess(true);
-  setActivePlan(subscription.plan);
+   
+
+ if (!subscription) {
+  setHasAccess(false);
+  setActivePlan(null);
+  setLoading(false);
+  return;
 }
+
+setHasAccess(true);
+
 
     const { data: questionData, error: questionError } =
       await supabase
@@ -409,7 +413,7 @@ setFreeQuestionsUsed(
   }
 async function explainWrongAnswer() {
   if (!question || !selected) return;
-if (!hasAccess && activePlan !== "premium") {
+if (!hasAccess && activePlan !== "free") {
   window.location.href =
     "/pricing?reason=ai-explanation";
   return;
@@ -545,7 +549,60 @@ return;
       </main>
     );
   }
+if (finished && activePlan === "free") {
+  return (
+    <main className="relative flex min-h-screen items-center justify-center bg-[#030712] px-6 py-12 text-white">
+      <div className="w-full max-w-2xl rounded-3xl border border-[#FF4D6D]/30 bg-white/5 p-10 text-center">
+        <p className="text-sm font-bold uppercase tracking-[0.3em] text-[#3EE6B0]">
+          Gratis test fullført
+        </p>
 
+        <h1 className="mt-4 text-5xl font-black">
+          {score} / {questions.length} riktige
+        </h1>
+
+        <p className="mt-4 text-xl text-white/70">
+          Du har nå brukt gratisdelen av TeoriBoost.
+        </p>
+
+        <div className="mt-8 rounded-3xl border border-[#FF4D6D]/30 bg-[#FF4D6D]/10 p-6 text-left">
+          <h2 className="text-3xl font-black text-white">
+            Ikke risiker å stryke på teoriprøven 🚗
+          </h2>
+
+          <p className="mt-4 text-lg leading-relaxed text-white/75">
+            Over 40 % stryker på teoriprøven. Stryker du, må du betale{" "}
+            <span className="font-black text-[#FF4D6D]">480 kr</span>{" "}
+            for ny prøve hos Statens vegvesen — og vente{" "}
+            <span className="font-black text-[#FF4D6D]">2 uker</span>{" "}
+            før du kan prøve igjen.
+          </p>
+
+          <div className="mt-6 rounded-2xl border border-white/10 bg-black/20 p-5">
+            <p className="font-bold text-white">
+              Oppgrader for å få tilgang til:
+            </p>
+
+            <ul className="mt-4 space-y-3 text-white/70">
+              <li>✓ Ubegrensede tester</li>
+              <li>✓ AI-Malin</li>
+              <li>✓ Eksamenstrening</li>
+              <li>✓ Trening på svake områder</li>
+              <li>✓ XP, streak og dashboard analyse</li>
+            </ul>
+          </div>
+        </div>
+
+        <a
+          href="/pricing?reason=free-limit"
+          className="mt-10 block w-full rounded-2xl bg-[#3EE6B0] px-8 py-4 text-xl font-black text-[#03120F]"
+        >
+          Se planer og oppgrader
+        </a>
+      </div>
+    </main>
+  );
+}
   if (finished) {
     return (
       <main className="relative flex min-h-screen items-center justify-center bg-[#030712] px-6 py-12 text-white">

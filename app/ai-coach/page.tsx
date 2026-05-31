@@ -49,10 +49,11 @@ const [malinReplies, setMalinReplies] = useState<string[]>([]);
       const subscription = await getActiveSubscription(user.id);
 
      if (!subscription) {
-  setHasAccess(true);
-} else {
-  setHasAccess(true);
+  setHasAccess(false);
+  return;
 }
+
+setHasAccess(true);
 
       setHasAccess(true);
 

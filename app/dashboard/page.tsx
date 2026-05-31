@@ -1,17 +1,24 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useRouter } from "next/navigation";
 import { supabase } from "../lib/supabase";
-import { getActiveSubscription } from "../lib/subscription";
+import {
+  getActiveSubscription,
+  hasPremiumAccess,
+} from "../lib/subscription";
 
 const ranks = [
   { name: "Ny sjåfør", minXp: 0 },
   { name: "Lærling", minXp: 100 },
   { name: "Trafikkhelt", minXp: 250 },
   { name: "Veimester", minXp: 500 },
-  { name: "TeoriBoss", minXp: 1000 },
+  { name: "TeoriNinja", minXp: 1000 },
+  { name: "TeoriBoss", minXp: 2500 },
+  { name: "TeoriMaster", minXp: 5000 },
+  { name: "TeoriLegend", minXp: 10000 },
+  { name: "TeoriGud", minXp: 25000 },
 ];
-
 const theoryLabels: Record<string, string> = {
   B: "Klasse B",
   BE: "Klasse BE",
@@ -56,6 +63,7 @@ type WeakCategory = {
 };
 
 type Achievement = {
+  
   id: string;
   unlocked_at: string;
   achievements: {
@@ -65,8 +73,21 @@ type Achievement = {
     xp_reward: number;
   } | null;
 };
+type AchievementWithProgress = {
+  id: string;
+  key: string;
+  title: string;
+  description: string;
+  icon: string;
+  xp_reward: number;
+  requirement_type: string;
+  requirement_value: number;
+  progress: number;
+  unlocked: boolean;
+};
 
 export default function DashboardPage() {
+  const router = useRouter();
   const [email, setEmail] = useState("");
   const [theoryType, setTheoryType] = useState<string | null>(null);
   const [plan, setPlan] = useState("Ingen plan");
@@ -79,6 +100,8 @@ export default function DashboardPage() {
   const [dailyCompleted, setDailyCompleted] = useState(false);
   const [timeUntilNext, setTimeUntilNext] = useState("");
   const [achievements, setAchievements] = useState<Achievement[]>([]);
+  const [allAchievements, setAllAchievements] = useState<any[]>([]);
+  const [isPremium, setIsPremium] = useState(false);
 
   useEffect(() => {
     getUserData();
@@ -139,7 +162,40 @@ export default function DashboardPage() {
 
     return Math.min(Math.max(progress, 0), 100);
   }
+function getAchievementProgress(achievement: any) {
+  if (achievement.requirement_type === "xp") {
+    return Math.min(Math.round((xp / achievement.requirement_value) * 100), 100);
+  }
 
+  if (achievement.requirement_type === "streak") {
+    return Math.min(
+      Math.round((streak / achievement.requirement_value) * 100),
+      100
+    );
+  }
+
+  if (achievement.requirement_type === "tests_completed") {
+    return Math.min(
+      Math.round((testResults.length / achievement.requirement_value) * 100),
+      100
+    );
+  }
+if (achievement.requirement_type === "exam_passed") {
+  const passedExams = testResults.filter(
+    (result) =>
+      result.total_questions === 45 &&
+      result.score >= 38
+  ).length;
+
+  return Math.min(
+    Math.round(
+      (passedExams / achievement.requirement_value) * 100
+    ),
+    100
+  );
+}
+  return 0;
+}
   function formatDate(date: string | null) {
     if (!date) return "Ingen aktiv utløpsdato";
 
@@ -274,12 +330,14 @@ export default function DashboardPage() {
     const subscription = await getActiveSubscription(user.id);
 
     if (subscription) {
-      setPlan(subscription.plan);
-      setExpiresAt(subscription.expires_at);
-    } else {
-      setPlan("Ingen plan");
-      setExpiresAt(null);
-    }
+  setPlan(subscription.plan);
+  setExpiresAt(subscription.expires_at);
+  setIsPremium(hasPremiumAccess(subscription.plan));
+} else {
+  setPlan("Ingen plan");
+  setExpiresAt(null);
+  setIsPremium(false);
+}
 
     const { data: results, error: resultsError } = await supabase
       .from("test_results")
@@ -348,6 +406,18 @@ export default function DashboardPage() {
       );
 
       setAchievements(normalizedAchievements);
+      const { data: allAchievementsData, error: allAchievementsError } =
+  await supabase
+    .from("achievements")
+    .select("*")
+    .order("requirement_value", { ascending: true });
+
+if (allAchievementsError) {
+  console.log("ALL ACHIEVEMENTS ERROR:", allAchievementsError);
+  setAllAchievements([]);
+} else {
+  setAllAchievements(allAchievementsData ?? []);
+}
     }
 
     setLoading(false);
@@ -358,24 +428,37 @@ export default function DashboardPage() {
     window.location.href = "/login";
   }
 
-  const { currentRank, nextRank } = getRank(xp);
-  const progressPercent = getProgressPercent(xp);
+const { currentRank, nextRank } = getRank(xp);
+const progressPercent = getProgressPercent(xp);
+
+
   const latestResult = testResults[0];
   const recentResults = testResults.slice(0, 5);
   const maxWeakCount = weakCategories[0]?.count ?? 1;
   const weakestCategory = weakCategories[0];
   const averageScore = getAverageScore(testResults);
   const examReadiness = getExamReadiness();
+  const unlockedAchievementTitles = new Set(
+  achievements
+    .map((item) => item.achievements?.title)
+    .filter(Boolean)
+);
+
+const achievementProgress = allAchievements.map((achievement) => ({
+  ...achievement,
+  progress: getAchievementProgress(achievement),
+  unlocked: unlockedAchievementTitles.has(achievement.title),
+}));
 
   const activeTheoryLabel = theoryType
     ? theoryLabels[theoryType] ?? theoryType
     : "Ikke valgt";
 
   const weakTrainingUrl = weakestCategory
-    ? `/test?category=${encodeURIComponent(
-        weakestCategory.category
-      )}&adaptive=true`
-    : "/test";
+  ? `/weak-test?category=${encodeURIComponent(
+      weakestCategory.category
+    )}`
+  : "/weak-test";
 
   if (loading) {
     return (
@@ -424,7 +507,7 @@ export default function DashboardPage() {
               href="/ai-coach"
               className="rounded-2xl bg-[#39FFB6] px-6 py-4 text-center font-bold text-[#03120F] hover:bg-[#2edfa3]"
             >
-              Åpne AI Coach
+              Åpne AI-Malin
             </a>
 
             <button
@@ -454,30 +537,30 @@ export default function DashboardPage() {
 
             <div className="mt-8 grid gap-4 sm:grid-cols-3">
               <a
-                href={weakTrainingUrl}
+                href={isPremium ? weakTrainingUrl : "/pricing?reason=premium-required"}
                 className="rounded-2xl bg-[#39FFB6] px-6 py-4 text-center font-black text-[#03120F] hover:bg-[#2edfa3]"
               >
                 {weakestCategory ? "Tren svakeste område" : "Start test"}
               </a>
 
               <a
-                href="/exam"
+                href={isPremium ? "/exam" : "/pricing?reason=premium-required"}
                 className="rounded-2xl border border-white/10 bg-white/5 px-6 py-4 text-center font-bold text-white hover:border-pink-400/50"
               >
                 Eksamenstest
               </a>
 
               <a
-                href="/ai-coach"
+                href={isPremium ? "/ai-coach" : "/pricing?reason=premium-required"}
                 className="rounded-2xl border border-white/10 bg-white/5 px-6 py-4 text-center font-bold text-white hover:border-[#39FFB6]/50"
               >
-                AI Coach
+                AI-Malin
               </a>
             </div>
           </div>
 
           <div className="rounded-3xl border border-cyan-400/20 bg-[#071028] p-8">
-            <p className="text-white/60">Exam readiness</p>
+            <p className="text-white/60">Eksamensklar</p>
 
             <h2 className={`mt-4 text-6xl font-black ${getReadinessColor(examReadiness)}`}>
               {examReadiness}%
@@ -545,38 +628,26 @@ export default function DashboardPage() {
         </div>
 
         <div className="mb-8 grid gap-6 md:grid-cols-2 xl:grid-cols-4">
-          <div className="rounded-3xl border border-cyan-400/20 bg-[#071028] p-8">
-            <p className="text-white/60">XP</p>
-
-            <h2 className="mt-4 text-5xl font-black text-[#39FFB6]">
-              {xp} XP
-            </h2>
-
-            <p className="mt-3 text-sm text-white/40">
-              Total progresjonspoeng.
-            </p>
-          </div>
-
           <div className="rounded-3xl border border-[#39FFB6]/20 bg-[#071028] p-8">
-            <p className="text-white/60">Rank</p>
+  <p className="text-white/60">Rank</p>
 
-            <h2 className="mt-4 text-4xl font-black text-[#39FFB6]">
-              {currentRank.name}
-            </h2>
+  <h2 className="mt-4 text-4xl font-black text-[#39FFB6]">
+    {currentRank.name}
+  </h2>
 
-            <div className="mt-5 h-3 rounded-full bg-white/10">
-              <div
-                className="h-3 rounded-full bg-[#39FFB6]"
-                style={{ width: `${progressPercent}%` }}
-              />
-            </div>
+  <div className="mt-5 h-3 rounded-full bg-white/10">
+    <div
+      className="h-3 rounded-full bg-[#39FFB6]"
+      style={{ width: `${progressPercent}%` }}
+    />
+  </div>
 
-            <p className="mt-3 text-sm text-white/50">
-              {nextRank
-                ? `${nextRank.minXp - xp} XP til ${nextRank.name}`
-                : "Maks rank nådd"}
-            </p>
-          </div>
+  <p className="mt-3 text-sm text-white/50">
+    {nextRank
+      ? `${xp} XP · Neste Rank: ${nextRank.name}`
+      : `${xp} XP · Maks Rank nådd`}
+  </p>
+</div>
 
           <div className="rounded-3xl border border-purple-400/20 bg-[#071028] p-8">
             <p className="text-white/60">Aktiv plan</p>
@@ -641,7 +712,7 @@ export default function DashboardPage() {
               <h2 className="mt-2 text-3xl font-black">Svake områder</h2>
 
               <p className="mt-2 text-sm text-white/50">
-                Klikk på en kategori for å starte adaptiv trening.
+                Klikk på en kategori for å trene på svake områder.
               </p>
             </div>
 
@@ -807,33 +878,49 @@ export default function DashboardPage() {
             </div>
           ) : (
             <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">
-              {achievements.slice(0, 6).map((achievement) => (
+              {achievementProgress.slice(0, 6).map((achievement) => (
                 <div
                   key={achievement.id}
                   className="rounded-3xl border border-yellow-400/20 bg-black/20 p-6"
                 >
                   <div className="flex items-start justify-between gap-4">
                     <div className="text-5xl">
-                      {achievement.achievements?.icon ?? "🏅"}
+                      <div className="text-5xl">
+  {achievement.icon ?? "🏅"}
+</div>
                     </div>
 
                     <div className="rounded-2xl bg-yellow-400/10 px-4 py-2 text-sm font-bold text-yellow-300">
-                      +{achievement.achievements?.xp_reward ?? 0} XP
+                      +{achievement.xp_reward ?? 0} XP
                     </div>
                   </div>
 
                   <h3 className="mt-6 text-2xl font-black">
-                    {achievement.achievements?.title ?? "Achievement"}
+                    {achievement.title}
                   </h3>
 
                   <p className="mt-3 text-white/60">
-                    {achievement.achievements?.description ??
-                      "Badge låst opp."}
+                    {achievement.description}
                   </p>
+<div className="mt-4">
+  <div className="h-2 rounded-full bg-white/10">
+    <div
+      className={`h-2 rounded-full ${
+        achievement.unlocked
+          ? "bg-yellow-300"
+          : "bg-[#39FFB6]"
+      }`}
+      style={{ width: `${achievement.progress}%` }}
+    />
+  </div>
 
-                  <p className="mt-5 text-sm text-white/40">
-                    Låst opp: {formatDate(achievement.unlocked_at)}
-                  </p>
+  <p className="mt-2 text-xs text-white/50">
+    {achievement.unlocked
+      ? "Achievement unlocked"
+      : `${achievement.progress}% fullført`}
+  </p>
+</div>
+
                 </div>
               ))}
             </div>
@@ -876,18 +963,18 @@ export default function DashboardPage() {
           </a>
 
           <a
-            href={weakTrainingUrl}
+            href={isPremium ? weakTrainingUrl : "/pricing?reason=premium-required"}
             className="group rounded-3xl border border-[#FF4D6D]/20 bg-[#071028] p-10 text-left transition hover:scale-[1.02] hover:border-[#FF4D6D]/50"
           >
             <div className="text-5xl transition group-hover:scale-110">🎯</div>
 
-            <h3 className="mt-6 text-3xl font-black">Weak-area test</h3>
+            <h3 className="mt-6 text-3xl font-black">Test på svake områder</h3>
 
             <p className="mt-3 text-white/60">
               {weakestCategory
-                ? `Tren målrettet på ${weakestCategory.category}.`
-                : "Starter adaptiv test når svake områder mangler."}
-            </p>
+                ? `Fokuser på ${weakestCategory.category} for å forbedre resultatene dine.`
+                : "Starter en smart test til vi finner områder du bør fokusere på."}
+              </p>
 
             <div className="mt-6 inline-flex rounded-2xl bg-red-400/10 px-4 py-2 text-sm font-bold text-red-300">
               Smart fokus
@@ -941,17 +1028,17 @@ export default function DashboardPage() {
             </p>
 
             <div className="mt-6 inline-flex rounded-2xl bg-yellow-400/10 px-4 py-2 text-sm font-bold text-yellow-300">
-              Konkurrer globalt
+              Konkurrer nasjonalt
             </div>
           </a>
 
           <a
-            href="/ai-coach"
+            href={isPremium ? "/ai-coach" : "/pricing?reason=premium-required"}
             className="group rounded-3xl border border-[#39FFB6]/20 bg-[#39FFB6]/10 p-10 text-left transition hover:scale-[1.02] hover:border-[#39FFB6]/60"
           >
             <div className="text-5xl transition group-hover:scale-110">🧠</div>
 
-            <h3 className="mt-6 text-3xl font-black">AI Coach</h3>
+            <h3 className="mt-6 text-3xl font-black">AI-Malin</h3>
 
             <p className="mt-3 text-white/60">
               {weakestCategory

@@ -8,7 +8,7 @@ if (!stripeSecretKey) {
 }
 
 const stripe = new Stripe(stripeSecretKey, {
-  apiVersion: "2026-04-22.dahlia",
+  apiVersion: "2026-05-27.dahlia",
 });
 
 const prices = {
@@ -40,7 +40,6 @@ export async function POST(request: Request) {
 
     const session = await stripe.checkout.sessions.create({
       mode: "payment",
-      payment_method_collection: "always",
       payment_method_types: ["card"],
       line_items: [
         {
@@ -70,7 +69,12 @@ export async function POST(request: Request) {
 
     return NextResponse.json({ url: session.url });
   } catch (error) {
-    console.log("CHECKOUT ERROR:", error);
+    console.error("CHECKOUT ERROR FULL:", error);
+
+if (error instanceof Error) {
+  console.error("MESSAGE:", error.message);
+  console.error("STACK:", error.stack);
+}
 
     return NextResponse.json(
       { error: "Kunne ikke starte betaling" },

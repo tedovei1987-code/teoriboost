@@ -267,10 +267,9 @@ export default function WeakTestPage() {
       setHasAccess(true);
 
       const { data: wrongAnswers, error: wrongAnswersError } = await supabase
-        .from("wrong_answers")
-        .select("category")
-        .eq("user_id", user.id)
-        .eq("theory_type", profile.theory_type);
+  .from("wrong_answers")
+  .select("category")
+  .eq("user_id", user.id);
 
       if (wrongAnswersError) {
         console.log("WEAK TEST WRONG ANSWERS ERROR:", wrongAnswersError);
@@ -528,7 +527,7 @@ export default function WeakTestPage() {
   if (loading) {
     return (
       <main className="flex min-h-screen items-center justify-center bg-[#030712] text-white">
-        Laster svakhetstest...
+        Laster Test på svake områder...
       </main>
     );
   }

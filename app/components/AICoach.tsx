@@ -32,7 +32,7 @@ const malinMessages = {
     "Jeg er her for å hjelpe deg med å skjønne feilene dine 🧠",
     "Klar for litt teori, litt kaos og litt mestring? 😭",
     "I dag gjør vi deg litt mer eksamensklar 🚦",
-    "Hei sjåfør 😎 Skal vi styrke weak areas i dag?",
+    "Hei sjåfør 😎 Skal vi styrke svake i dag?",
     "La oss bygge ekte trafikkforståelse, ikke bare pugge svar.",
     "Du møter opp. Det er allerede en seier 👏",
     "Teoriprøven skal ikke få ta deg så lett 😄",
@@ -119,7 +119,7 @@ const malinMessages = {
   weakArea: [
     "Dette området trenger litt ekstra kjærlighet.",
     "Her mister du fortsatt en del poeng.",
-    "Dette er et tydelig weak area akkurat nå.",
+    "Dette er et av områdene du bør fokusere mest på akkurat nå.",
     "La oss prioritere dette i neste test.",
     "Du er på vei, men dette sitter ikke helt enda.",
     "Dette er akkurat typen feil vi kan fikse raskt.",
@@ -136,7 +136,7 @@ const malinMessages = {
     "Her må vi bygge tryggere forståelse.",
     "Dette kan bli en styrke hvis vi trener riktig.",
     "Du er ikke langt unna å få kontroll her.",
-    "La oss gjøre dette weak area til strong area.",
+    "La oss gjøre dette området til en av dine sterkeste kategorier.",
   ],
 
   streak: [

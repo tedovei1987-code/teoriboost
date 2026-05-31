@@ -24,8 +24,8 @@ const plans: {
     features: [
       "Adaptive teoritester",
       "XP og rank-system",
-      "Dashboard analytics",
-      "AI Coach-anbefalinger",
+      "Dashbord analyse",
+      "AI-Malin-anbefalinger",
       "Daily Challenge",
     ],
   },
@@ -39,7 +39,7 @@ const plans: {
     highlighted: true,
     features: [
       "Alt i Starter",
-      "Weak-area trening",
+      "Svake områder trening",
       "Eksamenstest",
       "Achievement-system",
       "Testhistorikk",
@@ -57,7 +57,7 @@ const plans: {
       "Langsiktig progresjon",
       "Mer stabil eksamenstrening",
       "Leaderboard",
-      "Full AI Coach-flow",
+      "Full AI-Malin tilgang",
       "Best verdi over tid",
     ],
   },
@@ -123,8 +123,8 @@ export default function PricingPage() {
           </h1>
 
           <p className="mx-auto mt-6 max-w-3xl text-xl text-white/60">
-            Full tilgang til adaptive tester, AI Coach, eksamenstrening,
-            weak-area trening, XP, achievements og dashboard analytics.
+            Start gratis med 20 faste spørsmål. Oppgrader for adaptive tester, AI-Malin som hjelper deg å forstå feilene dine, eksamenstrening, trening på svake områder, XP og dashboard analyse.
+            
           </p>
 
           {showFreemiumPaywall && (
@@ -156,9 +156,9 @@ export default function PricingPage() {
 
                 <ul className="mt-4 space-y-3 text-sm text-white/70">
                   <li>✓ Ubegrensede tester</li>
-                  <li>✓ AI-Malin</li>
+                  <li>✓ AI-Coach Malin</li>
                   <li>✓ Eksamenstrening</li>
-                  <li>✓ Weak-area analyse</li>
+                  <li>✓ Svake områder analyse</li>
                   <li>✓ XP + achievements</li>
                 </ul>
               </div>
@@ -180,7 +180,7 @@ export default function PricingPage() {
           <div className="rounded-3xl border border-[#4FF4D4]/20 bg-[#4FF4D4]/10 p-6 text-center">
             <p className="text-sm text-white/50">Inkludert</p>
             <p className="mt-2 text-2xl font-black text-[#4FF4D4]">
-              AI Coach
+              AI-Malin som personlig Coach
             </p>
           </div>
 
@@ -199,11 +199,67 @@ export default function PricingPage() {
           </div>
         </div>
 
-        <div className="mt-12 grid gap-8 lg:grid-cols-3">
+        <div className="mt-12 grid gap-8 lg:grid-cols-4">
+        <div className="relative flex h-full flex-col rounded-3xl border border-white/10 bg-white/5 p-8 md:p-10">
+  <div className="flex min-h-[220px] flex-col">
+    <h2 className="text-3xl font-black">Freemium</h2>
+
+    <p className="mt-4 text-white/60">
+      En liten smakebit av TeoriBoost.
+    </p>
+
+    <div className="mt-8">
+      <p className="text-sm font-bold uppercase tracking-[0.2em] text-white/40">
+        Begrenset tilgang
+      </p>
+
+      <div className="mt-3 text-5xl font-black">0 kr</div>
+    </div>
+  </div>
+
+  <div className="mt-8 flex-1 space-y-3">
+    <div className="flex items-start gap-3">
+      <span className="mt-1 text-[#4FF4D4]">✓</span>
+      <p className="text-white/70">20 faste spørsmål</p>
+    </div>
+
+    <div className="flex items-start gap-3">
+      <span className="mt-1 text-[#4FF4D4]">✓</span>
+      <p className="text-white/70">Samme spørsmål hver gang</p>
+    </div>
+
+    <div className="flex items-start gap-3">
+      <span className="mt-1 text-[#4FF4D4]">✓</span>
+      <p className="text-white/70">Begrenset dashboard</p>
+    </div>
+
+    <div className="flex items-start gap-3">
+      <span className="mt-1 text-[#FF4D6D]">✕</span>
+      <p className="text-white/70">Ingen AI-Malin</p>
+    </div>
+
+    <div className="flex items-start gap-3">
+      <span className="mt-1 text-[#FF4D6D]">✕</span>
+      <p className="text-white/70">Ingen eksamenstest</p>
+    </div>
+
+    <div className="flex items-start gap-3">
+      <span className="mt-1 text-[#FF4D6D]">✕</span>
+      <p className="text-white/70">Ingen ubegrenset teoriøving</p>
+    </div>
+  </div>
+
+  <a
+    href="/free-test"
+    className="mt-10 block w-full rounded-2xl border border-white/10 px-6 py-4 text-center text-xl font-bold text-white transition hover:bg-white/5"
+  >
+    Start gratis
+  </a>
+</div>
           {plans.map((plan) => (
             <div
               key={plan.id}
-              className={`relative rounded-3xl p-8 md:p-10 ${
+              className={`relative flex h-full flex-col rounded-3xl p-8 md:p-10 ${
                 plan.highlighted
                   ? "border border-[#4FF4D4] bg-[#4FF4D4]/10 shadow-2xl shadow-[#4FF4D4]/10"
                   : "border border-white/10 bg-white/5"
@@ -231,7 +287,7 @@ export default function PricingPage() {
                 </div>
               </div>
 
-              <div className="mt-8 space-y-3">
+              <div className="mt-8 flex-1 space-y-3">
                 {plan.features.map((feature) => (
                   <div key={feature} className="flex items-start gap-3">
                     <span className="mt-1 text-[#4FF4D4]">✓</span>
@@ -264,8 +320,8 @@ export default function PricingPage() {
             <h3 className="text-2xl font-black">Hva får du?</h3>
 
             <p className="mt-4 text-white/60">
-              Tilgang til hele TeoriBoost-systemet med tester, AI Coach,
-              progresjon, weak-area analyse og eksamenstrening.
+              Tilgang til hele TeoriBoost-systemet med tester, AI-Malin, din 
+              progresjon, målrettet trening på svake områder og eksamenstrening.
             </p>
           </div>
 

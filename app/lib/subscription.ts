@@ -18,3 +18,10 @@ export async function getActiveSubscription(userId: string) {
 
   return data;
 }
+export function hasPremiumAccess(plan: string | null) {
+  if (!plan) return false;
+
+  return ["starter", "boost", "premium"].includes(
+    plan.toLowerCase()
+  );
+}

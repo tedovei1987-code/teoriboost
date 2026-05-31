@@ -94,7 +94,7 @@ export default function ChooseTheoryPage() {
       return;
     }
 
-    router.push("/dashboard");
+   router.push("/pricing?reason=new-user");
   }
 
   function getSelectedDescription() {
@@ -207,7 +207,7 @@ export default function ChooseTheoryPage() {
             disabled={!selected || loading}
             className="w-full rounded-2xl bg-[#39FFB6] py-5 text-lg font-black text-[#03120F] transition hover:bg-[#2edfa3] disabled:cursor-not-allowed disabled:opacity-40"
           >
-            {loading ? "Lagrer..." : "Fortsett til dashboard"}
+            {loading ? "Lagrer..." : "Velg tilgang"}
           </button>
         </div>
       </section>
